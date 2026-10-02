@@ -1,0 +1,118 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Aurora Saigon home" [ref=e4]:
+        - img "Aurora Saigon" [ref=e5]
+      - navigation "Primary" [ref=e7]:
+        - button "Ready-to-ship" [ref=e8]
+        - button "Engagement Rings" [ref=e9]
+        - button "Wedding Rings" [ref=e10]
+        - button "Craftsmanship" [ref=e11]
+        - button "Showroom" [ref=e12]
+      - generic [ref=e13]:
+        - group "Currency" [ref=e14]:
+          - button "VND" [pressed] [ref=e15]
+          - button "USD" [ref=e16]
+          - button "EUR" [ref=e17]
+        - button "Open cart, 0 items" [ref=e18]:
+          - text: Bag
+          - generic [ref=e19]: "0"
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - heading [level=1] [ref=e22]:
+        - text: Frequently asked
+        - emphasis [ref=e23]: questions
+      - generic [ref=e25]:
+        - tablist "FAQ category" [ref=e26]:
+          - tab "Products4" [selected] [ref=e27]
+          - tab "Shipping1" [ref=e29]
+          - tab "Payment1" [ref=e30]
+        - list [ref=e31]:
+          - listitem [ref=e32]:
+            - heading [level=3] [ref=e33]:
+              - button "What materials are your rings made from?" [ref=e34]
+            - paragraph [ref=e38]: We offer a selection of fine metals including 9k, 14k, and 18k gold in white, yellow, and rose tones, as well as platinum for those seeking a premium, naturally white finish.
+          - listitem [ref=e39]:
+            - heading [level=3] [ref=e40]:
+              - button "Where are your rings manufactured?" [ref=e41]
+            - paragraph [ref=e45]: All of our jewellery is crafted in our dedicated workshop in Bangkok, Thailand—a global hub for fine jewellery manufacturing. Thailand is renowned for its highly skilled artisans, generations of craftsmanship expertise, and exceptional attention to detail, particularly in gemstone setting and gold work. By producing in Bangkok, we are able to combine traditional hand-finishing techniques with modern precision, ensuring consistently high quality while maintaining better control over production and value for our customers.
+          - listitem [ref=e46]:
+            - heading [level=3] [ref=e47]:
+              - button "Are your diamonds and gemstones natural or lab-grown?" [ref=e48]
+            - paragraph [ref=e52]: We offer both lab-grown diamonds and natural diamonds, giving you the flexibility to choose based on your preferences, values, and budget.
+          - listitem [ref=e53]:
+            - heading [level=3] [ref=e54]:
+              - button "Do you offer custom or made-to-order jewellery?" [ref=e55]
+            - paragraph [ref=e59]: Yes, we specialise in custom and made-to-order jewellery. Each piece can be tailored to your preferences, including the design, metal, gemstone, and finishing details. Whether you’re creating an engagement ring or adapting one of our existing designs, our team will guide you through the process—from initial concept to final craftsmanship—to ensure the piece is uniquely yours.
+  - contentinfo [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=e63]
+        - paragraph [ref=e64]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=e65]:
+          - generic [ref=e66]: Email address
+          - textbox "Email address" [ref=e67]:
+            - /placeholder: Your email address
+          - button "Join" [ref=e68]
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - img "Aurora Saigon" [ref=e71]
+          - generic [ref=e72]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=e73]:
+            - link "sales@aurorasaigon.com" [ref=e74] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=e75] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=e76]:
+            - listitem [ref=e77]:
+              - link "Facebook" [ref=e78] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=e81]:
+              - link "Instagram" [ref=e82] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=e87]:
+              - link "YouTube" [ref=e88] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=e92]:
+          - heading "All about Aurora" [level=2] [ref=e93]
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - link "About Aurora Saigon" [ref=e96] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e97]:
+              - link "5 Reasons Why" [ref=e98] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/5reasonswhy
+            - listitem [ref=e99]:
+              - link "Contact Us" [ref=e100] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/contact
+        - navigation "Guides" [ref=e101]:
+          - heading "Guides" [level=2] [ref=e102]
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - link "Ring Size Guide" [ref=e105] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=e106]:
+              - link "Journal" [ref=e107] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=e108]:
+          - heading "Support" [level=2] [ref=e109]
+          - list [ref=e110]:
+            - listitem [ref=e111]:
+              - link "Shipping & Returns" [ref=e112] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/en/returns-policy
+            - listitem [ref=e113]:
+              - link "Payment Methods" [ref=e114] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/payment-methods
+            - listitem [ref=e115]:
+              - link "Privacy Policy" [ref=e116] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/privacy-policy
+            - listitem [ref=e117]:
+              - link "Warranty Policy" [ref=e118] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/warranty-policy
+            - listitem [ref=e119]:
+              - link "Customer Supplied Gemstone Policy" [ref=e120] [cursor=pointer]:
+                - /url: https://aurorasaigon.com/customer-supplied-gemstone-policy
+            - listitem [ref=e121]:
+              - link "FAQ" [ref=e122] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=e123]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

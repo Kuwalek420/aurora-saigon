@@ -1,0 +1,92 @@
+{
+  "source": "https://aurorasaigon.com",
+  "scrapedAt": "2026-10-01T07:41:06.535Z",
+  "headings": [
+    "Things to consider before taking your measurements.",
+    "Measure an existing ring.",
+    "Tell me my size!",
+    "Already know your size in another countries standard?"
+  ],
+  "considerations": [
+    "The fingers on your dominant hand tend to be larger than those on your non-dominant hand.",
+    "Measure your finger at its normal size, as cold weather can cause your fingers to shrink and hot weather and washing your hands in hot water can make your hand swell.",
+    "Medications and illness can cause the fingers to swell."
+  ],
+  "steps": [
+    "Select an existing ring that fits the desired finger.",
+    "Measure the internal dimmensions of the ring in mm.",
+    "Use the below chart to determine your ring size."
+  ],
+  "conversionNote": "For your convenience, use our useful conversion table below to see which US ring size you are. Our rings match US/Canada standards.",
+  "pdf": "/content/ring-size-guide.pdf",
+  "table": {
+    "columns": [
+      "Internal Diameter (MM)",
+      "US",
+      "Europe",
+      "UK/AU"
+    ],
+    "rows": [
+      [
+        "14.8",
+        "4",
+        "47",
+        "H"
+      ],
+      [
+        "15.7",
+        "5",
+        "50",
+        "J"
+      ],
+      [
+        "16.5",
+        "6",
+        "52",
+        "L"
+      ],
+      [
+        "17.3",
+        "7",
+        "55",
+        "N"
+      ],
+      [
+        "18.1",
+        "8",
+        "57",
+        "P"
+      ],
+      [
+        "18.9",
+        "9",
+        "60",
+        "R"
+      ],
+      [
+        "19.8",
+        "10",
+        "62",
+        "T"
+      ],
+      [
+        "20.6",
+        "11",
+        "64",
+        "V"
+      ],
+      [
+        "21.5",
+        "12",
+        "67",
+        "X"
+      ],
+      [
+        "22.3",
+        "13",
+        "69",
+        "Z"
+      ]
+    ]
+  }
+}

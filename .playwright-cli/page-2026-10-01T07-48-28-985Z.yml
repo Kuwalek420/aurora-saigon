@@ -1,0 +1,135 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Aurora Saigon home" [ref=e4]:
+        - img "Aurora Saigon" [ref=e5]
+      - navigation "Primary" [ref=e7]:
+        - button "Ready-to-ship" [ref=e8]
+        - button "Engagement Rings" [ref=e9]
+        - button "Wedding Rings" [ref=e10]
+        - button "Craftsmanship" [ref=e11]
+        - button "Showroom" [ref=e12]
+      - generic [ref=e13]:
+        - group "Currency" [ref=e14]:
+          - button "VND" [pressed] [ref=e15]
+          - button "USD" [ref=e16]
+          - button "EUR" [ref=e17]
+        - button "Open cart, 0 items" [ref=e18]:
+          - text: Bag
+          - generic [ref=e19]: "0"
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - heading [level=1] [ref=e22]:
+        - text: 5 Reasons Why
+        - emphasis [ref=e23]: Aurora Saigon
+      - img "Pear-shaped gemstone rings by Aurora Saigon" [ref=e24]
+      - paragraph [ref=e25]: At Aurora, we believe that meaningful jewellery is more than the sum of its parts. Our customers love our genuine gemstones and modern iconic designs, but they also love our jewellery for the way a piece of jewellery makes you feel, the meaning behind the stone, and all lovingly designed in Ho Chi Minh City and handcrafted in Bangkok!
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - figure [ref=e28]:
+            - img "beautiful aurora saigon jewellery" [ref=e29]
+          - generic [ref=e30]:
+            - paragraph [aria-hidden] [ref=e31]: "01"
+            - heading "Gems as authentic as you are" [level=2] [ref=e32]
+            - paragraph [ref=e33]: Fall in love with jewellery as authentic as you are. Aurora fans are crushing on our ethereal polished gemstones and one-of-a-kind raw crystals. From birthstone jewellery to Millennial approved engagement rings, authentic gemstones bring personal meaning and metaphysical power in ways that only the real thing can. We exclusively use natural gemstones in every piece we sell because real women call for real gems.
+        - generic [ref=e34]:
+          - figure [ref=e35]:
+            - img "pear gemstone rings and pear shaped moonstone pendant from Aurora Saigon" [ref=e36]
+          - generic [ref=e37]:
+            - paragraph [aria-hidden] [ref=e38]: "02"
+            - heading "Unique & iconic designs" [level=2] [ref=e39]
+            - paragraph [ref=e40]: Build a jewelry collection that goes beyond the basics. Women are obsessing over our glammed up stacking rings, and hopping on waitlists to get their hands on our latest styles. We release new jewelry for pre-order to give our most loyal fans first access to fresh styles. With our approachable pricing and pieces designed to mix and match, it’s easier than ever to shop for inspiring jewelry that elevates your everyday look.
+        - generic [ref=e41]:
+          - figure [ref=e42]:
+            - img "Moonstone collection from aurora saigon" [ref=e43]
+          - generic [ref=e44]:
+            - paragraph [aria-hidden] [ref=e45]: "03"
+            - heading "Surprisingly affordable prices" [level=2] [ref=e46]
+            - paragraph [ref=e47]: Treat yourself to stunning gemstone jewellery without the splurge. At Aurora, we believe in making jewellery more accessible for everyone. Our unique business model enables us to bring gorgeous, high quality jewellery straight to your door for less than you’d expect. Since we don’t have expensive storefronts and only offer jewellery that our customers adore, we can create for less, reduce waste, and keep our prices fair.
+        - generic [ref=e48]:
+          - figure [ref=e49]:
+            - img "certification of gemstones available at Aurora Saigon Vietnam Ho Chi Minh" [ref=e50]
+          - generic [ref=e51]:
+            - paragraph [aria-hidden] [ref=e52]: "04"
+            - heading "Independent gemmology lab certification" [level=2] [ref=e53]
+            - paragraph [ref=e54]: At Aurora, all our gemstones are sent for evaluation at an independent gemmology lab to make sure all our jewellery is authentic. There are no hidden surprises and we go beyond what any other jewellery brand does and provides you with the actual certificate from the gemmology lab. All the spiritual meaning and mystical powers of gemstones can only come from authentic items. Unlike some other brands, who just test one item in a batch, we test them all! This is how we believe the jewellery industry should be. Far too often jewellery brands hide the quality of the gemstones with highly treated products or even try to sell fake synthetic stones as natural and real.
+        - generic [ref=e55]:
+          - figure [ref=e56]:
+            - img "Best quality oval Swiss Blue Topaz ring with stunning white topaz set shank." [ref=e57]
+          - generic [ref=e58]:
+            - paragraph [aria-hidden] [ref=e59]: "05"
+            - heading "Trust & amazing service" [level=2] [ref=e60]
+            - paragraph [ref=e61]: When you join the Aurora community, you’re connected with like-minded fashion lovers who rave about our personalised service and swoon over our beautiful designs. We’ve built our brand on transparency and trust, and our friendly team is always ready to assist with your order and make sure your experience is as perfect as possible.
+      - button "Book Private Viewing in Thảo Điền" [ref=e63]
+  - contentinfo [ref=e64]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=e67]
+        - paragraph [ref=e68]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=e69]:
+          - generic [ref=e70]: Email address
+          - textbox "Email address" [ref=e71]:
+            - /placeholder: Your email address
+          - button "Join" [ref=e72]
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - img "Aurora Saigon" [ref=e75]
+          - generic [ref=e76]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=e77]:
+            - link "sales@aurorasaigon.com" [ref=e78] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=e79] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - link "Facebook" [ref=e82] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=e85]:
+              - link "Instagram" [ref=e86] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=e91]:
+              - link "YouTube" [ref=e92] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=e96]:
+          - heading "All about Aurora" [level=2] [ref=e97]
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - link "About Aurora Saigon" [ref=e100] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e101]:
+              - link "5 Reasons Why" [ref=e102] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=e103]:
+              - link "Contact Us" [ref=e104] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=e105]:
+          - heading "Guides" [level=2] [ref=e106]
+          - list [ref=e107]:
+            - listitem [ref=e108]:
+              - link "Ring Size Guide" [ref=e109] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=e110]:
+              - link "Journal" [ref=e111] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=e112]:
+          - heading "Support" [level=2] [ref=e113]
+          - list [ref=e114]:
+            - listitem [ref=e115]:
+              - link "Shipping & Returns" [ref=e116] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=e117]:
+              - link "Payment Methods" [ref=e118] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=e119]:
+              - link "Privacy Policy" [ref=e120] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e121]:
+              - link "Warranty Policy" [ref=e122] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=e123]:
+              - link "Customer Supplied Gemstone Policy" [ref=e124] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=e125]:
+              - link "FAQ" [ref=e126] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=e127]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "AS-354-WR-YS-CARTER",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-354-WR-YS-CARTER",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-354-WR-YS-CARTER",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-355-WR-YS-ESTHER",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-355-WR-YS-ESTHER",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-355-WR-YS-ESTHER",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-356-WR-YS-FREYA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-356-WR-YS-FREYA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-356-WR-YS-FREYA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-356-WR-YS-JORDAN",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-356-WR-YS-JORDAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-356-WR-YS-JORDAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-357-WR-YS-NOLAN",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-357-WR-YS-NOLAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-357-WR-YS-NOLAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-358-WR-YS-ZOEY",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-358-WR-YS-ZOEY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-358-WR-YS-ZOEY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-368-WR-YG-CHLOE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-368-WR-YG-CHLOE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-368-WR-YG-CHLOE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-369-WR-YG-NETTA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-369-WR-YG-NETTA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-369-WR-YG-NETTA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-370-WR-YG-AVERY",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-370-WR-YG-AVERY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-370-WR-YG-AVERY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-371-WR-YG-LAYLA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-371-WR-YG-LAYLA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-371-WR-YG-LAYLA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-372-WR-YG-ELIE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-372-WR-YG-ELIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-372-WR-YG-ELIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-373-WR-YG-ELIE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-373-WR-YG-ELIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-373-WR-YG-ELIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-374-WR-YG-PENELOPE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-374-WR-YG-PENELOPE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-374-WR-YG-PENELOPE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-375-WR-YG-ARIA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-375-WR-YG-ARIA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-375-WR-YG-ARIA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-376-WR-YG-MADISON",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-376-WR-YG-MADISON",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-376-WR-YG-MADISON",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-378-WR-YG-MILA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-378-WR-YG-MILA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-378-WR-YG-MILA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-379-WR-YG-ABIGALE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-379-WR-YG-ABIGALE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-379-WR-YG-ABIGALE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-380-WR-YG-ELIANE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-380-WR-YG-ELIANE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-380-WR-YG-ELIANE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-381-WR-YG-ELIA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-381-WR-YG-ELIA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-381-WR-YG-ELIA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-382-WR-YG-NORA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-382-WR-YG-NORA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-382-WR-YG-NORA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-383-WR-YG-ELIZABETH",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-383-WR-YG-ELIZABETH",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-383-WR-YG-ELIZABETH",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-465-WR-YG-R-ADRIAN",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-465-WR-YG-R-ADRIAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-465-WR-YG-R-ADRIAN",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-466-WR-YG-R-AUDRAY",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-466-WR-YG-R-AUDRAY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-466-WR-YG-R-AUDRAY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-467-WR-YG-R-CLARA",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-467-WR-YG-R-CLARA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-467-WR-YG-R-CLARA",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-468-WR-YG-R-BAILEY",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-468-WR-YG-R-BAILEY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-468-WR-YG-R-BAILEY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-469-WR-YG-R-CHARLOTT",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-469-WR-YG-R-CHARLOTT",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-469-WR-YG-R-CHARLOTT",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-470-WR-YG-R-ANTHONY",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-470-WR-YG-R-ANTHONY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-470-WR-YG-R-ANTHONY",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-471-WR-YG-R-MILLIE",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-471-WR-YG-R-MILLIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-471-WR-YG-R-MILLIE",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  },
+  {
+    "id": "AS-472-WR-YG-R-WILLIAM",
+    "category": "Wedding Rings",
+    "product_type": null,
+    "reason": "no Vietnamese product page found",
+    "tried": [
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/women/AS-472-WR-YG-R-WILLIAM",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      },
+      {
+        "url": "https://aurorasaigon.com/nhan-cuoi/men/AS-472-WR-YG-R-WILLIAM",
+        "status": 200,
+        "reason": "not a Vietnamese product page (no product title)"
+      }
+    ]
+  }
+]

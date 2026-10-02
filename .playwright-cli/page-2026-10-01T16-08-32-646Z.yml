@@ -1,0 +1,602 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Aurora Saigon home" [ref=e4]:
+        - img "Aurora Saigon" [ref=e5]
+      - navigation "Primary" [ref=e7]:
+        - button "Ready-to-ship" [ref=e8]
+        - button "Engagement Rings" [ref=e9]
+        - button "Wedding Rings" [ref=e10]
+        - button "Craftsmanship" [ref=e11]
+        - link "Showroom" [ref=e12] [cursor=pointer]:
+          - /url: /showroom
+      - generic [ref=e13]:
+        - group "Currency" [ref=e14]:
+          - button "VND" [pressed] [ref=e15]
+          - button "USD" [ref=e16]
+          - button "EUR" [ref=e17]
+        - button "Open cart, 0 items" [ref=e18]:
+          - text: Bag
+          - generic [ref=e19]: "0"
+  - main [ref=e20]:
+    - region [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - heading [level=1] [ref=e24]:
+            - text: Bespoke Fine Jewellery,
+            - emphasis [ref=e25]: Hand-Crafted
+            - text: by Master Artisans
+          - paragraph [ref=e26]: Designed in Ho Chi Minh City, Handcrafted in Bangkok. British standards of transparency and gemmological integrity. Visit our Thảo Điền atelier or order online with worldwide insured delivery.
+          - button "Explore the collection" [ref=e28]
+        - img "A six-claw round solitaire engagement ring in yellow gold, resting in soft natural light" [ref=e32]:
+          - img "A six-claw round solitaire engagement ring in yellow gold, resting in soft natural light" [ref=e33]
+        - list [ref=e34]:
+          - listitem [ref=e35]: IGI & GIA Certified
+          - listitem [ref=e36]: UK Standard Lifetime Warranty on Rings
+    - generic [ref=e38]:
+      - heading [level=2] [ref=e39]:
+        - text: Anatomy of a Ring,
+        - emphasis [ref=e40]: Taken Apart
+      - list [ref=e41]:
+        - listitem [ref=e42]:
+          - figure [ref=e43]:
+            - img "Macro of a round diamond held by four claws" [ref=e45]
+          - generic [ref=e46]:
+            - heading "01 Certified Center Stone" [level=3] [ref=e47]:
+              - generic [ref=e48]: "01"
+              - text: Certified Center Stone
+            - paragraph [ref=e49]: GIA/IGI Graded, Ideal Cut
+            - paragraph [ref=e50]: Each centre stone is documented with an independent IGI or GIA grading report, so cut, colour, clarity and carat can be verified before you commit.
+        - listitem [ref=e51]:
+          - figure [ref=e52]:
+            - img "Side macro of four claws, a cathedral shank and a hidden halo of diamonds" [ref=e54]
+          - generic [ref=e55]:
+            - heading "02 Hand-Finished Setting" [level=3] [ref=e56]:
+              - generic [ref=e57]: "02"
+              - text: Hand-Finished Setting
+            - paragraph [ref=e58]: 4-Claw Cathedral & Hidden Halo
+            - paragraph [ref=e59]: Claws and basket are finished by hand by master artisans in Bangkok. Four claws rise on a cathedral shank, and the hidden halo only shows when you look at the ring from the side.
+        - listitem [ref=e60]:
+          - figure [ref=e61]:
+            - img "Macro of a polished solid gold band" [ref=e63]
+          - generic [ref=e64]:
+            - heading "03 Solid 18k & Platinum Band" [level=3] [ref=e65]:
+              - generic [ref=e66]: "03"
+              - text: Solid 18k & Platinum Band
+            - paragraph [ref=e67]: Hallmarked for Authenticity
+            - paragraph [ref=e68]: The band is solid 18k gold or platinum, hallmarked, and inspected under magnification before it reaches you.
+      - paragraph [ref=e69]: "Detail photographs: the Lydia engagement ring."
+    - generic [ref=e71]:
+      - figure "Nick, Founder of Aurora Saigon Jewellery" [ref=e72]:
+        - img "Nick, founder of Aurora Saigon Jewellery"
+      - generic [ref=e74]:
+        - heading "Aurora Saigon Brand & Values" [level=2] [ref=e75]
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: After spending many years in Vietnam, I realised that the jewellery shopping experience here feels frustrating. Many retailers focus on making a quick profit rather than building trust or offering good service. This often results in customers facing dishonesty and unclear information. Buying jewellery in Vietnam can feel like a risky gamble, and many people feel unsure about their purchases.
+          - paragraph [ref=e78]: With years of experience in the jewellery industry, we've successfully built and managed an export business that serves the UK market. Throughout this journey, we've learned the importance of staying on top of market trends, maintaining high quality, and fostering strong relationships with partners and clients. Our passion lies in offering exceptional products.
+          - paragraph [ref=e79]: Our return policies and warranties exceed what's typically expected in Vietnam and align more closely with UK Consumer Law. These policies form the foundation of Aurora Saigon's commitment to customer satisfaction.
+          - paragraph [ref=e80]: We are excited to introduce this revolutionary shopping experience to Vietnam. We aim to create a modern, transparent, and superior way to buy jewellery, where every customer feels supported and well-informed throughout their journey with us. We believe it's time for a new era of jewellery shopping in Vietnam, one where trust, care, and quality take centre stage.
+        - paragraph [ref=e81]:
+          - text: "- Nick"
+          - generic [ref=e82]: Founder of Aurora Saigon Jewellery
+        - button "Book Private Viewing in Thảo Điền" [ref=e83]
+    - region [ref=e84]:
+      - generic [ref=e85]:
+        - generic "A client delighted with her ring in front of the arched Aurora wall at the atelier" [ref=e86]
+        - generic [ref=e87]:
+          - heading "Try it on in the atelier" [level=2] [ref=e88]
+          - paragraph [ref=e89]: Visit Thảo Điền Atelier, Ho Chi Minh City to see our rings in person.
+          - link "Visit the showroom" [ref=e90] [cursor=pointer]:
+            - /url: /showroom
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - heading "Ready to ship" [level=2] [ref=e94]
+        - paragraph [ref=e95]: 418 pieces with live pricing by metal. Choose a finish, then select a piece to view it and pick your size. Free insured delivery in Ho Chi Minh City.
+      - tablist "Category" [ref=e96]:
+        - tab "Ready to Ship (29 pieces)" [ref=e97]
+        - tab "All Pieces" [selected] [ref=e98]
+        - tab "Engagement Rings" [ref=e100]
+        - tab "Wedding Rings" [ref=e101]
+        - tab "Pendants & Necklaces" [ref=e102]
+        - tab "Fine Jewellery" [ref=e103]
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - button "Shape" [ref=e108]
+          - button "Metal type" [ref=e113]
+          - button "Setting style" [ref=e118]
+          - button "Band type" [ref=e123]
+          - button "More" [ref=e128]
+        - generic [ref=e132]: 418 pieces
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - article [ref=e136]:
+            - button "View Anna - 6 Claw Round Solitaire" [ref=e137]:
+              - img "Anna - 6 Claw Round Solitaire, Yellow Gold" [ref=e139]
+            - generic [ref=e140]:
+              - heading [level=3] [ref=e141]:
+                - button "Anna - 6 Claw Round Solitaire" [ref=e142]
+              - paragraph [ref=e143]: Round Cut • Moissanite
+              - paragraph [ref=e144]: 31.950.000 ₫
+              - radiogroup "Metal" [ref=e145]:
+                - radio "Yellow Gold" [checked] [ref=e146]
+                - radio "White Gold" [ref=e148]
+                - radio "Rose Gold" [ref=e150]
+                - radio "Platinum" [ref=e152]
+              - button "Quick add" [ref=e154]
+          - article [ref=e155]:
+            - button "View Alexia Oval Engagment Ring" [ref=e156]:
+              - img "Alexia Oval Engagment Ring, Yellow Gold" [ref=e158]
+            - generic [ref=e159]:
+              - heading [level=3] [ref=e160]:
+                - button "Alexia Oval Engagment Ring" [ref=e161]
+              - paragraph [ref=e162]: Oval Cut • Moissanite
+              - paragraph [ref=e163]: 32.100.000 ₫
+              - radiogroup "Metal" [ref=e164]:
+                - radio "Yellow Gold" [checked] [ref=e165]
+                - radio "White Gold" [ref=e167]
+                - radio "Rose Gold" [ref=e169]
+                - radio "Platinum" [ref=e171]
+              - button "Quick add" [ref=e173]
+          - article [ref=e174]:
+            - button "View Allison Engagement Ring" [ref=e175]:
+              - img "Allison Engagement Ring, Yellow Gold" [ref=e177]
+            - generic [ref=e178]:
+              - heading [level=3] [ref=e179]:
+                - button "Allison Engagement Ring" [ref=e180]
+              - paragraph [ref=e181]: Oval Cut • Moissanite
+              - paragraph [ref=e182]: 29.700.000 ₫
+              - radiogroup "Metal" [ref=e183]:
+                - radio "Yellow Gold" [checked] [ref=e184]
+                - radio "White Gold" [ref=e186]
+                - radio "Rose Gold" [ref=e188]
+                - radio "Platinum" [ref=e190]
+              - button "Quick add" [ref=e192]
+          - article [ref=e193]:
+            - button "View Alyssa Oval Engagment Ring" [ref=e194]:
+              - img "Alyssa Oval Engagment Ring, Yellow Gold" [ref=e196]
+            - generic [ref=e197]:
+              - heading [level=3] [ref=e198]:
+                - button "Alyssa Oval Engagment Ring" [ref=e199]
+              - paragraph [ref=e200]: Oval Cut • Moissanite
+              - paragraph [ref=e201]: 32.300.000 ₫
+              - radiogroup "Metal" [ref=e202]:
+                - radio "Yellow Gold" [checked] [ref=e203]
+                - radio "White Gold" [ref=e205]
+                - radio "Rose Gold" [ref=e207]
+                - radio "Platinum" [ref=e209]
+              - button "Quick add" [ref=e211]
+          - article [ref=e212]:
+            - button "View Sophia Engagement Ring" [ref=e213]:
+              - img "Sophia Engagement Ring, Yellow Gold" [ref=e215]
+            - generic [ref=e216]:
+              - heading [level=3] [ref=e217]:
+                - button "Sophia Engagement Ring" [ref=e218]
+              - paragraph [ref=e219]: Round Cut • Moissanite
+              - paragraph [ref=e220]: 32.400.000 ₫
+              - radiogroup "Metal" [ref=e221]:
+                - radio "Yellow Gold" [checked] [ref=e222]
+                - radio "White Gold" [ref=e224]
+                - radio "Rose Gold" [ref=e226]
+                - radio "Platinum" [ref=e228]
+              - button "Quick add" [ref=e230]
+          - article [ref=e231]:
+            - button "View Cora Engagement Ring" [ref=e232]:
+              - img "Cora Engagement Ring, Yellow Gold" [ref=e234]
+            - generic [ref=e235]:
+              - heading [level=3] [ref=e236]:
+                - button "Cora Engagement Ring" [ref=e237]
+              - paragraph [ref=e238]: Round Cut • Moissanite
+              - paragraph [ref=e239]: 32.400.000 ₫
+              - radiogroup "Metal" [ref=e240]:
+                - radio "Yellow Gold" [checked] [ref=e241]
+                - radio "White Gold" [ref=e243]
+                - radio "Rose Gold" [ref=e245]
+                - radio "Platinum" [ref=e247]
+              - button "Quick add" [ref=e249]
+          - article [ref=e250]:
+            - button "View Nova Engagement Ring" [ref=e251]:
+              - img "Nova Engagement Ring, Yellow Gold" [ref=e253]
+            - generic [ref=e254]:
+              - heading [level=3] [ref=e255]:
+                - button "Nova Engagement Ring" [ref=e256]
+              - paragraph [ref=e257]: Round Cut • Moissanite
+              - paragraph [ref=e258]: 29.500.000 ₫
+              - radiogroup "Metal" [ref=e259]:
+                - radio "Yellow Gold" [checked] [ref=e260]
+                - radio "White Gold" [ref=e262]
+                - radio "Rose Gold" [ref=e264]
+                - radio "Platinum" [ref=e266]
+              - button "Quick add" [ref=e268]
+          - article [ref=e269]:
+            - button "View Valeria Engagement Ring" [ref=e270]:
+              - img "Valeria Engagement Ring, Yellow Gold" [ref=e272]
+            - generic [ref=e273]:
+              - heading [level=3] [ref=e274]:
+                - button "Valeria Engagement Ring" [ref=e275]
+              - paragraph [ref=e276]: Round Cut • Moissanite
+              - paragraph [ref=e277]: 33.900.000 ₫
+              - radiogroup "Metal" [ref=e278]:
+                - radio "Yellow Gold" [checked] [ref=e279]
+                - radio "White Gold" [ref=e281]
+                - radio "Rose Gold" [ref=e283]
+                - radio "Platinum" [ref=e285]
+              - button "Quick add" [ref=e287]
+          - article [ref=e288]:
+            - button "View Zoe Engagement Ring" [ref=e289]:
+              - img "Zoe Engagement Ring, Yellow Gold" [ref=e291]
+            - generic [ref=e292]:
+              - heading [level=3] [ref=e293]:
+                - button "Zoe Engagement Ring" [ref=e294]
+              - paragraph [ref=e295]: Oval Cut • Moissanite
+              - paragraph [ref=e296]: 35.500.000 ₫
+              - radiogroup "Metal" [ref=e297]:
+                - radio "Yellow Gold" [checked] [ref=e298]
+                - radio "White Gold" [ref=e300]
+                - radio "Rose Gold" [ref=e302]
+                - radio "Platinum" [ref=e304]
+              - button "Quick add" [ref=e306]
+          - article [ref=e307]:
+            - button "View Tray Engagement Ring" [ref=e308]:
+              - img "Tray Engagement Ring, Yellow Gold" [ref=e310]
+            - generic [ref=e311]:
+              - heading [level=3] [ref=e312]:
+                - button "Tray Engagement Ring" [ref=e313]
+              - paragraph [ref=e314]: Oval Cut • Moissanite
+              - paragraph [ref=e315]: 34.900.000 ₫
+              - radiogroup "Metal" [ref=e316]:
+                - radio "Yellow Gold" [checked] [ref=e317]
+                - radio "White Gold" [ref=e319]
+                - radio "Rose Gold" [ref=e321]
+                - radio "Platinum" [ref=e323]
+              - button "Quick add" [ref=e325]
+          - article [ref=e326]:
+            - button "View Orla Engagement Ring" [ref=e327]:
+              - img "Orla Engagement Ring, Yellow Gold" [ref=e329]
+            - generic [ref=e330]:
+              - heading [level=3] [ref=e331]:
+                - button "Orla Engagement Ring" [ref=e332]
+              - paragraph [ref=e333]: Emerald Cut • Moissanite
+              - paragraph [ref=e334]: 34.500.000 ₫
+              - radiogroup "Metal" [ref=e335]:
+                - radio "Yellow Gold" [checked] [ref=e336]
+                - radio "White Gold" [ref=e338]
+                - radio "Rose Gold" [ref=e340]
+                - radio "Platinum" [ref=e342]
+              - button "Quick add" [ref=e344]
+          - article [ref=e345]:
+            - button "View Areti Engagement Ring" [ref=e346]:
+              - img "Areti Engagement Ring, Yellow Gold" [ref=e348]
+            - generic [ref=e349]:
+              - heading [level=3] [ref=e350]:
+                - button "Areti Engagement Ring" [ref=e351]
+              - paragraph [ref=e352]: Emerald Cut • Moissanite
+              - paragraph [ref=e353]: 31.500.000 ₫
+              - radiogroup "Metal" [ref=e354]:
+                - radio "Yellow Gold" [checked] [ref=e355]
+                - radio "White Gold" [ref=e357]
+                - radio "Rose Gold" [ref=e359]
+                - radio "Platinum" [ref=e361]
+              - button "Quick add" [ref=e363]
+          - article [ref=e364]:
+            - button "View Ellie Engagement Ring" [ref=e365]:
+              - img "Ellie Engagement Ring, Yellow Gold" [ref=e367]
+            - generic [ref=e368]:
+              - heading [level=3] [ref=e369]:
+                - button "Ellie Engagement Ring" [ref=e370]
+              - paragraph [ref=e371]: Emerald Cut • Moissanite
+              - paragraph [ref=e372]: 33.200.000 ₫
+              - radiogroup "Metal" [ref=e373]:
+                - radio "Yellow Gold" [checked] [ref=e374]
+                - radio "White Gold" [ref=e376]
+                - radio "Rose Gold" [ref=e378]
+                - radio "Platinum" [ref=e380]
+              - button "Quick add" [ref=e382]
+          - article [ref=e383]:
+            - button "View Tara Engagement Ring" [ref=e384]:
+              - img "Tara Engagement Ring, Yellow Gold" [ref=e386]
+            - generic [ref=e387]:
+              - heading [level=3] [ref=e388]:
+                - button "Tara Engagement Ring" [ref=e389]
+              - paragraph [ref=e390]: Pear Cut • Moissanite
+              - paragraph [ref=e391]: 30.100.000 ₫
+              - radiogroup "Metal" [ref=e392]:
+                - radio "Yellow Gold" [checked] [ref=e393]
+                - radio "White Gold" [ref=e395]
+                - radio "Rose Gold" [ref=e397]
+                - radio "Platinum" [ref=e399]
+              - button "Quick add" [ref=e401]
+          - article [ref=e402]:
+            - button "View Zara Pear Shaped Engagement Ring" [ref=e403]:
+              - img "Zara Pear Shaped Engagement Ring, Yellow Gold" [ref=e405]
+            - generic [ref=e406]:
+              - heading [level=3] [ref=e407]:
+                - button "Zara Pear Shaped Engagement Ring" [ref=e408]
+              - paragraph [ref=e409]: Pear Cut • Moissanite
+              - paragraph [ref=e410]: 32.600.000 ₫
+              - radiogroup "Metal" [ref=e411]:
+                - radio "Yellow Gold" [checked] [ref=e412]
+                - radio "White Gold" [ref=e414]
+                - radio "Rose Gold" [ref=e416]
+                - radio "Platinum" [ref=e418]
+              - button "Quick add" [ref=e420]
+          - article [ref=e421]:
+            - button "View Dana Pear Ring" [ref=e422]:
+              - img "Dana Pear Ring, Yellow Gold" [ref=e424]
+            - generic [ref=e425]:
+              - heading [level=3] [ref=e426]:
+                - button "Dana Pear Ring" [ref=e427]
+              - paragraph [ref=e428]: Pear Cut • Moissanite
+              - paragraph [ref=e429]: 34.500.000 ₫
+              - radiogroup "Metal" [ref=e430]:
+                - radio "Yellow Gold" [checked] [ref=e431]
+                - radio "White Gold" [ref=e433]
+                - radio "Rose Gold" [ref=e435]
+                - radio "Platinum" [ref=e437]
+              - button "Quick add" [ref=e439]
+          - article [ref=e440]:
+            - button "View Zita Pear Halo Engagement Ring" [ref=e441]:
+              - img "Zita Pear Halo Engagement Ring, Yellow Gold" [ref=e443]
+            - generic [ref=e444]:
+              - heading [level=3] [ref=e445]:
+                - button "Zita Pear Halo Engagement Ring" [ref=e446]
+              - paragraph [ref=e447]: Pear Cut • Moissanite
+              - paragraph [ref=e448]: 35.900.000 ₫
+              - radiogroup "Metal" [ref=e449]:
+                - radio "Yellow Gold" [checked] [ref=e450]
+                - radio "White Gold" [ref=e452]
+                - radio "Rose Gold" [ref=e454]
+                - radio "Platinum" [ref=e456]
+              - button "Quick add" [ref=e458]
+          - article [ref=e459]:
+            - button "View Audrey Oval Ring" [ref=e460]:
+              - img "Audrey Oval Ring, Yellow Gold" [ref=e462]
+            - generic [ref=e463]:
+              - heading [level=3] [ref=e464]:
+                - button "Audrey Oval Ring" [ref=e465]
+              - paragraph [ref=e466]: Oval Cut • Moissanite
+              - paragraph [ref=e467]: 30.500.000 ₫
+              - radiogroup "Metal" [ref=e468]:
+                - radio "Yellow Gold" [checked] [ref=e469]
+                - radio "White Gold" [ref=e471]
+                - radio "Rose Gold" [ref=e473]
+                - radio "Platinum" [ref=e475]
+              - button "Quick add" [ref=e477]
+          - article [ref=e478]:
+            - button "View Evie Oval Ring" [ref=e479]:
+              - img "Evie Oval Ring, Yellow Gold" [ref=e481]
+            - generic [ref=e482]:
+              - heading [level=3] [ref=e483]:
+                - button "Evie Oval Ring" [ref=e484]
+              - paragraph [ref=e485]: Oval Cut • Moissanite
+              - paragraph [ref=e486]: 40.900.000 ₫
+              - radiogroup "Metal" [ref=e487]:
+                - radio "Yellow Gold" [checked] [ref=e488]
+                - radio "White Gold" [ref=e490]
+                - radio "Rose Gold" [ref=e492]
+                - radio "Platinum" [ref=e494]
+              - button "Quick add" [ref=e496]
+          - article [ref=e497]:
+            - button "View Abi Oval Ring" [ref=e498]:
+              - img "Abi Oval Ring, Yellow Gold" [ref=e500]
+            - generic [ref=e501]:
+              - heading [level=3] [ref=e502]:
+                - button "Abi Oval Ring" [ref=e503]
+              - paragraph [ref=e504]: Oval Cut • Moissanite
+              - paragraph [ref=e505]: 32.550.000 ₫
+              - radiogroup "Metal" [ref=e506]:
+                - radio "Yellow Gold" [checked] [ref=e507]
+                - radio "White Gold" [ref=e509]
+                - radio "Rose Gold" [ref=e511]
+                - radio "Platinum" [ref=e513]
+              - button "Quick add" [ref=e515]
+          - article [ref=e516]:
+            - button "View Myin Oval Engagement Ring" [ref=e517]:
+              - img "Myin Oval Engagement Ring, Yellow Gold" [ref=e519]
+            - generic [ref=e520]:
+              - heading [level=3] [ref=e521]:
+                - button "Myin Oval Engagement Ring" [ref=e522]
+              - paragraph [ref=e523]: Oval Cut • Moissanite
+              - paragraph [ref=e524]: 32.450.000 ₫
+              - radiogroup "Metal" [ref=e525]:
+                - radio "Yellow Gold" [checked] [ref=e526]
+                - radio "White Gold" [ref=e528]
+                - radio "Rose Gold" [ref=e530]
+                - radio "Platinum" [ref=e532]
+              - button "Quick add" [ref=e534]
+          - article [ref=e535]:
+            - button "View Terri Oval Engagement Ring" [ref=e536]:
+              - img "Terri Oval Engagement Ring, Yellow Gold" [ref=e538]
+            - generic [ref=e539]:
+              - heading [level=3] [ref=e540]:
+                - button "Terri Oval Engagement Ring" [ref=e541]
+              - paragraph [ref=e542]: Oval Cut • Moissanite
+              - paragraph [ref=e543]: 32.700.000 ₫
+              - radiogroup "Metal" [ref=e544]:
+                - radio "Yellow Gold" [checked] [ref=e545]
+                - radio "White Gold" [ref=e547]
+                - radio "Rose Gold" [ref=e549]
+                - radio "Platinum" [ref=e551]
+              - button "Quick add" [ref=e553]
+          - article [ref=e554]:
+            - button "View Lisa Oval Engagement Ring" [ref=e555]:
+              - img "Lisa Oval Engagement Ring, Yellow Gold" [ref=e557]
+            - generic [ref=e558]:
+              - heading [level=3] [ref=e559]:
+                - button "Lisa Oval Engagement Ring" [ref=e560]
+              - paragraph [ref=e561]: Oval Cut • Moissanite
+              - paragraph [ref=e562]: 33.300.000 ₫
+              - radiogroup "Metal" [ref=e563]:
+                - radio "Yellow Gold" [checked] [ref=e564]
+                - radio "White Gold" [ref=e566]
+                - radio "Rose Gold" [ref=e568]
+                - radio "Platinum" [ref=e570]
+              - button "Quick add" [ref=e572]
+          - article [ref=e573]:
+            - button "View Della Oval Engagement Ring" [ref=e574]:
+              - img "Della Oval Engagement Ring, Yellow Gold" [ref=e576]
+            - generic [ref=e577]:
+              - heading [level=3] [ref=e578]:
+                - button "Della Oval Engagement Ring" [ref=e579]
+              - paragraph [ref=e580]: Oval Cut • Moissanite
+              - paragraph [ref=e581]: 31.500.000 ₫
+              - radiogroup "Metal" [ref=e582]:
+                - radio "Yellow Gold" [checked] [ref=e583]
+                - radio "White Gold" [ref=e585]
+                - radio "Rose Gold" [ref=e587]
+                - radio "Platinum" [ref=e589]
+              - button "Quick add" [ref=e591]
+        - button "Show more (394 remaining)" [ref=e593]
+    - region [ref=e594]:
+      - generic [ref=e596]:
+        - heading "Ready to Buy Engagement Rings — Your Moment, Without the Wait" [level=2] [ref=e597]
+        - paragraph [ref=e598]: Planning to propose soon, or simply found the one you can’t wait to give? Our ready to buy engagement rings are designed for exactly that moment.
+        - button "The Aurora Standard — Ready to Ship Collection" [ref=e599]
+        - region "The Aurora Standard — Ready to Ship Collection":
+          - generic [ref=e604]:
+            - paragraph [ref=e605]: At Aurora Saigon, we offer a carefully curated selection of engagement rings, available immediately without the wait for custom production. From timeless solitaires to refined halo and vintage-inspired designs, each piece is chosen for its balance, beauty, and enduring style.
+            - paragraph [ref=e606]: Each ring is crafted using premium materials and set with carefully selected natural diamonds, natural sapphires, or lab-grown diamonds, and finished by skilled artisans with the same level of care we bring to our bespoke pieces. While these rings are ready to buy, they are never rushed — each one reflects our commitment to precision, proportion, and lasting quality.
+            - heading "A Ring You Can Choose With Confidence" [level=3] [ref=e607]
+            - paragraph [ref=e608]: Our ready to buy collection allows you to experience the process in a more immediate way — explore, select, and receive a ring that feels right, without compromise.
+            - paragraph [ref=e609]: If you would like guidance, we are always here to help. Whether you visit our boutique or speak with us directly, we can walk you through the details — from gemstone quality to design proportions — so you feel completely confident in your choice.
+            - paragraph [ref=e610]: Every piece is created with a focus on quality, craftsmanship, and responsible sourcing, offering a modern yet considered approach to fine jewelry.
+            - heading "Visit Us or Explore Online" [level=3] [ref=e611]
+            - paragraph [ref=e612]: You are welcome to explore our collection online or visit our boutique for a more personal experience. If you would like to refine a design or create something entirely bespoke, we are always happy to guide you through a custom process as well.
+            - paragraph [ref=e613]: However you choose to begin, we are here to help you find a ring that feels considered, personal, and ready for the moment that matters most.
+    - region [ref=e614]:
+      - generic [ref=e615]:
+        - generic [ref=e616]:
+          - heading [level=2] [ref=e617]:
+            - text: Trusted in
+            - emphasis [ref=e618]: Saigon
+          - paragraph [ref=e619]: Rated 5.0 Stars on Google Reviews • Read verified experiences from our Thảo Điền showroom.
+        - list [ref=e620]:
+          - listitem [ref=e621]:
+            - img "5 out of 5 stars" [ref=e622]
+            - figure [ref=e633]:
+              - blockquote [ref=e634]:
+                - paragraph [ref=e635]: Words can’t describe how grateful I’m to find and receive such a great service from Aurora! Every part of the process has been pleasant. Working with them feels like a friend.
+                - button "Read more" [ref=e636]
+              - generic [ref=e637]:
+                - paragraph [ref=e638]: Hieu Nguyen
+                - paragraph [ref=e639]: Google review · September 2026
+          - listitem [ref=e640]:
+            - img "5 out of 5 stars" [ref=e641]
+            - figure [ref=e652]:
+              - blockquote [ref=e653]:
+                - paragraph [ref=e654]: I love a fabulous ring with serious wow factor. I told Nick I wanted something you could see from space! He said, “Maybe not from space, but you’ll definitely see it from the runway as you land in Ho Chi Minh.” And he did not disappoint!
+                - button "Read more" [ref=e655]
+              - generic [ref=e656]:
+                - paragraph [ref=e657]: Kate Doherty
+                - paragraph [ref=e658]: Google review · Custom Design · August 2026
+          - listitem [ref=e659]:
+            - img "5 out of 5 stars" [ref=e660]
+            - figure [ref=e671]:
+              - blockquote [ref=e672]:
+                - paragraph [ref=e673]: Customer service 10/10. Any question or inquiries you have they make sure to answer and adhere to. Staff is very friendly. Owner is a good guy, very trusted, and always checking up on your specific situation to help.
+                - button "Read more" [ref=e674]
+              - generic [ref=e675]:
+                - paragraph [ref=e676]: zay
+                - paragraph [ref=e677]: Google review · Custom Design · August 2026
+          - listitem [ref=e678]:
+            - img "5 out of 5 stars" [ref=e679]
+            - figure [ref=e690]:
+              - blockquote [ref=e691]:
+                - paragraph [ref=e692]: I’m very satisfied with my experience at Aurora. Ivy was always supportive, responsive, and willing to answer any questions I had, which made the whole process go smoothly.
+                - button "Read more" [ref=e693]
+              - generic [ref=e694]:
+                - paragraph [ref=e695]: Huy Pham
+                - paragraph [ref=e696]: Google review · July 2026
+          - listitem [ref=e697]:
+            - img "5 out of 5 stars" [ref=e698]
+            - figure [ref=e709]:
+              - blockquote [ref=e710]:
+                - paragraph [ref=e711]: Amazing place, Nick was an absolute gem, great piece, genuine passion to the industry too would definitely comeback when the occasion suits would recommend to anyone
+              - generic [ref=e712]:
+                - paragraph [ref=e713]: Omar Almobark
+                - paragraph [ref=e714]: Google review · July 2026
+          - listitem [ref=e715]:
+            - img "5 out of 5 stars" [ref=e716]
+            - figure [ref=e727]:
+              - blockquote [ref=e728]:
+                - paragraph [ref=e729]: Amazing service, quick turnaround. Ivy & team were fantastic. Sensational customer rings, great price and quality service.
+              - generic [ref=e730]:
+                - paragraph [ref=e731]: Cam
+                - paragraph [ref=e732]: Google review · Custom Design · July 2026
+        - paragraph [ref=e733]:
+          - link "Verify all reviews on Google Maps" [ref=e734] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/?q=place_id:ChIJL2kFlfIndTERLJaIne8M6XQ
+  - contentinfo [ref=e735]:
+    - generic [ref=e736]:
+      - generic [ref=e737]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=e738]
+        - paragraph [ref=e739]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=e740]:
+          - generic [ref=e741]: Email address
+          - textbox "Email address" [ref=e742]:
+            - /placeholder: Your email address
+          - button "Join" [ref=e743]
+      - generic [ref=e744]:
+        - generic [ref=e745]:
+          - img "Aurora Saigon" [ref=e746]
+          - generic [ref=e747]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=e748]:
+            - link "sales@aurorasaigon.com" [ref=e749] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=e750] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=e751]:
+            - listitem [ref=e752]:
+              - link "Facebook" [ref=e753] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=e756]:
+              - link "Instagram" [ref=e757] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=e762]:
+              - link "YouTube" [ref=e763] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=e767]:
+          - heading "All about Aurora" [level=2] [ref=e768]
+          - list [ref=e769]:
+            - listitem [ref=e770]:
+              - link "About Aurora Saigon" [ref=e771] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e772]:
+              - link "Visit Our Showroom" [ref=e773] [cursor=pointer]:
+                - /url: /showroom
+            - listitem [ref=e774]:
+              - link "5 Reasons Why" [ref=e775] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=e776]:
+              - link "Contact Us" [ref=e777] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=e778]:
+          - heading "Guides" [level=2] [ref=e779]
+          - list [ref=e780]:
+            - listitem [ref=e781]:
+              - link "Ring Size Guide" [ref=e782] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=e783]:
+              - link "Journal" [ref=e784] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=e785]:
+          - heading "Support" [level=2] [ref=e786]
+          - list [ref=e787]:
+            - listitem [ref=e788]:
+              - link "Shipping & Returns" [ref=e789] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=e790]:
+              - link "Payment Methods" [ref=e791] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=e792]:
+              - link "Privacy Policy" [ref=e793] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e794]:
+              - link "Warranty Policy" [ref=e795] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=e796]:
+              - link "Customer Supplied Gemstone Policy" [ref=e797] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=e798]:
+              - link "FAQ" [ref=e799] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=e800]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

@@ -1,0 +1,141 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - button "Aurora Saigon home" [ref=f1e4]:
+        - img "Aurora Saigon" [ref=f1e5]
+      - navigation "Primary" [ref=f1e7]:
+        - button "Ready-to-ship" [ref=f1e8]
+        - button "Engagement Rings" [ref=f1e9]
+        - button "Wedding Rings" [ref=f1e10]
+        - button "Craftsmanship" [ref=f1e11]
+        - button "Showroom" [ref=f1e12]
+      - generic [ref=f1e13]:
+        - group "Currency" [ref=f1e14]:
+          - button "VND" [pressed] [ref=f1e15]
+          - button "USD" [ref=f1e16]
+          - button "EUR" [ref=f1e17]
+        - button "Open cart, 0 items" [ref=f1e18]:
+          - text: Bag
+          - generic [ref=f1e19]: "0"
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - heading [level=1] [ref=f1e23]:
+        - text: Privacy
+        - emphasis [ref=f1e24]: policy
+      - generic [ref=f1e25]:
+        - generic [ref=f1e27]:
+          - generic [ref=f1e28]:
+            - generic [ref=f1e29]:
+              - term [ref=f1e30]: Registered legal entity
+              - definition [ref=f1e31]: Aurora Saigon Co., Ltd.Tầng 7, 60 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Vietnam
+            - generic [ref=f1e32]:
+              - term [ref=f1e33]: Showroom visits
+              - definition [ref=f1e34]: Thảo Điền Atelier, Ho Chi Minh City94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+            - generic [ref=f1e35]:
+              - term [ref=f1e36]: Payment processing partners
+              - definition [ref=f1e37]: AlePay (domestic Vietnam cards) and Stripe (international payments)
+          - paragraph [ref=f1e38]: The registered address is the company’s legal address and does not accept visitors or returns. Please visit us at the Thảo Điền showroom.
+        - generic [ref=f1e40]:
+          - paragraph [ref=f1e41]: AuroraSaigon.com is the brand name of Aurora Saigon Ltd.
+          - paragraph [ref=f1e42]: This Privacy Policy applies to the AuroraSaigon.com trading as Aurora Saigon Ltd owned and operated websites (“Sites”). AuroraSaigon.com trading as Aurora Saigon Ltd (Aurora Saigon,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by us when you access our sites and services, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. The use of information collected through our Sites shall be limited to the purposes under this Privacy Policy and our Terms of Service to customers.
+          - heading "Information We Collect" [level=3] [ref=f1e43]
+          - paragraph [ref=f1e44]: When you purchase a product from us, we collect your full name, email address, the full invoicing and/or delivery address(es) that you provide us with, your login credentials and, if you are purchasing a ring, your finger size. All sensitive payment data collected on our Site is used only for the purpose of completing the transaction. Transaction information is transmitted to our payment partner AlePay using SSL encryption. Visit AlePay. All credit card related data will be handled confidentially and will not be used for any other purpose or divulged to any other parties not connected to this transaction.
+          - paragraph [ref=f1e45]: Fraud checks. Aurora Saigon actively undertakes measures to prevent fraud taking place on our website and to ensure that your credit, debit or charge card is not being used without your consent. As such during the transaction process you will be prompted through the use of C VV and other security measures to verify that you are the valid card holder. Therefore we may validate your name, address and any other personal information supplied by you during the order process against appropriate third party databases. By accepting our Service terms and conditions you consent to such checks being made.
+          - paragraph [ref=f1e46]: When you register for a customer account but do not make a purchase, we may collect some personally identifiable information about you, such as your name, email address and login credentials, that you choose to give us when you fill in the registration form on our Site.
+          - heading "Cookies, Tracking Technologies and Analytics" [level=3] [ref=f1e47]
+          - paragraph [ref=f1e48]: Cookies and tracking technologies are used by Aurora Saigon. These may be used in analysing trends, administering our Sites, tracking users’ movements around our Sites and to gather demographic information about our user base as a whole. We may produce reports for our internal marketing use, based on the use of these technologies on an individual as well as aggregated basis. We use cookies to remember users’ settings as well as for authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited. We may use our Sites’ web analytics tools to track user activity, such as web pages visited, time spent on web pages, clicks, movement, scroll, and keystroke activity.
+          - heading "Log File Information" [level=3] [ref=f1e49]
+          - paragraph [ref=f1e50]: Log file information is automatically reported by your browser or mobile application each time you access our Sites. For example, when you access our Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your operating system, IP address, user agents (browser), referring / exit / landing pages and URLs requested, pages viewed, and other such information.
+          - heading "How we use your information" [level=3] [ref=f1e51]
+          - paragraph [ref=f1e52]: We use the information that we collect to operate and maintain our Sites and The Aurora Saigon services, to respond to your questions and concerns, and to send you marketing communications. This means that we may use the details you provided us to send you order confirmations, updates, and other purchase-related messages, to send you a free ring sizer by mail to your postal address if you ordered one, to send you promotional email newsletters about our products and services, such as updates about new jewellery products and collections, special or seasonal jewellery discounts or offers, a yearly birthday discount voucher, and jewellery-related advice or trends from our online blog magazine. We may very occasionally send you special seasonal promotions by text message.
+          - paragraph [ref=f1e53]: How you can access, control or delete your personal data that we have collected
+          - paragraph [ref=f1e54]: If you are a customer of Aurora Saigon, you can review, correct, update or delete inaccuracies to your password and billing information (which you have given us and Aurora Saigon keeps on file) simply by logging into your customer account. If you wish to unsubscribe from our promotional emails or text messages you can do so with immediate effect by clicking the unsubscribe link contained in every promotional message we send out. You can also email us at support@aurorasaigon.com. Any individual who seeks to access, or wishes to correct, amend or delete their data, should direct their query to support@aurorasaigon.com. We will acknowledge your request within thirty (30) working days and handle it promptly. We will retain personal data we process on behalf of our customers for as long as needed to provide our services, and as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+          - heading "How We Share Your Information" [level=3] [ref=f1e55]
+          - paragraph [ref=f1e56]:
+            - text: Aurora Saigon will never rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of Aurora Saigon (for instance, on servers or databases co-located with web or email hosting providers). Any personally identifiable information you elect to make publicly available on our Sites or The Aurora Saigon services, such as posting comments on our blog or social media pages, will be available to others. If you remove information that you have made public on our Sites or Aurora Saigon services, copies may remain viewable in cached and archived pages of our Sites or social media profile pages and feeds, or if other users have copied or saved that information.
+            - strong [ref=f1e57]: Our social media and blog pages.
+            - text: Aurora Saigon social media pages and blog are managed by third party applications that may require you to register if you wish to interact with them, for example, by posting comments or likes, or following Aurora Saigon’s social media profiles or publications, or sharing or re-posting blog articles. We do not have access to or control of the information you post to social media or our blog via these third party applications. You will need to contact or login into the third party applications if you want the personal information that you posted removed. To learn how the third party applications use your information, please review their privacy policies.
+            - strong [ref=f1e58]: Our email platforms.
+            - text: We send our email newsletters through third party email platforms, which act only as data processors in respect of your information. This means that we, Aurora Saigon, use the platforms to send emails to our customers, and thus, we remain the controller of your personal data, meaning that all emailed requests to unsubscribe or to have your details removed, amended or deleted should be sent to us at support@aurorasaigon.com. You can also unsubscribe from our email newsletters by clicking the unsubscribe link at the bottom of every promotional email message we send. Please bear in mind that once you click the unsubscribe button, the system may take some time to stop any previously scheduled mailings and you may still receive some emails within the next one or two working days.
+            - strong [ref=f1e59]: Financing applications.
+            - text: If you apply to purchase jewellery through the third party financing offered via Alepay, then please note that Aurora Saigon will only forward any personal data (that you supply and consent to giving) to the third party financing entity, and from that moment onwards Aurora Saigon will not control or hold on to said data. To learn how the third party uses your information, please review their privacy policies. More information about finance.
+          - heading "Storage and Processing" [level=3] [ref=f1e60]
+          - paragraph [ref=f1e61]: Your information, collected through Aurora Saigon Sites, will be stored and processed in the Vietnam.
+          - heading "Links to Other Websites" [level=3] [ref=f1e62]
+          - paragraph [ref=f1e63]: We are not responsible for the practices employed by websites or services linked to or from the Aurora Ssigon communications, Services and Sites, including the information or content contained therein. Please remember that when you use a link to go from the Aurora Saigon Services or Sites to another website or service, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.
+          - heading "Children’s Privacy" [level=3] [ref=f1e64]
+          - paragraph [ref=f1e65]: Protecting the privacy of young children is especially important and Aurora Saigon does not knowingly collect or solicit personal information from anyone under the age of 18. We only sell products to persons of 18 years of age or over, who can purchase them with a credit card. If you are under 18 years of age, you may use Aurora Saigon Sites and Services only with the consent and involvement of a parent or a legal guardian. We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders at our sole discretion.
+          - heading "Changes to Our Privacy Policy" [level=3] [ref=f1e66]
+          - paragraph [ref=f1e67]: "All changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this website, please contact us at support@aurorasaigon.com, or send mail to: Registered Address - No Returns Here Please. Tầng 7, 60, Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Tp. Hồ Chí Minh."
+  - contentinfo [ref=f1e68]:
+    - generic [ref=f1e69]:
+      - generic [ref=f1e70]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=f1e71]
+        - paragraph [ref=f1e72]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]: Email address
+          - textbox "Email address" [ref=f1e75]:
+            - /placeholder: Your email address
+          - button "Join" [ref=f1e76]
+      - generic [ref=f1e77]:
+        - generic [ref=f1e78]:
+          - img "Aurora Saigon" [ref=f1e79]
+          - generic [ref=f1e80]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=f1e81]:
+            - link "sales@aurorasaigon.com" [ref=f1e82] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=f1e83] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=f1e84]:
+            - listitem [ref=f1e85]:
+              - link "Facebook" [ref=f1e86] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=f1e89]:
+              - link "Instagram" [ref=f1e90] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=f1e95]:
+              - link "YouTube" [ref=f1e96] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=f1e100]:
+          - heading "All about Aurora" [level=2] [ref=f1e101]
+          - list [ref=f1e102]:
+            - listitem [ref=f1e103]:
+              - link "About Aurora Saigon" [ref=f1e104] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e105]:
+              - link "5 Reasons Why" [ref=f1e106] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=f1e107]:
+              - link "Contact Us" [ref=f1e108] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=f1e109]:
+          - heading "Guides" [level=2] [ref=f1e110]
+          - list [ref=f1e111]:
+            - listitem [ref=f1e112]:
+              - link "Ring Size Guide" [ref=f1e113] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=f1e114]:
+              - link "Journal" [ref=f1e115] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=f1e116]:
+          - heading "Support" [level=2] [ref=f1e117]
+          - list [ref=f1e118]:
+            - listitem [ref=f1e119]:
+              - link "Shipping & Returns" [ref=f1e120] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f1e121]:
+              - link "Payment Methods" [ref=f1e122] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=f1e123]:
+              - link "Privacy Policy" [ref=f1e124] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f1e125]:
+              - link "Warranty Policy" [ref=f1e126] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=f1e127]:
+              - link "Customer Supplied Gemstone Policy" [ref=f1e128] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=f1e129]:
+              - link "FAQ" [ref=f1e130] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=f1e131]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

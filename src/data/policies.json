@@ -1,0 +1,842 @@
+{
+  "source": "https://aurorasaigon.com",
+  "scrapedAt": "2026-10-01T07:41:08.392Z",
+  "pages": {
+    "shipping": {
+      "title": "Shipping Policy",
+      "sourceUrl": "https://aurorasaigon.com/shipping-and-delivery",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Shipping Destinations"
+        },
+        {
+          "type": "p",
+          "text": "Aurora Saigon ships internationally to most countries worldwide."
+        },
+        {
+          "type": "h2",
+          "text": "Shipping Costs"
+        },
+        {
+          "type": "p",
+          "text": "Free international shipping is offered on all orders. No minimum purchase is required. Silver jewellery is shipped within Vietnam only. Gold, lab-grown diamond, and fine jewellery pieces are available for international shipping."
+        },
+        {
+          "type": "h2",
+          "text": "Order Processing Time"
+        },
+        {
+          "type": "p",
+          "text": "Ready-to-ship items are typically processed within 1–3 business days after payment confirmation."
+        },
+        {
+          "type": "p",
+          "text": "Made-to-order, custom, or bespoke jewellery requires additional production time and is typically completed within 20 business days before dispatch."
+        },
+        {
+          "type": "p",
+          "text": "Estimated production timelines are communicated at the time of purchase or order confirmation."
+        },
+        {
+          "type": "h2",
+          "text": "Estimated Delivery Times"
+        },
+        {
+          "type": "p",
+          "text": "Delivery times vary by destination and carrier. Typical delivery timeframes are:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "International orders: approximately 5–10 business days after dispatch"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Taxes, Duties & Import Charges"
+        },
+        {
+          "type": "p",
+          "text": "All orders are shipped Delivered Duties Paid (DDP Delivery Duty Paid)."
+        },
+        {
+          "type": "p",
+          "text": "Any applicable taxes, VAT, GST, and customs duties are calculated based on the destination country and added at checkout."
+        },
+        {
+          "type": "p",
+          "text": "These charges are collected at the time of purchase, so no additional taxes or duties are payable upon delivery."
+        },
+        {
+          "type": "h2",
+          "text": "Customs & Clearance"
+        },
+        {
+          "type": "p",
+          "text": "As duties and taxes are prepaid, shipments typically clear customs without additional payment required from the customer. However, customs authorities may occasionally delay shipments for inspection, which is outside of our control."
+        },
+        {
+          "type": "h2",
+          "text": "Tracking & Delivery"
+        },
+        {
+          "type": "p",
+          "text": "All shipments include tracking. Tracking details will be provided once your order has been dispatched."
+        }
+      ]
+    },
+    "returns": {
+      "title": "Returns Policy",
+      "sourceUrl": "https://aurorasaigon.com/en/returns-policy",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Shipping & Returns"
+        },
+        {
+          "type": "p",
+          "text": "Aurora Saigon is committed to providing a refined and seamless shopping experience. Each piece is carefully prepared and presented to ensure it reaches you in perfect condition."
+        },
+        {
+          "type": "h4",
+          "text": "Shipping"
+        },
+        {
+          "type": "p",
+          "text": "All ready-to-ship pieces are carefully prepared and dispatched from our boutique."
+        },
+        {
+          "type": "h4",
+          "text": "Processing Time"
+        },
+        {
+          "type": "p",
+          "text": "Orders are typically processed within **1–3 business days**. During peak periods, processing times may be slightly extended."
+        },
+        {
+          "type": "h4",
+          "text": "Delivery Times"
+        },
+        {
+          "type": "p",
+          "text": "**Vietnam:** 1–3 business days"
+        },
+        {
+          "type": "p",
+          "text": "**International (e.g. Australia):** 5–10 business days"
+        },
+        {
+          "type": "p",
+          "text": "Once your order has been dispatched, you will receive a tracking number to follow its journey."
+        },
+        {
+          "type": "h4",
+          "text": "Duties & Taxes"
+        },
+        {
+          "type": "p",
+          "text": "For international orders, any applicable customs duties or taxes are the responsibility of the customer unless otherwise stated at checkout."
+        },
+        {
+          "type": "h4",
+          "text": "Returns"
+        },
+        {
+          "type": "p",
+          "text": "If you are not entirely satisfied with your purchase, we are happy to assist with returns for ready-to-ship items."
+        },
+        {
+          "type": "h4",
+          "text": "Return Window"
+        },
+        {
+          "type": "p",
+          "text": "You may request a return within **30 days of delivery**."
+        },
+        {
+          "type": "h4",
+          "text": "Eligibility"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Items must be unworn and in original condition",
+            "All original packaging, box, pouch, and product tags must be included",
+            "Any certificates or accompanying documentation must be returned if applicable"
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Non-Returnable Items"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Earrings (for hygiene reasons)",
+            "Resized pieces",
+            "Custom or made-to-order items",
+            "Engraved items"
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Inspection Process"
+        },
+        {
+          "type": "p",
+          "text": "All returned items undergo a careful quality inspection by our team. Aurora Saigon reserves the right to decline returns if items show signs of wear, damage, alteration, or are not returned in their original condition."
+        },
+        {
+          "type": "h4",
+          "text": "Refunds"
+        },
+        {
+          "type": "p",
+          "text": "Once your return has been received and approved, you will be notified accordingly."
+        },
+        {
+          "type": "p",
+          "text": "Refunds are issued to the **original payment method**. Please allow **5–10 business days** for processing after approval."
+        },
+        {
+          "type": "p",
+          "text": "Original shipping fees are non-refundable."
+        },
+        {
+          "type": "h4",
+          "text": "Return Shipping"
+        },
+        {
+          "type": "p",
+          "text": "Customers are responsible for return shipping costs. We recommend using a **tracked and insured service**, as Aurora Saigon cannot be responsible for items lost in transit."
+        },
+        {
+          "type": "h4",
+          "text": "Exchanges"
+        },
+        {
+          "type": "p",
+          "text": "We are happy to offer exchanges for eligible items, subject to product availability. Customers are responsible for return shipping costs. If you need assistance selecting an alternative piece, our team is here to help."
+        },
+        {
+          "type": "h4",
+          "text": "How to Request a Return"
+        },
+        {
+          "type": "p",
+          "text": "To initiate a return or exchange, please contact us at:"
+        },
+        {
+          "type": "p",
+          "text": "support@aurorasaigon.com"
+        },
+        {
+          "type": "p",
+          "text": "Please include your order number and reason for return. Our team will guide you through the next steps."
+        },
+        {
+          "type": "h4",
+          "text": "Order Cancellations & Changes"
+        },
+        {
+          "type": "p",
+          "text": "We aim to accommodate order changes or cancellations wherever possible. However, once an order has been dispatched, we are unable to make modifications."
+        },
+        {
+          "type": "p",
+          "text": "If you require assistance before your order is processed, please contact us as soon as possible."
+        }
+      ]
+    },
+    "payment": {
+      "title": "Purchase Process & Payment Methods",
+      "sourceUrl": "https://aurorasaigon.com/payment-methods",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/content/policies/payment-shopping-cart.webp",
+          "alt": "shopping bag"
+        },
+        {
+          "type": "h3",
+          "text": "Adding to Cart"
+        },
+        {
+          "type": "p",
+          "text": "Explore our products and use the 'buy now' button to quickly add the item to your cart. You can also view the product and increment the amount of the item you wish to buy before using the 'ADD TO CART' button. You can view the cart contents at any time by hovering on the cart icon located open the header."
+        },
+        {
+          "type": "h3",
+          "text": "Check-out Process"
+        },
+        {
+          "type": "p",
+          "text": "Once you have completed your shopping experience, view your cart and use the, 'PROCEED TO CHECKOUT' button to progress to the checkout stage. From here you will be asked to provide your email, telephone number, billing address and shipping address."
+        },
+        {
+          "type": "h3",
+          "text": "Payment Method"
+        },
+        {
+          "type": "p",
+          "text": "Prepayment can be made by online banking transfer via the Payment Gateway: Visa/ MasterCard/ JCB credit card/ ATM card issued by domestic banks in Vietnam. Or a bank transfer can be made to the account of Aurora Saigon Co., Ltd."
+        }
+      ],
+      "bank": {
+        "bank": "ACB - PGD NGO TUAT TO",
+        "accountHolder": "CONG TY TNHH AURORA SAIGON",
+        "accountNo": "16566576"
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "sourceUrl": "https://aurorasaigon.com/privacy-policy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "AuroraSaigon.com is the brand name of Aurora Saigon Ltd."
+        },
+        {
+          "type": "p",
+          "text": "Registered Address - No Returns Here Please. Tầng 7, 60, Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Tp. Hồ Chí Minh."
+        },
+        {
+          "type": "p",
+          "text": "This Privacy Policy applies to the AuroraSaigon.com trading as Aurora Saigon Ltd owned and operated websites (“Sites”). AuroraSaigon.com trading as Aurora Saigon Ltd (Aurora Saigon,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by us when you access our sites and services, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. The use of information collected through our Sites shall be limited to the purposes under this Privacy Policy and our Terms of Service to customers."
+        },
+        {
+          "type": "h3",
+          "text": "Information We Collect"
+        },
+        {
+          "type": "p",
+          "text": "When you purchase a product from us, we collect your full name, email address, the full invoicing and/or delivery address(es) that you provide us with, your login credentials and, if you are purchasing a ring, your finger size. All sensitive payment data collected on our Site is used only for the purpose of completing the transaction. Transaction information is transmitted to our payment partner AlePay using SSL encryption. Visit AlePay. All credit card related data will be handled confidentially and will not be used for any other purpose or divulged to any other parties not connected to this transaction."
+        },
+        {
+          "type": "p",
+          "text": "Fraud checks. Aurora Saigon actively undertakes measures to prevent fraud taking place on our website and to ensure that your credit, debit or charge card is not being used without your consent. As such during the transaction process you will be prompted through the use of C VV and other security measures to verify that you are the valid card holder. Therefore we may validate your name, address and any other personal information supplied by you during the order process against appropriate third party databases. By accepting our Service terms and conditions you consent to such checks being made."
+        },
+        {
+          "type": "p",
+          "text": "When you register for a customer account but do not make a purchase, we may collect some personally identifiable information about you, such as your name, email address and login credentials, that you choose to give us when you fill in the registration form on our Site."
+        },
+        {
+          "type": "h3",
+          "text": "Cookies, Tracking Technologies and Analytics"
+        },
+        {
+          "type": "p",
+          "text": "Cookies and tracking technologies are used by Aurora Saigon. These may be used in analysing trends, administering our Sites, tracking users’ movements around our Sites and to gather demographic information about our user base as a whole. We may produce reports for our internal marketing use, based on the use of these technologies on an individual as well as aggregated basis. We use cookies to remember users’ settings as well as for authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited. We may use our Sites’ web analytics tools to track user activity, such as web pages visited, time spent on web pages, clicks, movement, scroll, and keystroke activity."
+        },
+        {
+          "type": "h3",
+          "text": "Log File Information"
+        },
+        {
+          "type": "p",
+          "text": "Log file information is automatically reported by your browser or mobile application each time you access our Sites. For example, when you access our Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your operating system, IP address, user agents (browser), referring / exit / landing pages and URLs requested, pages viewed, and other such information."
+        },
+        {
+          "type": "h3",
+          "text": "How we use your information"
+        },
+        {
+          "type": "p",
+          "text": "We use the information that we collect to operate and maintain our Sites and The Aurora Saigon services, to respond to your questions and concerns, and to send you marketing communications. This means that we may use the details you provided us to send you order confirmations, updates, and other purchase-related messages, to send you a free ring sizer by mail to your postal address if you ordered one, to send you promotional email newsletters about our products and services, such as updates about new jewellery products and collections, special or seasonal jewellery discounts or offers, a yearly birthday discount voucher, and jewellery-related advice or trends from our online blog magazine. We may very occasionally send you special seasonal promotions by text message."
+        },
+        {
+          "type": "p",
+          "text": "How you can access, control or delete your personal data that we have collected"
+        },
+        {
+          "type": "p",
+          "text": "If you are a customer of Aurora Saigon, you can review, correct, update or delete inaccuracies to your password and billing information (which you have given us and Aurora Saigon keeps on file) simply by logging into your customer account. If you wish to unsubscribe from our promotional emails or text messages you can do so with immediate effect by clicking the unsubscribe link contained in every promotional message we send out. You can also email us at support@aurorasaigon.com. Any individual who seeks to access, or wishes to correct, amend or delete their data, should direct their query to support@aurorasaigon.com. We will acknowledge your request within thirty (30) working days and handle it promptly. We will retain personal data we process on behalf of our customers for as long as needed to provide our services, and as necessary to comply with our legal obligations, resolve disputes and enforce our agreements."
+        },
+        {
+          "type": "h3",
+          "text": "How We Share Your Information"
+        },
+        {
+          "type": "p",
+          "text": "Aurora Saigon will never rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of Aurora Saigon (for instance, on servers or databases co-located with web or email hosting providers). Any personally identifiable information you elect to make publicly available on our Sites or The Aurora Saigon services, such as posting comments on our blog or social media pages, will be available to others. If you remove information that you have made public on our Sites or Aurora Saigon services, copies may remain viewable in cached and archived pages of our Sites or social media profile pages and feeds, or if other users have copied or saved that information. **Our social media and blog pages.** Aurora Saigon social media pages and blog are managed by third party applications that may require you to register if you wish to interact with them, for example, by posting comments or likes, or following Aurora Saigon’s social media profiles or publications, or sharing or re-posting blog articles. We do not have access to or control of the information you post to social media or our blog via these third party applications. You will need to contact or login into the third party applications if you want the personal information that you posted removed. To learn how the third party applications use your information, please review their privacy policies.**Our email platforms.** We send our email newsletters through third party email platforms, which act only as data processors in respect of your information. This means that we, Aurora Saigon, use the platforms to send emails to our customers, and thus, we remain the controller of your personal data, meaning that all emailed requests to unsubscribe or to have your details removed, amended or deleted should be sent to us at support@aurorasaigon.com. You can also unsubscribe from our email newsletters by clicking the unsubscribe link at the bottom of every promotional email message we send. Please bear in mind that once you click the unsubscribe button, the system may take some time to stop any previously scheduled mailings and you may still receive some emails within the next one or two working days.**Financing applications.** If you apply to purchase jewellery through the third party financing offered via Alepay, then please note that Aurora Saigon will only forward any personal data (that you supply and consent to giving) to the third party financing entity, and from that moment onwards Aurora Saigon will not control or hold on to said data. To learn how the third party uses your information, please review their privacy policies. More information about finance."
+        },
+        {
+          "type": "h3",
+          "text": "Storage and Processing"
+        },
+        {
+          "type": "p",
+          "text": "Your information, collected through Aurora Saigon Sites, will be stored and processed in the Vietnam."
+        },
+        {
+          "type": "h3",
+          "text": "Links to Other Websites"
+        },
+        {
+          "type": "p",
+          "text": "We are not responsible for the practices employed by websites or services linked to or from the Aurora Ssigon communications, Services and Sites, including the information or content contained therein. Please remember that when you use a link to go from the Aurora Saigon Services or Sites to another website or service, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies."
+        },
+        {
+          "type": "h3",
+          "text": "Children’s Privacy"
+        },
+        {
+          "type": "p",
+          "text": "Protecting the privacy of young children is especially important and Aurora Saigon does not knowingly collect or solicit personal information from anyone under the age of 18. We only sell products to persons of 18 years of age or over, who can purchase them with a credit card. If you are under 18 years of age, you may use Aurora Saigon Sites and Services only with the consent and involvement of a parent or a legal guardian. We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders at our sole discretion."
+        },
+        {
+          "type": "h3",
+          "text": "Changes to Our Privacy Policy"
+        },
+        {
+          "type": "p",
+          "text": "All changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this website, please contact us at support@aurorasaigon.com, or send mail to: Registered Address - No Returns Here Please. Tầng 7, 60, Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Tp. Hồ Chí Minh."
+        }
+      ]
+    },
+    "warranty": {
+      "title": "Lifetime Jewellery Warranty & Care Policy",
+      "sourceUrl": "https://aurorasaigon.com/warranty-policy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "At Aurora Saigon, we stand behind the quality and craftsmanship of every piece we create. Our jewellery is expertly crafted in Bangkok, Thailand, using carefully selected materials and precise manufacturing techniques."
+        },
+        {
+          "type": "p",
+          "text": "We are proud to offer a **Lifetime Manufacturing Warranty** on eligible items, covering defects in materials and workmanship under normal wear."
+        },
+        {
+          "type": "p",
+          "text": "This warranty is provided in addition to your statutory consumer rights."
+        },
+        {
+          "type": "h3",
+          "text": "Warranty Coverage by Product Type"
+        },
+        {
+          "type": "h4",
+          "text": "Rings – Engagement, Wedding & Fashion"
+        },
+        {
+          "type": "p",
+          "text": "All our engagement rings are covered by a lifetime warranty, ensuring long-term quality and peace of mind."
+        },
+        {
+          "type": "p",
+          "text": "**Coverage:** Lifetime Manufacturing Warranty from the date of receipt."
+        },
+        {
+          "type": "p",
+          "text": "**What’s Covered:**"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Porosity, surface imperfections, or visible blemishes in the metal",
+            "Uneven or misaligned settings identified at delivery or during servicing",
+            "Chips, nicks, or surface defects in stones identified at delivery or during servicing",
+            "Plating defects, including uneven rhodium application, identified at delivery or during servicing"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**Remedy:** Confirmed manufacturing defects will be repaired or replaced at no cost."
+        },
+        {
+          "type": "h4",
+          "text": "Fine Jewellery – Earrings, Chains, Bracelets & Pendants"
+        },
+        {
+          "type": "p",
+          "text": "**Coverage:** 2-Year Manufacturing Warranty from the date of receipt."
+        },
+        {
+          "type": "p",
+          "text": "**What’s Covered:** Manufacturing defects affecting the structure or function of the piece. These are typically evident within the early period of wear."
+        },
+        {
+          "type": "p",
+          "text": "**Remedy:** Defective items will be repaired or replaced free of charge within the warranty period."
+        },
+        {
+          "type": "p",
+          "text": "**After 2 Years:** Repairs may still be offered; however, costs will be assessed on a case-by-case basis."
+        },
+        {
+          "type": "h4",
+          "text": "Gemstones – Lab Diamonds, Moissanite & Sapphires"
+        },
+        {
+          "type": "p",
+          "text": "Our gemstones, including natural diamonds, lab-grown diamonds, moissanite, and sapphires, are carefully selected for exceptional quality and brilliance. Browse our collection of loose lab-grown diamonds to choose the perfect centre stone for your design."
+        },
+        {
+          "type": "p",
+          "text": "**Coverage:** Lifetime Manufacturing Warranty covering the stone characteristics selected at the time of purchase."
+        },
+        {
+          "type": "p",
+          "text": "**What’s Covered:** Issues relating to the original manufacturing or setting of the stone."
+        },
+        {
+          "type": "p",
+          "text": "**Exclusions:**"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "General wear and tear",
+            "Chipping, cracking, or breakage due to impact",
+            "Accidental damage or mishandling",
+            "Loss or theft"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "What Is Not Covered"
+        },
+        {
+          "type": "p",
+          "text": "This warranty does not cover:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Normal wear and tear, including scratches, dents, and surface wear",
+            "Damage caused by impact, accidents, misuse, or improper care",
+            "Loss or theft",
+            "Repairs, resizing, or alterations carried out by third parties"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Lifetime Cleaning & Servicing"
+        },
+        {
+          "type": "p",
+          "text": "To help maintain the beauty and integrity of your jewellery, Aurora Saigon offers **complimentary lifetime cleaning and inspection services**."
+        },
+        {
+          "type": "p",
+          "text": "**What’s Included:**"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Professional cleaning to restore shine and brilliance",
+            "Inspection of stone settings and overall structure",
+            "Basic maintenance checks to help ensure continued wearability"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**Service Frequency:** Available once per year per item."
+        },
+        {
+          "type": "p",
+          "text": "**Important Notes:**"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Jewellery must be brought to our **Aurora Saigon boutique** for servicing",
+            "This service does not include repairs for damage, wear and tear, or non-manufacturing issues",
+            "Any additional work required will be quoted and approved before proceeding"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Consumer Rights"
+        },
+        {
+          "type": "p",
+          "text": "This warranty is provided in addition to your rights under applicable consumer laws. Nothing in this policy limits or replaces your statutory protections."
+        },
+        {
+          "type": "h3",
+          "text": "How to Make a Claim"
+        },
+        {
+          "type": "p",
+          "text": "If you believe your item has a manufacturing defect, please follow these steps:"
+        },
+        {
+          "type": "p",
+          "text": "1. **Contact us** with your proof of purchase and a description of the issue. 2. **Send or bring the item** to us for inspection. 3. **Assessment** – our team will determine whether the issue is covered. 4. **Resolution** – approved claims will be repaired or replaced free of charge."
+        },
+        {
+          "type": "p",
+          "text": "If the issue falls outside warranty coverage, a repair quote will be provided before any work is carried out."
+        },
+        {
+          "type": "h3",
+          "text": "Jewellery Care"
+        },
+        {
+          "type": "p",
+          "text": "To preserve the longevity of your jewellery, we recommend the following care tips:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Remove jewellery during activities involving impact or exposure to chemicals",
+            "Clean gently using mild soap and water",
+            "Store pieces separately in a soft pouch or jewellery box"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our Promise"
+        },
+        {
+          "type": "p",
+          "text": "Our warranty and aftercare services reflect our confidence in the quality of our craftsmanship and our commitment to your long-term satisfaction."
+        },
+        {
+          "type": "h2",
+          "text": "FAQ"
+        },
+        {
+          "type": "p",
+          "text": "Your questions, answered."
+        },
+        {
+          "type": "h4",
+          "text": "What does your jewellery warranty cover?"
+        },
+        {
+          "type": "p",
+          "text": "Our warranty covers manufacturing defects in materials and craftsmanship. This includes issues such as loose settings, faulty clasps, or structural defects under normal wear. It does not cover damage caused by accidents, misuse, or general wear and tear."
+        },
+        {
+          "type": "h4",
+          "text": "How long is the warranty on engagement rings?"
+        },
+        {
+          "type": "p",
+          "text": "Our engagement rings come with a lifetime warranty covering manufacturing defects. We also offer ongoing support and maintenance services to ensure your ring remains in excellent condition over time."
+        },
+        {
+          "type": "h4",
+          "text": "Does the warranty cover resizing or adjustments?"
+        },
+        {
+          "type": "p",
+          "text": "We offer complimentary resizing within a specified range after purchase. While resizing is not considered a warranty repair, we provide this service to ensure the perfect fit. Additional resizing requests may incur a small fee depending on the design."
+        },
+        {
+          "type": "h4",
+          "text": "Are lab-grown diamonds covered under warranty?"
+        },
+        {
+          "type": "p",
+          "text": "Yes, lab-grown diamonds are covered under the same warranty as natural diamonds. This includes protection against manufacturing defects in the setting, ensuring your diamond remains secure."
+        },
+        {
+          "type": "h4",
+          "text": "What is not covered under the jewellery warranty?"
+        },
+        {
+          "type": "p",
+          "text": "The warranty does not cover damage caused by accidental impact, improper care, loss of stones, or normal wear such as scratches and fading. We recommend regular maintenance to keep your jewellery in optimal condition."
+        },
+        {
+          "type": "h4",
+          "text": "Do you offer free cleaning and maintenance services?"
+        },
+        {
+          "type": "p",
+          "text": "Yes, we offer complimentary cleaning and inspection services to help maintain the brilliance and integrity of your jewellery. Regular maintenance ensures that your ring remains secure and beautiful over time."
+        },
+        {
+          "type": "h4",
+          "text": "Is my jewellery warranty valid internationally?"
+        },
+        {
+          "type": "p",
+          "text": "Yes, our warranty is valid internationally. If you are located outside Vietnam, you can contact us to arrange secure shipping for inspection and repair services."
+        },
+        {
+          "type": "h4",
+          "text": "How do I make a warranty claim for my ring?"
+        },
+        {
+          "type": "p",
+          "text": "To make a warranty claim, simply contact our team with your order details and a description of the issue. We will guide you through the next steps, including inspection and repair if required."
+        },
+        {
+          "type": "h4",
+          "text": "Can I repair my engagement ring if it is damaged?"
+        },
+        {
+          "type": "p",
+          "text": "Yes, we offer professional repair services for all our jewellery. Even if the damage is not covered under warranty, our expert craftsmen can restore your ring to its original beauty."
+        },
+        {
+          "type": "h4",
+          "text": "Do I need to service my ring regularly to maintain the warranty?"
+        },
+        {
+          "type": "p",
+          "text": "We recommend periodic inspections and cleaning to maintain your ring’s condition. While regular servicing is not always mandatory, it helps identify potential issues early and ensures long-term durability."
+        }
+      ]
+    },
+    "gemstone": {
+      "title": "Customer-Supplied Gemstone Policy",
+      "sourceUrl": "https://aurorasaigon.com/customer-supplied-gemstone-policy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "At Aurora, we understand that many gemstones carry deep sentimental value or have been passed down through generations. We are pleased to create a new piece of jewellery using a gemstone supplied by the customer, subject to the following terms and conditions:"
+        },
+        {
+          "type": "h2",
+          "text": "1. Gemstone Inspection and Assessment"
+        },
+        {
+          "type": "p",
+          "text": "Before production begins, Aurora will inspect the gemstone to assess its suitability for the intended design. Where necessary, we may recommend adjustments to the design to ensure the safety, durability, and overall integrity of the finished piece."
+        },
+        {
+          "type": "h2",
+          "text": "2. Emerald Gemstones and Mounted Gemstones"
+        },
+        {
+          "type": "h3",
+          "text": "Emerald Gemstones"
+        },
+        {
+          "type": "p",
+          "text": "Due to their natural inclusions and inherent fragility, emeralds are significantly more susceptible to damage during handling and setting than most other gemstones. For this reason, Aurora Saigon is unable to accept customer-supplied emeralds for use in our jewellery."
+        },
+        {
+          "type": "h3",
+          "text": "Mounted Gemstones"
+        },
+        {
+          "type": "p",
+          "text": "Aurora Saigon only accepts customer-supplied gemstones that are **loose and unmounted**. We are unable to accept gemstones that are already set in jewellery."
+        },
+        {
+          "type": "p",
+          "text": "Removing a gemstone from an existing ring, pendant, or other jewellery carries an increased risk of chipping, cracking, or other damage. To protect both our customers and our craftsmen, we do not undertake the removal of customer-owned gemstones from existing jewellery. Any gemstone supplied to Aurora Saigon must be loose prior to submission."
+        },
+        {
+          "type": "h2",
+          "text": "2. Responsibility for Customer-Supplied Gemstones"
+        },
+        {
+          "type": "p",
+          "text": "Aurora will handle every customer-supplied gemstone with the utmost care throughout the manufacturing process."
+        },
+        {
+          "type": "p",
+          "text": "However, as these gemstones may have been previously worn, set, repaired, or cut, they may contain internal inclusions, fractures, stress points, or other natural characteristics that cannot be detected through visual inspection alone. These inherent conditions may increase the risk of damage during removal, setting, or manufacturing."
+        },
+        {
+          "type": "p",
+          "text": "Accordingly, Aurora cannot accept liability for any damage resulting from the gemstone’s pre-existing condition, inherent characteristics, or factors beyond our reasonable control."
+        },
+        {
+          "type": "h2",
+          "text": "3. Insurance and Liability"
+        },
+        {
+          "type": "p",
+          "text": "Aurora does not provide insurance coverage or compensation for customer-supplied gemstones. Customers are encouraged to carefully consider whether they wish to use gemstones of significant financial or sentimental value."
+        },
+        {
+          "type": "h2",
+          "text": "4. Handover Record and Customer Acknowledgement"
+        },
+        {
+          "type": "p",
+          "text": "When a gemstone is entrusted to Aurora, both parties will complete and sign a Gemstone Handover Form, recording the gemstone’s description, quantity, dimensions, current condition, distinguishing characteristics, and photographs where appropriate."
+        },
+        {
+          "type": "p",
+          "text": "In addition, the customer will be required to sign a Customer Acknowledgement and Liability Waiver, confirming that they have read, understood, and accepted Aurora’s Customer-Supplied Gemstone Policy, including the inherent risks associated with working on customer-owned gemstones."
+        },
+        {
+          "type": "h2",
+          "text": "5. Quality of the Finished Piece"
+        },
+        {
+          "type": "p",
+          "text": "Aurora applies the same high standards of craftsmanship to every piece we create. However, the final result may be influenced by the condition, dimensions, proportions, and characteristics of the customer-supplied gemstone."
+        },
+        {
+          "type": "h2",
+          "text": "6. Customer Acceptance"
+        },
+        {
+          "type": "p",
+          "text": "By signing the Gemstone Handover Form and entrusting a gemstone to Aurora, the customer acknowledges that they have read, understood, and agreed to the terms and conditions set out in this policy."
+        }
+      ]
+    },
+    "reasons": {
+      "title": "5 Reasons Why Every Woman Should Try Our Jewellery",
+      "sourceUrl": "https://aurorasaigon.com/5reasonswhy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "At Aurora, we believe that meaningful jewellery is more than the sum of its parts. Our customers love our genuine gemstones and modern iconic designs, but they also love our jewellery for the way a piece of jewellery makes you feel, the meaning behind the stone, and all lovingly handcrafted in Saigon!"
+        },
+        {
+          "type": "img",
+          "src": "/content/policies/reasons-beautiful-aurora-saigon-jewellery.webp",
+          "alt": "beautiful aurora saigon jewellery"
+        },
+        {
+          "type": "h2",
+          "text": "GEMS AS AUTHENTIC AS YOU ARE"
+        },
+        {
+          "type": "img",
+          "src": "/content/policies/reasons-beautiful_authentic_Aurora_Saigon_jewellery.webp",
+          "alt": "pear gemstone rings and pear shaped moonstone pendant from Aurora Saigon"
+        },
+        {
+          "type": "h2",
+          "text": "UNIQUE & ICONIC DESIGNS"
+        },
+        {
+          "type": "img",
+          "src": "/content/policies/reasons-moonstone-ring-and-pendant-from-aurora-saigon.webp",
+          "alt": "Moonstone collection from aurora saigon"
+        },
+        {
+          "type": "h2",
+          "text": "SURPRISINGLY AFFORDABLE PRICES"
+        },
+        {
+          "type": "img",
+          "src": "/content/policies/reasons-authenticated_natural_jewellery_by_aurora_saigon.webp",
+          "alt": "certification of gemstones available at Aurora Saigon Vietnam Ho Chi Minh"
+        },
+        {
+          "type": "h2",
+          "text": "INDEPENDENT GEMMOLOGY LAB CERTIFICATION"
+        },
+        {
+          "type": "img",
+          "src": "/content/policies/reasons-auora-saigon-beautiful-blue-topaz-oval-ring.webp",
+          "alt": "Best quality oval Swiss Blue Topaz ring with stunning white topaz set shank."
+        },
+        {
+          "type": "h2",
+          "text": "TRUST & AMAZING SERVICE"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "hours": "Monday to Sunday, 10.30am to 7.30pm",
+    "replyWithinHours": 48,
+    "returnsNote": "we cannot accept returns at the trading address and you must follow our returns procedure"
+  }
+}

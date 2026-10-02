@@ -1,0 +1,58 @@
+{
+  "source": "https://aurorasaigon.com",
+  "scrapedAt": "2026-10-01T07:41:06.026Z",
+  "title": "FREQUENTLY ASKED QUESTIONS",
+  "categories": [
+    {
+      "name": "Products",
+      "items": [
+        {
+          "question": "What materials are your rings made from?",
+          "answer": [
+            "We offer a selection of fine metals including 9k, 14k, and 18k gold in white, yellow, and rose tones, as well as platinum for those seeking a premium, naturally white finish."
+          ]
+        },
+        {
+          "question": "Where are your rings manufactured?",
+          "answer": [
+            "All of our jewellery is crafted in our dedicated workshop in Bangkok, Thailand—a global hub for fine jewellery manufacturing. Thailand is renowned for its highly skilled artisans, generations of craftsmanship expertise, and exceptional attention to detail, particularly in gemstone setting and gold work. By producing in Bangkok, we are able to combine traditional hand-finishing techniques with modern precision, ensuring consistently high quality while maintaining better control over production and value for our customers."
+          ]
+        },
+        {
+          "question": "Are your diamonds and gemstones natural or lab-grown?",
+          "answer": [
+            "We offer both lab-grown diamonds and natural diamonds, giving you the flexibility to choose based on your preferences, values, and budget."
+          ]
+        },
+        {
+          "question": "Do you offer custom or made-to-order jewellery?",
+          "answer": [
+            "Yes, we specialise in custom and made-to-order jewellery. Each piece can be tailored to your preferences, including the design, metal, gemstone, and finishing details. Whether you’re creating an engagement ring or adapting one of our existing designs, our team will guide you through the process—from initial concept to final craftsmanship—to ensure the piece is uniquely yours."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shipping",
+      "items": [
+        {
+          "question": "Do you ship internationally?",
+          "answer": [
+            "Yes, we ship worldwide. We regularly deliver to customers in the UK, Australia, and many other countries using trusted international couriers to ensure your order arrives safely and securely."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Payment",
+      "items": [
+        {
+          "question": "What payment methods does Aurora Saigon accept?",
+          "answer": [
+            "We offer a range of secure and convenient payment options to suit both local and international customers. You can pay using all major international credit and debit cards, as well as local bank transfers in many countries. For customers visiting us in person, we also accept cash payments at our boutique. Alternatively, you can complete your purchase online through our website using Stripe, a globally trusted and secure payment platform."
+          ]
+        }
+      ]
+    }
+  ]
+}

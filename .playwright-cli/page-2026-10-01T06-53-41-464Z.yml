@@ -1,0 +1,134 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - button "Aurora Saigon home" [ref=f3e4]:
+        - img "Aurora Saigon" [ref=f3e5]
+      - navigation "Primary" [ref=f3e7]:
+        - button "Ready-to-ship" [ref=f3e8]
+        - button "Engagement Rings" [ref=f3e9]
+        - button "Wedding Rings" [ref=f3e10]
+        - button "Craftsmanship" [ref=f3e11]
+        - button "Showroom" [ref=f3e12]
+      - generic [ref=f3e13]:
+        - group "Currency" [ref=f3e14]:
+          - button "VND" [pressed] [ref=f3e15]
+          - button "USD" [ref=f3e16]
+          - button "EUR" [ref=f3e17]
+        - button "Open cart, 0 items" [ref=f3e18]:
+          - text: Bag
+          - generic [ref=f3e19]: "0"
+  - main [ref=f3e20]:
+    - generic [ref=f3e21]:
+      - heading [level=1] [ref=f3e22]:
+        - text: Ring size
+        - emphasis [ref=f3e23]: guide
+      - generic [ref=f3e24]:
+        - generic [ref=f3e25]:
+          - heading "Things to consider before taking your measurements" [level=2] [ref=f3e26]
+          - list [ref=f3e27]:
+            - listitem [ref=f3e28]: The fingers on your dominant hand tend to be larger than those on your non-dominant hand.
+            - listitem [ref=f3e29]: Measure your finger at its normal size, as cold weather can cause your fingers to shrink and hot weather and washing your hands in hot water can make your hand swell.
+            - listitem [ref=f3e30]: Medications and illness can cause the fingers to swell.
+        - generic [ref=f3e31]:
+          - heading "Measure an existing ring" [level=2] [ref=f3e32]
+          - list [ref=f3e33]:
+            - listitem [ref=f3e34]:
+              - generic [ref=f3e35]: "1"
+              - generic [ref=f3e36]: Select an existing ring that fits the desired finger.
+            - listitem [ref=f3e37]:
+              - generic [ref=f3e38]: "2"
+              - generic [ref=f3e39]: Measure the internal dimensions of the ring in mm.
+            - listitem [ref=f3e40]:
+              - generic [ref=f3e41]: "3"
+              - generic [ref=f3e42]: Use the below chart to determine your ring size.
+          - link "Download the printable guide (PDF)" [ref=f3e43] [cursor=pointer]:
+            - /url: https://aurorasaigon.com/pdf/aurora-ring-size-guide-EN.pdf
+      - generic [ref=f3e44]:
+        - heading "Tell me my size" [level=2] [ref=f3e45]
+        - paragraph [ref=f3e46]: Enter the inside diameter of a ring that fits, and we will find the nearest size.
+        - generic [ref=f3e48]:
+          - generic [ref=f3e49]: Internal diameter (mm)
+          - textbox "Internal diameter (mm)" [ref=f3e50]:
+            - /placeholder: "17.3"
+      - generic [ref=f3e52]:
+        - heading "Already know your size in another countries standard" [level=2] [ref=f3e53]
+        - paragraph [ref=f3e54]: For your convenience, use our useful conversion table below to see which US ring size you are. Our rings match US/Canada standards.
+        - table [ref=f3e56]:
+          - caption [ref=f3e57]: Ring size conversion by internal diameter
+          - rowgroup [ref=f3e58]:
+            - row [ref=f3e59]:
+              - columnheader "Internal Diameter (MM)" [ref=f3e60]
+              - columnheader "US" [ref=f3e61]
+              - columnheader "Europe" [ref=f3e62]
+              - columnheader "UK/AU" [ref=f3e63]
+          - rowgroup [ref=f3e64]:
+            - row [ref=f3e65]:
+              - cell "14.8" [ref=f3e66]
+              - cell "4" [ref=f3e67]
+              - cell "47" [ref=f3e68]
+              - cell "H" [ref=f3e69]
+            - row [ref=f3e70]:
+              - cell "15.7" [ref=f3e71]
+              - cell "5" [ref=f3e72]
+              - cell "50" [ref=f3e73]
+              - cell "J" [ref=f3e74]
+            - row [ref=f3e75]:
+              - cell "16.5" [ref=f3e76]
+              - cell "6" [ref=f3e77]
+              - cell "52" [ref=f3e78]
+              - cell "L" [ref=f3e79]
+            - row [ref=f3e80]:
+              - cell "17.3" [ref=f3e81]
+              - cell "7" [ref=f3e82]
+              - cell "55" [ref=f3e83]
+              - cell "N" [ref=f3e84]
+            - row [ref=f3e85]:
+              - cell "18.1" [ref=f3e86]
+              - cell "8" [ref=f3e87]
+              - cell "57" [ref=f3e88]
+              - cell "P" [ref=f3e89]
+            - row [ref=f3e90]:
+              - cell "18.9" [ref=f3e91]
+              - cell "9" [ref=f3e92]
+              - cell "60" [ref=f3e93]
+              - cell "R" [ref=f3e94]
+            - row [ref=f3e95]:
+              - cell "19.8" [ref=f3e96]
+              - cell "10" [ref=f3e97]
+              - cell "62" [ref=f3e98]
+              - cell "T" [ref=f3e99]
+            - row [ref=f3e100]:
+              - cell "20.6" [ref=f3e101]
+              - cell "11" [ref=f3e102]
+              - cell "64" [ref=f3e103]
+              - cell "V" [ref=f3e104]
+            - row [ref=f3e105]:
+              - cell "21.5" [ref=f3e106]
+              - cell "12" [ref=f3e107]
+              - cell "67" [ref=f3e108]
+              - cell "X" [ref=f3e109]
+            - row [ref=f3e110]:
+              - cell "22.3" [ref=f3e111]
+              - cell "13" [ref=f3e112]
+              - cell "69" [ref=f3e113]
+              - cell "Z" [ref=f3e114]
+      - generic [ref=f3e115]:
+        - paragraph [ref=f3e116]: Not sure? We will size you in person.
+        - button "Book Private Viewing in Thảo Điền" [ref=f3e117]
+  - contentinfo [ref=f3e118]:
+    - generic [ref=f3e119]:
+      - generic [ref=f3e120]:
+        - paragraph [ref=f3e121]: Aurora Saigon
+        - paragraph [ref=f3e122]: Bespoke fine jewellery, handcrafted in Saigon. Thao Dien, Ho Chi Minh City.
+        - paragraph [ref=f3e123]: UK Standard Lifetime Warranty.
+      - generic [ref=f3e124]:
+        - navigation "Footer" [ref=f3e125]:
+          - link "Our story" [ref=f3e126] [cursor=pointer]:
+            - /url: /about
+          - link "FAQ" [ref=f3e127] [cursor=pointer]:
+            - /url: /faq
+          - link "Ring size guide" [ref=f3e128] [cursor=pointer]:
+            - /url: /ring-size-guide
+          - link "Journal" [ref=f3e129] [cursor=pointer]:
+            - /url: /blog
+        - paragraph [ref=f3e130]: aurorasaigon.com · Demo storefront · Payments are simulated

@@ -1,0 +1,123 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - button "Aurora Saigon home" [ref=f1e4]:
+        - img "Aurora Saigon" [ref=f1e5]
+      - navigation "Primary" [ref=f1e7]:
+        - button "Ready-to-ship" [ref=f1e8]
+        - button "Engagement Rings" [ref=f1e9]
+        - button "Wedding Rings" [ref=f1e10]
+        - button "Craftsmanship" [ref=f1e11]
+        - button "Showroom" [ref=f1e12]
+      - generic [ref=f1e13]:
+        - group "Currency" [ref=f1e14]:
+          - button "VND" [pressed] [ref=f1e15]
+          - button "USD" [ref=f1e16]
+          - button "EUR" [ref=f1e17]
+        - button "Open cart, 0 items" [ref=f1e18]:
+          - text: Bag
+          - generic [ref=f1e19]: "0"
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - heading [level=1] [ref=f1e23]:
+        - text: Customer-supplied
+        - emphasis [ref=f1e24]: gemstones
+      - generic [ref=f1e27]:
+        - paragraph [ref=f1e28]: "At Aurora, we understand that many gemstones carry deep sentimental value or have been passed down through generations. We are pleased to create a new piece of jewellery using a gemstone supplied by the customer, subject to the following terms and conditions:"
+        - paragraph [ref=f1e29]: 1. Gemstone Inspection and Assessment
+        - paragraph [ref=f1e30]: Before production begins, Aurora will inspect the gemstone to assess its suitability for the intended design. Where necessary, we may recommend adjustments to the design to ensure the safety, durability, and overall integrity of the finished piece.
+        - paragraph [ref=f1e31]: 2. Emerald Gemstones and Mounted Gemstones
+        - heading "Emerald Gemstones" [level=3] [ref=f1e32]
+        - paragraph [ref=f1e33]: Due to their natural inclusions and inherent fragility, emeralds are significantly more susceptible to damage during handling and setting than most other gemstones. For this reason, Aurora Saigon is unable to accept customer-supplied emeralds for use in our jewellery.
+        - heading "Mounted Gemstones" [level=3] [ref=f1e34]
+        - paragraph [ref=f1e35]:
+          - text: Aurora Saigon only accepts customer-supplied gemstones that are
+          - strong [ref=f1e36]: loose and unmounted
+          - text: . We are unable to accept gemstones that are already set in jewellery.
+        - paragraph [ref=f1e37]: Removing a gemstone from an existing ring, pendant, or other jewellery carries an increased risk of chipping, cracking, or other damage. To protect both our customers and our craftsmen, we do not undertake the removal of customer-owned gemstones from existing jewellery. Any gemstone supplied to Aurora Saigon must be loose prior to submission.
+        - paragraph [ref=f1e38]: 2. Responsibility for Customer-Supplied Gemstones
+        - paragraph [ref=f1e39]: Aurora will handle every customer-supplied gemstone with the utmost care throughout the manufacturing process.
+        - paragraph [ref=f1e40]: However, as these gemstones may have been previously worn, set, repaired, or cut, they may contain internal inclusions, fractures, stress points, or other natural characteristics that cannot be detected through visual inspection alone. These inherent conditions may increase the risk of damage during removal, setting, or manufacturing.
+        - paragraph [ref=f1e41]: Accordingly, Aurora cannot accept liability for any damage resulting from the gemstone’s pre-existing condition, inherent characteristics, or factors beyond our reasonable control.
+        - paragraph [ref=f1e42]: 3. Insurance and Liability
+        - paragraph [ref=f1e43]: Aurora does not provide insurance coverage or compensation for customer-supplied gemstones. Customers are encouraged to carefully consider whether they wish to use gemstones of significant financial or sentimental value.
+        - paragraph [ref=f1e44]: 4. Handover Record and Customer Acknowledgement
+        - paragraph [ref=f1e45]: When a gemstone is entrusted to Aurora, both parties will complete and sign a Gemstone Handover Form, recording the gemstone’s description, quantity, dimensions, current condition, distinguishing characteristics, and photographs where appropriate.
+        - paragraph [ref=f1e46]: In addition, the customer will be required to sign a Customer Acknowledgement and Liability Waiver, confirming that they have read, understood, and accepted Aurora’s Customer-Supplied Gemstone Policy, including the inherent risks associated with working on customer-owned gemstones.
+        - paragraph [ref=f1e47]: 5. Quality of the Finished Piece
+        - paragraph [ref=f1e48]: Aurora applies the same high standards of craftsmanship to every piece we create. However, the final result may be influenced by the condition, dimensions, proportions, and characteristics of the customer-supplied gemstone.
+        - paragraph [ref=f1e49]: 6. Customer Acceptance
+        - paragraph [ref=f1e50]: By signing the Gemstone Handover Form and entrusting a gemstone to Aurora, the customer acknowledges that they have read, understood, and agreed to the terms and conditions set out in this policy.
+      - button "Book Private Viewing in Thảo Điền" [ref=f1e52]
+  - contentinfo [ref=f1e53]:
+    - generic [ref=f1e54]:
+      - generic [ref=f1e55]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=f1e56]
+        - paragraph [ref=f1e57]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=f1e58]:
+          - generic [ref=f1e59]: Email address
+          - textbox "Email address" [ref=f1e60]:
+            - /placeholder: Your email address
+          - button "Join" [ref=f1e61]
+      - generic [ref=f1e62]:
+        - generic [ref=f1e63]:
+          - img "Aurora Saigon" [ref=f1e64]
+          - generic [ref=f1e65]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=f1e66]:
+            - link "sales@aurorasaigon.com" [ref=f1e67] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=f1e68] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=f1e69]:
+            - listitem [ref=f1e70]:
+              - link "Facebook" [ref=f1e71] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=f1e74]:
+              - link "Instagram" [ref=f1e75] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=f1e80]:
+              - link "YouTube" [ref=f1e81] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=f1e85]:
+          - heading "All about Aurora" [level=2] [ref=f1e86]
+          - list [ref=f1e87]:
+            - listitem [ref=f1e88]:
+              - link "About Aurora Saigon" [ref=f1e89] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e90]:
+              - link "5 Reasons Why" [ref=f1e91] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=f1e92]:
+              - link "Contact Us" [ref=f1e93] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=f1e94]:
+          - heading "Guides" [level=2] [ref=f1e95]
+          - list [ref=f1e96]:
+            - listitem [ref=f1e97]:
+              - link "Ring Size Guide" [ref=f1e98] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=f1e99]:
+              - link "Journal" [ref=f1e100] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=f1e101]:
+          - heading "Support" [level=2] [ref=f1e102]
+          - list [ref=f1e103]:
+            - listitem [ref=f1e104]:
+              - link "Shipping & Returns" [ref=f1e105] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f1e106]:
+              - link "Payment Methods" [ref=f1e107] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=f1e108]:
+              - link "Privacy Policy" [ref=f1e109] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f1e110]:
+              - link "Warranty Policy" [ref=f1e111] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=f1e112]:
+              - link "Customer Supplied Gemstone Policy" [ref=f1e113] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=f1e114]:
+              - link "FAQ" [ref=f1e115] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=f1e116]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

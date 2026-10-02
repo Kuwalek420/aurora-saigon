@@ -1,0 +1,68 @@
+@import "tailwindcss";
+@config "../../tailwind.config.ts";
+
+/* Colour and font tokens live in tailwind.config.ts. Only non-colour tokens are declared here. */
+@theme inline {
+  --ease-lux: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html {
+  background: #F4F0EB;
+  color-scheme: light;
+}
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-stopped { overflow: hidden; }
+
+body {
+  @apply bg-alabaster text-obsidian font-sans;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern", "liga";
+}
+
+::selection { background: #b8975a; color: #0d0e0e; }
+
+.eyebrow { font-size: 0.68rem; letter-spacing: 0.28em; text-transform: uppercase; font-weight: 500; }
+
+/* Native form controls: no browser chrome, no heavy outlines. */
+select {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  outline: none;
+}
+input, textarea, button { box-shadow: none; }
+button { border-radius: 0; }
+
+/* Keyboard focus stays visible (accessibility) but quiet. */
+:focus { outline: none; }
+:focus-visible { outline: 1px solid rgba(184, 151, 90, 0.7); outline-offset: 3px; }
+
+input[type="range"] { -webkit-appearance: none; appearance: none; height: 1px; background: rgba(142, 142, 142, 0.45); width: 100%; }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; height: 14px; width: 14px; border-radius: 50%; background: #b8975a; border: 0; box-shadow: none; cursor: pointer; }
+input[type="range"]::-moz-range-thumb { height: 14px; width: 14px; border-radius: 50%; background: #b8975a; border: 0; box-shadow: none; cursor: pointer; }
+
+/* Subtle custom scrollbars */
+html { scrollbar-width: thin; scrollbar-color: rgba(142, 142, 142, 0.5) transparent; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(142, 142, 142, 0.4); border-radius: 8px; border: 2px solid transparent; background-clip: content-box; }
+::-webkit-scrollbar-thumb:hover { background: rgba(184, 151, 90, 0.7); background-clip: content-box; }
+.hide-scroll::-webkit-scrollbar { display: none; }
+.hide-scroll { scrollbar-width: none; }
+
+/* Glass surface for floating navigation headers and drawers. */
+@layer components {
+  .glass {
+    @apply bg-alabaster/80 backdrop-blur-md border-b border-charcoal/10;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

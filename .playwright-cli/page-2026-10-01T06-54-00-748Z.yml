@@ -1,0 +1,148 @@
+- generic [active] [ref=f5e1]:
+  - banner [ref=f5e2]:
+    - generic [ref=f5e3]:
+      - button "Aurora Saigon home" [ref=f5e4]:
+        - img "Aurora Saigon" [ref=f5e5]
+      - navigation "Primary" [ref=f5e7]:
+        - button "Ready-to-ship" [ref=f5e8]
+        - button "Engagement Rings" [ref=f5e9]
+        - button "Wedding Rings" [ref=f5e10]
+        - button "Craftsmanship" [ref=f5e11]
+        - button "Showroom" [ref=f5e12]
+      - generic [ref=f5e13]:
+        - group "Currency" [ref=f5e14]:
+          - button "VND" [pressed] [ref=f5e15]
+          - button "USD" [ref=f5e16]
+          - button "EUR" [ref=f5e17]
+        - button "Open cart, 0 items" [ref=f5e18]:
+          - text: Bag
+          - generic [ref=f5e19]: "0"
+  - main [ref=f5e20]:
+    - article [ref=f5e21]:
+      - link "The Journal" [ref=f5e22] [cursor=pointer]:
+        - /url: /blog
+      - heading "The Sapphire Buying Guide - Quality Factors, Treatments & More!" [level=1] [ref=f5e23]
+      - paragraph [ref=f5e24]: 13 December 2023
+      - generic [ref=f5e26]:
+        - img "Natural blue sapphire - Sapphire Buying Guide, Vietnam." [ref=f5e27]
+        - heading "What Colours Do Sapphires Come in?" [level=2] [ref=f5e28]
+        - paragraph [ref=f5e29]: If you want a precious stone but need help determining what colour you want, Sapphires has you covered. We have every shade from the most known and popular Blue sapphires to pinks, oranges, yellow, violet, green, black and colorless sapphires. Once the pinks start turning red, the stone is known as a Ruby. Ruby and Sapphires are in the same gemstone family, but Ruby does command a more significant price tag than Sapphires.
+        - paragraph [ref=f5e30]: "There are no limits to the tones and saturations of sapphires, and you will be amazed at just how many choices there are. What causes these differences in colour is the presence of different minerals in the gemstone. For example, blue sapphires have a titanium element with the stone. If chromium is present in the Sapphire, a pink colour will appear. A mixture of these chemicals in the crystal gives us variations in colours. Concerning white sapphires, these are classed as perfectly chemically pure. When it comes to colour, Mother Nature did spoil us with choice. A fun fact to remember: apart from the classic blue sapphires and white sapphires, coloured sapphires are known as fancy sapphires."
+        - heading "Sapphire Hardness and Crystal Structure" [level=2] [ref=f5e31]
+        - paragraph [ref=f5e32]: If you didn't know, gemstones are measured for their hardness by the Mohs scale (pronounced MOZE). The Good news is that Sapphires are pretty tough cookies and come in at 9 out of 10. This means they are great for everyday wear and are a very durable stone. Another reason why Sapphires make great engagement rings. To learn more about the Mohs scale and hardness of gemstones, visit GIA article on Mohs.
+        - heading "Origin of Sapphires" [level=2] [ref=f5e33]
+        - paragraph [ref=f5e34]: Ruby and sapphire are varieties of corundum and corundum is found abundantly all over the world. However, gemstone quality corundum is exceptionally rare. The actual origins of a Sapphire play a big part in the value of the stone, so it is important to know about the origins of sapphires when buying. Understanding where a Sapphire came from can be quite difficult, but gemologist can usually identify where it was mined from by the inclusions within the stone.
+        - paragraph [ref=f5e35]: From our opinion, the best Sapphires are from Sri Lanka, Nigeria and Madagascar, as these Sapphires tend to have more lusture and brightness about them. Listed below are a few interesting locations where gemstone quality sapphires originate from.
+        - img "Sapphire Buying Guide - Aurora Saigon, Vietnam - Precious Blue Sapphire Gemstone Close-up"
+        - heading "Sri Lanka a.k.a Ceylon Sapphires" [level=3] [ref=f5e36]
+        - paragraph [ref=f5e37]: Sri Lanka historically was called Ceylon from its colonial days. Sapphires from Sri Lanka are known as Ceylon Sapphires and are found in many colours and sizes, except for the colour indigo.
+        - paragraph [ref=f5e38]: Sri Lanka boasts some of the oldest mines for Sapphires recording back to the 4th and 5th century AD. Not only are Sapphires mined such a long time ago from Sri Lanka but to the global market today, Sri Lanka is one of the largest suppliers of Sapphires.
+        - paragraph [ref=f5e39]: Ceylon Sapphires come in many types of colours, but the sort after light blue colour, which is a true cobalt blue, are much distinguishable from dark blue sapphires from Thailand and Australia. For this reason blue Ceylon Sapphires are more expensive, ranging from $200 to $9000, depending on the 4 c's.
+        - img "rare pinkish orange sapphires from sri lanka and madagascar"
+        - heading "The Padparadscha Sapphire" [level=3] [ref=f5e40]
+        - paragraph [ref=f5e41]: These unique sapphires are a blend of pink and orange and even though Parparadscha sapphires can be found in other locations, Sri Lanka is considered the true origin of this type of Sapphire. The colour is a delicate mix of pinkish-orange hues, and is said to resemble the tips of a new lotus flower at dawn. Padmaraga is a Sanskrit term for lotus blossom, which is where Padparadscha Sapphires derive their name from. These types of sapphires command a higher price because of their desirability and are the rarest and most expensive Sapphires.
+        - img "Sapphire Buying Guide - Aurora Saigon, Vietnam - Raw Blue Sapphire"
+        - heading "Kashmir Sapphires" [level=3] [ref=f5e42]
+        - paragraph [ref=f5e43]: High quality Sapphires are found in Northen India, Kashmir, but the mines are now considered depleted and closed. For this reason, no new sapphires are appearing on the market from Kashmir, which makes older Sapphires from this region expensive.
+        - paragraph [ref=f5e44]: Kashmir sapphires are generally cloudy but offer an extremely attractive blue colour. Stones from Kashmir are highly sort after. Due to the fact no new Kashmir sapphires are entering the market, this origin of sapphire will likely not be an option to you.
+        - 'img "ILAKAKA, MADAGASCAR - AUGUST 2017: aerial view of poor African people looking for gold, precious gems, sapphires in a muddy river near Ilakaka, Ihorombe region, Madagascar"'
+        - heading "Madagascar Sapphires" [level=3] [ref=f5e45]
+        - paragraph [ref=f5e46]: Large deposits of Sapphires were found only as recently as 1998 in Madagascar. Finding large deposits is exceptionally rare in this day and age. The colour Sapphires that are mainly found in Madagascar are from yellow, pink, green, white, and the infamous orange Padparadscha Sapphire.
+        - img "natural sapphires"
+        - heading "Cambodian Sapphires" [level=3] [ref=f5e47]
+        - paragraph [ref=f5e48]: Sapphires from Cambodia have dark, smokey hues and are mined from the Pailin and Preah Vihar provinces. Unfortunately, the Sapphires from Pailin have a dark history with their connection to funding the Khmer Rouge regime. They were one of the first blood gemstones. Today, in more peaceful times, Sapphires from Cambodia are being mined again. Typically, the Sapphires that come out of Pailin are on the small side. Also, this type of colour sapphire, with its dark blues, is not for everyone, but it can make for an exciting piece.
+        - img "yellow sapphire Gemstone close up Shot"
+        - heading "Vietnam Sapphires" [level=3] [ref=f5e49]
+        - paragraph [ref=f5e50]: "Seems we are a Vietnamese-based company; it would be rude not to mention the beautiful colored stones that can be found in Vietnam. Sapphires and Rubies can be found in the following areas in Vietnam: the Central Highlands provinces of Dak Lak and Lam Dong, as well as the southern provinces of Dong Nai and Binh Thuan. Most of the mining is performed by small-scale, independent operators. Most of this rough material ends up across borders in nearby Thailand for cutting, so the origins of Vietnamese Sapphires can be lost, and a true understanding of the quality of Sapphires coming out of Vietnam. The gemstone quality and large deposits of Corundum are considered promising for the future of Vietnam."
+        - heading "Star Sapphires" [level=2] [ref=f5e51]
+        - paragraph [ref=f5e52]: A star sapphire could also take your interest. This sort after stone, which appears as though a star is trapped inside, makes for a captivating stone. The optical phenomenon is known as asterism, which is the Latin meaning for star. What makes the star effect in star sapphires? Needle-like inclusions of the mineral rutile within the gemstone, although in black sapphires the star effect is caused by the mineral hematite. Do note though, that this optical phenomenon only appears when light is shined onto the gemstone, else the stone will appear dark and opaque.
+        - img "cab star sapphires Jewellery Ho Chi Minh - Vietnam"
+        - heading "Blue Sapphire Engagement Ring" [level=2] [ref=f5e53]
+        - paragraph [ref=f5e54]: "One lady and one lady alone made Blue Sapphire engagement rings popular: Princess Diana! Picking a Blue sapphire for her engagement ring was seen as stepping outside the norm. Princess Diana was a lady known not to follow the crowd or what was expected. Now the most famous engagement ring in the world, Blue Sapphires are an excellent choice for an engagement ring. It doesn't always have to be diamonds for an engagement ring. However, diamonds do compliment Blue Sapphires exceptionally well. If you are looking to create a custom Blue Sapphire Engagement ring, contact us and check out our Custom Engagement Ring process."
+        - img "blue sapphire engagement ring - Ho Chi Minh - Vietnam"
+        - heading "How to Buy Blue Sapphire" [level=2] [ref=f5e55]
+        - paragraph [ref=f5e56]: The Sapphire's colour is the main influence in its value. The best quality blue sapphires have a very vivid saturation and medium dark tones. Sky blue sapphires and dark blue command a lower value. Look for a velvety blue sapphire, which is known as royal blue sapphire.
+        - heading "Cornflower Sapphire" [level=3] [ref=f5e57]
+        - paragraph [ref=f5e58]: A perfectly blue sapphire is very rare, known in the trade as cornflower blue sapphires. These are expensive sapphires due to their rarity and are highly prized. Why the name Cornflower? It is based on the colour of the Cornflower. This flower contains a distinct blue hue, and the name was given because these flowers were prominent in cornfields. Thus, the ability of a natural gemstone to capture this elusive colour and particular shade of blue makes it a high-value proposition in terms of rarity and beauty.
+        - img "Cornflower blue - perfect blue gem colour"
+        - heading "Most Popular Sapphire Stone Cuts" [level=2] [ref=f5e59]
+        - paragraph [ref=f5e60]: The most popular stone cuts for Sapphires, and the easiest cuts to find on the market are the following,
+        - list [ref=f5e61]:
+          - listitem [ref=f5e62]: Cushion cut
+          - listitem [ref=f5e63]: Round cut
+          - listitem [ref=f5e64]: Oval cut
+          - listitem [ref=f5e65]: Emerald cut
+        - img "blue sapphire stone cuts"
+        - paragraph [ref=f5e66]: The round-shaped cut Sapphire is probably the most popular but tends to be the most expensive per carat weight. This style of cut is not the most economical, resulting in more waste than other cuts.
+        - paragraph [ref=f5e67]: An Oval cut is a classic shape for engagement sapphire rings. Natural sapphires cut in this shape make the stone look more significant than other sapphires of the same weight. This elegant, timeless shape will give the illusion that your fingers are more prolonged.
+        - paragraph [ref=f5e68]: A Cushion shaped Sapphire can also make for a great cut for an engagement ring.
+        - paragraph [ref=f5e69]: Choosing a shape for you depends on whether you want to make a strong statement with, say, an unusual heart or marquise cut or keep it traditional with a round and oval stone. Most importantly, whatever shape you pick is a personal choice that can have meaning and the one you love the most.
+        - heading "Synthetic Sapphires" [level=2] [ref=f5e70]
+        - paragraph [ref=f5e71]: Sapphire was one of the first gemstones to be lab-grown and synthesised due to the fact that gem-quality Sapphires are rarer than diamonds and demand far exceeds natural supply. It is important to understand that a synthetic blue sapphire is not a fake Sapphire. By every means, they are optically, chemically and structurally identical to natural sapphires. Synthetic sapphires are obviously a lot cheaper than natural stones, so it is important to know if the stone is man made. When inspecting a synthetic sapphire you will see little to no inclusions within the stone and it will be of exceptional quality. If the prices is too good to be true, it normally is. If in doubt, always seek a gem report.
+        - heading "Sapphire Treatments" [level=2] [ref=f5e72]
+        - paragraph [ref=f5e73]: Treated Sapphires are generally the norm, and the majority of commercial-grade Sapphires have had some kind of treatment. There has been a long history of practises of treating sapphires to give them more vivid colors and improving a Sapphire's clarity. With todays modern technology, practices have improved some what.
+        - img "The Good, The Bad and the ugly of Sapphire Treatment Guide"
+        - heading "Heat Treated (Good)" [level=3] [ref=f5e74]
+        - paragraph [ref=f5e75]: Heat treatment is the more common treatment for Sapphires and for most other gemstones for that mater. As the name suggests, the gemstone is heated to a very high temperature. By heating the Sapphire you can change the colour to a more desirable colour, either by developing or intensifying its natural colour. The more aggressive the heating the less value the Sapphire becomes.
+        - paragraph [ref=f5e76]: Heat treatment can also improve the clarity of the stone by removing or reducing the inclusions in the stone. In the trade heat treatments are considered acceptable, as they are a stable treatment and permanent. Slightly heat treated stones can also command high ct weight prices, upwards to $3,000 a ct.
+        - heading "Radiation Treatments (Bad)" [level=3] [ref=f5e77]
+        - paragraph [ref=f5e78]: This is another treatment that is also used to improve the colour of a stone. However, radiation is not a stable treatment, unlike heat treatments; over time, the gemstone colour will fade if exposed to bright light or heat. You will find this treatment mostly applied to fancy sapphires, turning pale colours into more vivid colours.
+        - heading "Fracture Filling Treatments (Ugly)" [level=3] [ref=f5e79]
+        - paragraph [ref=f5e80]: The worst treatment is the fracture filling treatment. Exceptionally poor quality corundum is injected with lead glass to fill in the fractures of the stone. This type of treatment is unstable, and you should not waste your money on such poor-quality stones.
+        - paragraph [ref=f5e81]: Our experience in Vietnam is that these treatments are not disclosed to the buyer, which is disappointing, mainly since we have found glass-filled rubies and sapphires being sold by significant well-known high street brands in Vietnam that are not being disclosed, and to make things worse, at unfair prices.
+        - paragraph [ref=f5e82]: It is essential to understand that when buying a fracture-filled Sapphire, it is impossible to know how much of it is glass and how much of it is Sapphire (corundum). So much so that a gemological institute would class the gemstone as a 'composite' stone, with no mention of Sapphire. The value of these lead glass filled Sapphires and Rubies is about $30 ct and in our opinion is only suitable for cheap silver jewellery.
+        - paragraph [ref=f5e83]: If you are going to invest your hard earned money in a Sapphire, we recommend a lab report from gemological institute, like GIA or any other trusted gemological institute. This way you can be confident you know about any treatments the stone has had.
+        - heading "Beryllium Diffusion (Controversial)" [level=3] [ref=f5e84]
+        - paragraph [ref=f5e85]: When heat treatment fails to improve the colour of the stone, another treatment called Beryllium Diffusion is used. The stone is heated to its near melting point and then diffused into the stone with the element beryllium. This colour-inducing element penetrates deep with stone to bring a more vivid color.
+        - paragraph [ref=f5e86]: The practice is somewhat controversial within the industry because it can be hard to detect, and many of these treated sapphires have been mistaken for natural padparadschas sapphires. However, in recent years, it has now become easier for trained gemologists to detect.
+        - paragraph [ref=f5e87]: The good news about the Beryllium diffusion treatment is that it is entirely stable, and for stones that have had this treatment, the new colour is consistently distributed through the Sapphire.
+        - paragraph [ref=f5e88]: After the Sapphire has had this type of treatment, the stone is considerably cheaper in value and is offered in the trade considerably cheaper than stones without it.
+        - heading "How to Care for Sapphire" [level=2] [ref=f5e89]
+        - paragraph [ref=f5e90]: To clean your sapphire we recommend using warm soupy water and a gemstone cleaning cloth. When the sapphire is set in jewellery use a soft toothbrush to clean through the setting. Do not use chemicals to clean your stone.
+        - paragraph [ref=f5e91]: Sapphires are the second hardest gemstone, second only to diamond. They very rarely crack, scratch or chip due to corundum being incredibly tough.
+        - paragraph [ref=f5e92]: When storing your jewellery, please separate them careful and make sure they do not touch each other. Some stones will scratch others, for example Emeralds, Opals and Tanzanites are a much softer stone, so can be scratched easily.
+        - paragraph [ref=f5e93]: It is also essential to know that a treated natural sapphire should be cared for even more due to its potentially unstable condition not taking too kindly to heat and other factors. When sending your Jewellery with a treated sapphire to a goldsmith, it is vital to inform them of the stone treatment so no cleaning processes or work can be carried out that may damage the stone. If your Sapphire has only been heat treated, you should not worry, but all other treatments can be a concern.
+        - heading "Sapphire History, Lore and Fun Facts" [level=2] [ref=f5e94]
+        - paragraph [ref=f5e95]: Sapphires have been steeped in mystery and lore for many centuries. This stone has been associated with royalty, religion and romance, captivating the world with its beauty.
+        - paragraph [ref=f5e96]: Blue Sapphires have always be the standard by which other blue gemstones, like Tanzanite and Blue Topaz, have been measured against.
+        - paragraph [ref=f5e97]: The name Sapphire originates from the greek word sappheiros, and for those lucky ones born in September, Sapphire is your birthstone. Also this stone celebrates the fifth and forty fifth wedding anniversaries, so why no celebrate these occasions with a sapphire ring!
+        - heading "Conclusion" [level=2] [ref=f5e98]
+        - paragraph [ref=f5e99]: With this sapphire buying guide, we aim to cover all aspects that will help you make an informed purchase of a Sapphire. But when purchasing expensive sapphires or any expensive gemstone, you are also buying into the seller. It is essential to get to know the individual seller as well as the item you are purchasing. This is why at Aurora Saigon, we make the time and effort to inform our customers as much as possible about gemstones and jewellery and not just looking to sell. We hope you have found this blog post helpful, and if you need help purchasing a Sapphire from us or anyone else, we are always happy to offer advice.
+    - generic [ref=f5e100]:
+      - heading "More from the journal" [level=2] [ref=f5e101]
+      - list [ref=f5e102]:
+        - listitem [ref=f5e103]:
+          - link [ref=f5e104] [cursor=pointer]:
+            - /url: /blog/on-which-finger-do-you-wear-your-engagement-ring
+            - img "On which finger should you wear your engagement ring?" [ref=f5e106]
+            - heading "Which Finger Do You Wear Your Engagement Ring On?" [level=3] [ref=f5e107]
+            - paragraph [ref=f5e108]: 28 February 2026
+        - listitem [ref=f5e109]:
+          - link [ref=f5e110] [cursor=pointer]:
+            - /url: /blog/ring-design-basics
+            - img "Buying a oval diamond? Find out about these tips before you do!" [ref=f5e112]
+            - heading "Engagement Ring Design Basics" [level=3] [ref=f5e113]
+            - paragraph [ref=f5e114]: 29 November 2025
+        - listitem [ref=f5e115]:
+          - link [ref=f5e116] [cursor=pointer]:
+            - /url: /blog/oval-diamond-buying-tips
+            - img "Buying a oval diamond? Find out about these tips before you do!" [ref=f5e118]
+            - heading "Oval Diamond Buying Advice" [level=3] [ref=f5e119]
+            - paragraph [ref=f5e120]: 16 December 2024
+  - contentinfo [ref=f5e121]:
+    - generic [ref=f5e122]:
+      - generic [ref=f5e123]:
+        - paragraph [ref=f5e124]: Aurora Saigon
+        - paragraph [ref=f5e125]: Bespoke fine jewellery, handcrafted in Saigon. Thao Dien, Ho Chi Minh City.
+        - paragraph [ref=f5e126]: UK Standard Lifetime Warranty.
+      - generic [ref=f5e127]:
+        - navigation "Footer" [ref=f5e128]:
+          - link "Our story" [ref=f5e129] [cursor=pointer]:
+            - /url: /about
+          - link "FAQ" [ref=f5e130] [cursor=pointer]:
+            - /url: /faq
+          - link "Ring size guide" [ref=f5e131] [cursor=pointer]:
+            - /url: /ring-size-guide
+          - link "Journal" [ref=f5e132] [cursor=pointer]:
+            - /url: /blog
+        - paragraph [ref=f5e133]: aurorasaigon.com · Demo storefront · Payments are simulated

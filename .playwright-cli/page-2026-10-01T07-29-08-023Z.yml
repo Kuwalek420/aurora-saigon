@@ -1,0 +1,184 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - button "Aurora Saigon home" [ref=f3e4]:
+        - img "Aurora Saigon" [ref=f3e5]
+      - navigation "Primary" [ref=f3e7]:
+        - button "Ready-to-ship" [ref=f3e8]
+        - button "Engagement Rings" [ref=f3e9]
+        - button "Wedding Rings" [ref=f3e10]
+        - button "Craftsmanship" [ref=f3e11]
+        - button "Showroom" [ref=f3e12]
+      - generic [ref=f3e13]:
+        - group "Currency" [ref=f3e14]:
+          - button "VND" [pressed] [ref=f3e15]
+          - button "USD" [ref=f3e16]
+          - button "EUR" [ref=f3e17]
+        - button "Open cart, 0 items" [ref=f3e18]:
+          - text: Bag
+          - generic [ref=f3e19]: "0"
+  - main [ref=f3e20]:
+    - generic [ref=f3e21]:
+      - heading [level=1] [ref=f3e22]:
+        - text: Warranty &
+        - emphasis [ref=f3e23]: care
+      - paragraph [ref=f3e24]: "Rings: UK Standard Lifetime Warranty. Pendants, earrings, bracelets and chains: 2-Year Fine Jewellery Warranty."
+      - generic [ref=f3e27]:
+        - paragraph [ref=f3e28]: At Aurora Saigon, we stand behind the quality and craftsmanship of every piece we create. Our jewellery is expertly crafted in Bangkok, Thailand, using carefully selected materials and precise manufacturing techniques.
+        - paragraph [ref=f3e29]: We are proud to offer a Lifetime Manufacturing Warranty on eligible items, covering defects in materials and workmanship under normal wear.
+        - paragraph [ref=f3e30]: This warranty is provided in addition to your statutory consumer rights.
+        - heading "Warranty Coverage by Product Type" [level=3] [ref=f3e31]
+        - heading "Rings – Engagement, Wedding & Fashion" [level=4] [ref=f3e32]
+        - paragraph [ref=f3e33]: All our engagement rings are covered by a lifetime warranty, ensuring long-term quality and peace of mind.
+        - paragraph [ref=f3e34]: "Coverage: Lifetime Manufacturing Warranty from the date of receipt."
+        - heading "What’s Covered:" [level=3] [ref=f3e35]
+        - list [ref=f3e36]:
+          - listitem [ref=f3e37]: Porosity, surface imperfections, or visible blemishes in the metal
+          - listitem [ref=f3e38]: Uneven or misaligned settings identified at delivery or during servicing
+          - listitem [ref=f3e39]: Chips, nicks, or surface defects in stones identified at delivery or during servicing
+          - listitem [ref=f3e40]: Plating defects, including uneven rhodium application, identified at delivery or during servicing
+        - paragraph [ref=f3e41]: "Remedy: Confirmed manufacturing defects will be repaired or replaced at no cost."
+        - heading "Fine Jewellery – Earrings, Chains, Bracelets & Pendants" [level=4] [ref=f3e42]
+        - paragraph [ref=f3e43]: "Coverage: 2-Year Manufacturing Warranty from the date of receipt."
+        - paragraph [ref=f3e44]: "What’s Covered: Manufacturing defects affecting the structure or function of the piece. These are typically evident within the early period of wear."
+        - paragraph [ref=f3e45]: "Remedy: Defective items will be repaired or replaced free of charge within the warranty period."
+        - paragraph [ref=f3e46]: "After 2 Years: Repairs may still be offered; however, costs will be assessed on a case-by-case basis."
+        - heading "Gemstones – Lab Diamonds, Moissanite & Sapphires" [level=4] [ref=f3e47]
+        - paragraph [ref=f3e48]: Our gemstones, including natural diamonds, lab-grown diamonds, moissanite, and sapphires, are carefully selected for exceptional quality and brilliance. Browse our collection of loose lab-grown diamonds to choose the perfect centre stone for your design.
+        - paragraph [ref=f3e49]: "Coverage: Lifetime Manufacturing Warranty covering the stone characteristics selected at the time of purchase."
+        - paragraph [ref=f3e50]: "What’s Covered: Issues relating to the original manufacturing or setting of the stone."
+        - heading "Exclusions:" [level=3] [ref=f3e51]
+        - list [ref=f3e52]:
+          - listitem [ref=f3e53]: General wear and tear
+          - listitem [ref=f3e54]: Chipping, cracking, or breakage due to impact
+          - listitem [ref=f3e55]: Accidental damage or mishandling
+          - listitem [ref=f3e56]: Loss or theft
+        - heading "What Is Not Covered" [level=3] [ref=f3e57]
+        - paragraph [ref=f3e58]: "This warranty does not cover:"
+        - list [ref=f3e59]:
+          - listitem [ref=f3e60]: Normal wear and tear, including scratches, dents, and surface wear
+          - listitem [ref=f3e61]: Damage caused by impact, accidents, misuse, or improper care
+          - listitem [ref=f3e62]: Loss or theft
+          - listitem [ref=f3e63]: Repairs, resizing, or alterations carried out by third parties
+        - heading "Lifetime Cleaning & Servicing" [level=3] [ref=f3e64]
+        - paragraph [ref=f3e65]: To help maintain the beauty and integrity of your jewellery, Aurora Saigon offers complimentary lifetime cleaning and inspection services.
+        - heading "What’s Included:" [level=3] [ref=f3e66]
+        - list [ref=f3e67]:
+          - listitem [ref=f3e68]: Professional cleaning to restore shine and brilliance
+          - listitem [ref=f3e69]: Inspection of stone settings and overall structure
+          - listitem [ref=f3e70]: Basic maintenance checks to help ensure continued wearability
+        - paragraph [ref=f3e71]: "Service Frequency: Available once per year per item."
+        - heading "Important Notes:" [level=3] [ref=f3e72]
+        - list [ref=f3e73]:
+          - listitem [ref=f3e74]: Jewellery must be brought to our Aurora Saigon boutique for servicing
+          - listitem [ref=f3e75]: This service does not include repairs for damage, wear and tear, or non-manufacturing issues
+          - listitem [ref=f3e76]: Any additional work required will be quoted and approved before proceeding
+        - heading "Consumer Rights" [level=3] [ref=f3e77]
+        - paragraph [ref=f3e78]: This warranty is provided in addition to your rights under applicable consumer laws. Nothing in this policy limits or replaces your statutory protections.
+        - heading "How to Make a Claim" [level=3] [ref=f3e79]
+        - paragraph [ref=f3e80]: "If you believe your item has a manufacturing defect, please follow these steps:"
+        - paragraph [ref=f3e81]: 1. Contact us with your proof of purchase and a description of the issue. 2. Send or bring the item to us for inspection. 3. Assessment – our team will determine whether the issue is covered. 4. Resolution – approved claims will be repaired or replaced free of charge.
+        - paragraph [ref=f3e82]: If the issue falls outside warranty coverage, a repair quote will be provided before any work is carried out.
+        - heading "Jewellery Care" [level=3] [ref=f3e83]
+        - paragraph [ref=f3e84]: "To preserve the longevity of your jewellery, we recommend the following care tips:"
+        - list [ref=f3e85]:
+          - listitem [ref=f3e86]: Remove jewellery during activities involving impact or exposure to chemicals
+          - listitem [ref=f3e87]: Clean gently using mild soap and water
+          - listitem [ref=f3e88]: Store pieces separately in a soft pouch or jewellery box
+        - heading "Our Promise" [level=3] [ref=f3e89]
+        - paragraph [ref=f3e90]: Our warranty and aftercare services reflect our confidence in the quality of our craftsmanship and our commitment to your long-term satisfaction.
+        - heading "FAQ" [level=2] [ref=f3e91]
+        - paragraph [ref=f3e92]: Your questions, answered.
+        - heading "What does your jewellery warranty cover?" [level=4] [ref=f3e93]
+        - paragraph [ref=f3e94]: Our warranty covers manufacturing defects in materials and craftsmanship. This includes issues such as loose settings, faulty clasps, or structural defects under normal wear. It does not cover damage caused by accidents, misuse, or general wear and tear.
+        - heading "How long is the warranty on engagement rings?" [level=4] [ref=f3e95]
+        - paragraph [ref=f3e96]: Our engagement rings come with a lifetime warranty covering manufacturing defects. We also offer ongoing support and maintenance services to ensure your ring remains in excellent condition over time.
+        - heading "Does the warranty cover resizing or adjustments?" [level=4] [ref=f3e97]
+        - paragraph [ref=f3e98]: We offer complimentary resizing within a specified range after purchase. While resizing is not considered a warranty repair, we provide this service to ensure the perfect fit. Additional resizing requests may incur a small fee depending on the design.
+        - heading "Are lab-grown diamonds covered under warranty?" [level=4] [ref=f3e99]
+        - paragraph [ref=f3e100]: Yes, lab-grown diamonds are covered under the same warranty as natural diamonds. This includes protection against manufacturing defects in the setting, ensuring your diamond remains secure.
+        - heading "What is not covered under the jewellery warranty?" [level=4] [ref=f3e101]
+        - paragraph [ref=f3e102]: The warranty does not cover damage caused by accidental impact, improper care, loss of stones, or normal wear such as scratches and fading. We recommend regular maintenance to keep your jewellery in optimal condition.
+        - heading "Do you offer free cleaning and maintenance services?" [level=4] [ref=f3e103]
+        - paragraph [ref=f3e104]: Yes, we offer complimentary cleaning and inspection services to help maintain the brilliance and integrity of your jewellery. Regular maintenance ensures that your ring remains secure and beautiful over time.
+        - heading "Is my jewellery warranty valid internationally?" [level=4] [ref=f3e105]
+        - paragraph [ref=f3e106]: Yes, our warranty is valid internationally. If you are located outside Vietnam, you can contact us to arrange secure shipping for inspection and repair services.
+        - heading "How do I make a warranty claim for my ring?" [level=4] [ref=f3e107]
+        - paragraph [ref=f3e108]: To make a warranty claim, simply contact our team with your order details and a description of the issue. We will guide you through the next steps, including inspection and repair if required.
+        - heading "Can I repair my engagement ring if it is damaged?" [level=4] [ref=f3e109]
+        - paragraph [ref=f3e110]: Yes, we offer professional repair services for all our jewellery. Even if the damage is not covered under warranty, our expert craftsmen can restore your ring to its original beauty.
+        - heading "Do I need to service my ring regularly to maintain the warranty?" [level=4] [ref=f3e111]
+        - paragraph [ref=f3e112]: We recommend periodic inspections and cleaning to maintain your ring’s condition. While regular servicing is not always mandatory, it helps identify potential issues early and ensures long-term durability.
+      - button "Book Private Viewing in Thảo Điền" [ref=f3e114]
+  - contentinfo [ref=f3e115]:
+    - generic [ref=f3e116]:
+      - generic [ref=f3e117]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=f3e118]
+        - paragraph [ref=f3e119]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=f3e120]:
+          - generic [ref=f3e121]: Email address
+          - textbox "Email address" [ref=f3e122]:
+            - /placeholder: Your email address
+          - button "Join" [ref=f3e123]
+      - generic [ref=f3e124]:
+        - generic [ref=f3e125]:
+          - img "Aurora Saigon" [ref=f3e126]
+          - generic [ref=f3e127]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=f3e128]:
+            - link "sales@aurorasaigon.com" [ref=f3e129] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=f3e130] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=f3e131]:
+            - listitem [ref=f3e132]:
+              - link "Facebook" [ref=f3e133] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=f3e136]:
+              - link "Instagram" [ref=f3e137] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=f3e142]:
+              - link "YouTube" [ref=f3e143] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=f3e147]:
+          - heading "All about Aurora" [level=2] [ref=f3e148]
+          - list [ref=f3e149]:
+            - listitem [ref=f3e150]:
+              - link "About Aurora Saigon" [ref=f3e151] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f3e152]:
+              - link "5 Reasons Why" [ref=f3e153] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=f3e154]:
+              - link "Contact Us" [ref=f3e155] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=f3e156]:
+          - heading "Guides" [level=2] [ref=f3e157]
+          - list [ref=f3e158]:
+            - listitem [ref=f3e159]:
+              - link "Ring Size Guide" [ref=f3e160] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=f3e161]:
+              - link "Journal" [ref=f3e162] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=f3e163]:
+          - heading "Support" [level=2] [ref=f3e164]
+          - list [ref=f3e165]:
+            - listitem [ref=f3e166]:
+              - link "Shipping & Returns" [ref=f3e167] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f3e168]:
+              - link "Payment Methods" [ref=f3e169] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=f3e170]:
+              - link "Privacy Policy" [ref=f3e171] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f3e172]:
+              - link "Warranty Policy" [ref=f3e173] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=f3e174]:
+              - link "Customer Supplied Gemstone Policy" [ref=f3e175] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=f3e176]:
+              - link "FAQ" [ref=f3e177] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=f3e178]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

@@ -1,0 +1,137 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - button "Aurora Saigon home" [ref=f1e4]:
+        - img "Aurora Saigon" [ref=f1e5]
+      - navigation "Primary" [ref=f1e7]:
+        - button "Ready-to-ship" [ref=f1e8]
+        - button "Engagement Rings" [ref=f1e9]
+        - button "Wedding Rings" [ref=f1e10]
+        - button "Craftsmanship" [ref=f1e11]
+        - button "Showroom" [ref=f1e12]
+      - generic [ref=f1e13]:
+        - group "Currency" [ref=f1e14]:
+          - button "VND" [pressed] [ref=f1e15]
+          - button "USD" [ref=f1e16]
+          - button "EUR" [ref=f1e17]
+        - button "Open cart, 0 items" [ref=f1e18]:
+          - text: Bag
+          - generic [ref=f1e19]: "0"
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - heading [level=1] [ref=f1e22]:
+        - text: Our
+        - emphasis [ref=f1e23]: Story
+      - generic [ref=f1e24]:
+        - img "Handcrafted bespoke jewellery at Aurora Saigon" [ref=f1e25]
+        - generic [ref=f1e26]:
+          - heading "Every Piece Begins With a Story." [level=2] [ref=f1e27]
+          - generic [ref=f1e28]:
+            - paragraph [ref=f1e29]: The jewellery you choose today may become part of your family's story for generations to come.
+            - paragraph [ref=f1e30]: At Aurora Saigon, we believe jewellery of that significance deserves more than a catalogue, a sales pitch or a rushed decision. It deserves thoughtful design, honest advice and exceptional craftsmanship.
+            - paragraph [ref=f1e31]: From our boutique in Ho Chi Minh City, we specialise in bespoke engagement rings, wedding bands and custom jewellery, working with customers across Vietnam and around the world to create pieces that will be treasured for generations.
+      - generic [ref=f1e32]:
+        - generic [ref=f1e33]:
+          - figure [ref=f1e34]:
+            - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e35]
+          - generic [ref=f1e36]:
+            - heading "Why We Do What We Do" [level=2] [ref=f1e37]
+            - generic [ref=f1e38]:
+              - paragraph [ref=f1e39]: "Aurora Saigon was founded on a simple belief: exceptional jewellery should be built on trust, not salesmanship."
+              - paragraph [ref=f1e40]: The jewellery industry can often feel confusing. Technical jargon, inconsistent grading, inflated pricing and high-pressure sales tactics can make it difficult for customers to know what they're really buying.
+              - paragraph [ref=f1e41]: We wanted to create a different experience.
+              - paragraph [ref=f1e42]: One where customers feel comfortable asking questions, comparing options and making informed decisions without pressure. Whether you're choosing a diamond, selecting a gemstone or designing a completely bespoke piece, our role is to guide you with honest advice and expert knowledge.
+              - paragraph [ref=f1e43]: Sometimes that means recommending a less expensive option because it's the better choice. Sometimes it means explaining why a particular design won't stand the test of time. We believe long-term trust is far more valuable than making a single sale.
+              - paragraph [ref=f1e44]: That philosophy continues to shape every piece of jewellery we create today.
+        - generic [ref=f1e45]:
+          - figure [ref=f1e46]:
+            - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e47]
+          - generic [ref=f1e48]:
+            - heading "Our Journey" [level=2] [ref=f1e49]
+            - generic [ref=f1e50]:
+              - paragraph [ref=f1e51]: Like many independent businesses, Aurora Saigon has evolved over time.
+              - paragraph [ref=f1e52]: When we first opened our doors in 2020, we offered a wide range of jewellery and gemstones while learning what mattered most to our customers. Every conversation, every custom design and every piece we created helped shape the business we are today.
+              - paragraph [ref=f1e53]: As Aurora grew, so did our understanding of where we could offer the greatest value.
+              - paragraph [ref=f1e54]: We discovered that our true passion wasn't simply selling jewellery—it was creating it.
+              - paragraph [ref=f1e55]: Today, bespoke engagement rings, wedding bands and custom jewellery have become the heart of our business. We work closely with every customer to design pieces that are personal, meaningful and made to last, whether that's remodelling a treasured family heirloom, creating a one-of-a-kind engagement ring or bringing a completely original idea to life.
+              - paragraph [ref=f1e56]: While the business has changed, the principles behind it have not.
+              - paragraph [ref=f1e57]: Our commitment to honesty, craftsmanship and exceptional service remains exactly as it was on day one. The only difference is that today, we bring years of experience, thousands of completed pieces and a clearer understanding of who we are and what we stand for.
+        - generic [ref=f1e58]:
+          - figure [ref=f1e59]:
+            - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e60]
+          - generic [ref=f1e61]:
+            - heading "Why Thailand?" [level=2] [ref=f1e62]
+            - generic [ref=f1e63]:
+              - paragraph [ref=f1e64]: One of the questions we're asked most often is why our jewellery is handcrafted in Thailand rather than Vietnam.
+              - paragraph [ref=f1e65]: "The answer is simple: we chose the workshop, not the country."
+              - paragraph [ref=f1e66]: When building Aurora Saigon, we spent considerable time searching for manufacturing partners who shared our values of quality, precision and attention to detail. We eventually found that partner in Bangkok, where some of the world's finest jewellery craftsmen have been refining their skills for generations.
+              - paragraph [ref=f1e67]: Choosing to manufacture outside Vietnam wasn't the easiest path. It introduced additional logistics, longer lead times and greater complexity. But from the very beginning, we made a commitment never to compromise on quality. If that meant taking the more difficult route to achieve the standard our customers deserve, then it was a decision we were happy to make.
+              - paragraph [ref=f1e68]: Thailand has long been recognised as one of the world's leading centres for fine jewellery manufacturing. Its reputation has been built on exceptional craftsmanship, expert gemstone setting and meticulous hand finishing—qualities that perfectly align with the standards we expect for every piece carrying the Aurora Saigon name.
+              - paragraph [ref=f1e69]: Every design begins here in Ho Chi Minh City, where we work closely with our customers to develop each piece. Once approved, it is handcrafted in Bangkok before returning to our boutique for a final quality inspection.
+              - paragraph [ref=f1e70]: For us, quality has never been about where a piece is made. It's about the skill, care and craftsmanship behind every detail.
+              - paragraph [ref=f1e71]: We believe our customers deserve nothing less.
+        - generic [ref=f1e72]:
+          - figure [ref=f1e73]:
+            - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e74]
+          - generic [ref=f1e75]:
+            - heading "Experience Shapes Everything We Do" [level=2] [ref=f1e76]
+            - generic [ref=f1e77]:
+              - paragraph [ref=f1e78]: Behind Aurora Saigon is a team brought together by a shared belief that exceptional jewellery begins with knowledge, craftsmanship and trust.
+              - paragraph [ref=f1e79]: Before Aurora was founded, our founder spent more than two decades working in London's financial industry before moving into jewellery manufacturing and wholesale in the United Kingdom. That experience offered a unique insight into every stage of the jewellery journey—from sourcing gemstones and manufacturing to quality control and customer expectations.
+              - paragraph [ref=f1e80]: Those experiences continue to influence how Aurora operates today.
+              - paragraph [ref=f1e81]: We believe customers deserve clear, honest advice. They deserve to understand the differences between gemstones, precious metals and craftsmanship before making a decision. They deserve jewellery that is built to last, not simply designed to look beautiful in a display cabinet.
+              - paragraph [ref=f1e82]: "That commitment to education and transparency has become part of Aurora's identity. Whether you're choosing your first engagement ring or redesigning a treasured family heirloom, our goal is always the same: to help you make the right decision, not simply the most expensive one."
+        - generic [ref=f1e83]:
+          - figure [ref=f1e84]:
+            - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e85]
+          - generic [ref=f1e86]:
+            - heading "What You Won't Find at Aurora" [level=2] [ref=f1e87]
+            - generic [ref=f1e88]:
+              - paragraph [ref=f1e89]: We're not a chain jeweller, and we don't believe jewellery should feel like a retail transaction.
+              - paragraph [ref=f1e90]: You won't find high-pressure sales tactics or someone trying to sell you the biggest diamond simply because it's more expensive.
+              - paragraph [ref=f1e91]: You won't find hundreds of identical rings sitting in display cabinets waiting to be sold.
+              - paragraph [ref=f1e92]: You won't find confusing jargon designed to make jewellery seem more complicated than it really is.
+              - paragraph [ref=f1e93]: What you will find is honest advice, thoughtful design and people who genuinely care about creating something that's right for you.
+              - paragraph [ref=f1e94]: If that means recommending a smaller diamond with better proportions, a different gemstone, or even advising against a particular design because it won't stand the test of time, we'll tell you.
+              - paragraph [ref=f1e95]: Our reputation has never been built on selling the most expensive piece of jewellery.
+              - paragraph [ref=f1e96]: It's been built on helping people make the right decision.
+      - generic [ref=f1e97]:
+        - img "Founders of Aurora Saigon at the boutique in Ho Chi Minh City" [ref=f1e98]
+        - heading "What We Believe" [level=2] [ref=f1e99]
+        - list [ref=f1e100]:
+          - listitem [ref=f1e101]:
+            - heading "Craftsmanship comes first" [level=3] [ref=f1e102]
+            - paragraph [ref=f1e103]: Every piece should be beautifully made, comfortable to wear and built to last for generations.
+          - listitem [ref=f1e104]:
+            - heading "Honesty builds trust" [level=3] [ref=f1e105]
+            - paragraph [ref=f1e106]: We'll always give you straightforward advice, even if it's not what you expected to hear.
+          - listitem [ref=f1e107]:
+            - heading "Every customer is unique" [level=3] [ref=f1e108]
+            - paragraph [ref=f1e109]: No two stories are the same, and neither should the jewellery that represents them.
+          - listitem [ref=f1e110]:
+            - heading "Quality is never compromised" [level=3] [ref=f1e111]
+            - paragraph [ref=f1e112]: From the gemstones we source to the final polish, every detail matters.
+          - listitem [ref=f1e113]:
+            - heading "Relationships matter more than transactions" [level=3] [ref=f1e114]
+            - paragraph [ref=f1e115]: Many of our customers return years later for wedding bands, anniversary gifts and new family milestones. We consider that the greatest compliment we can receive.
+      - generic [ref=f1e116]:
+        - paragraph [ref=f1e117]: Every piece of jewellery that leaves our boutique carries our name, our reputation and our promise that it has been made with care.
+        - paragraph [ref=f1e118]: That's what Aurora Saigon stands for.
+        - button "Book Private Viewing in Thảo Điền" [ref=f1e119]
+  - contentinfo [ref=f1e120]:
+    - generic [ref=f1e121]:
+      - generic [ref=f1e122]:
+        - paragraph [ref=f1e123]: Aurora Saigon
+        - paragraph [ref=f1e124]: Bespoke fine jewellery, handcrafted in Saigon. Thao Dien, Ho Chi Minh City.
+        - paragraph [ref=f1e125]: UK Standard Lifetime Warranty.
+      - generic [ref=f1e126]:
+        - navigation "Footer" [ref=f1e127]:
+          - link "Our story" [ref=f1e128] [cursor=pointer]:
+            - /url: /about
+          - link "FAQ" [ref=f1e129] [cursor=pointer]:
+            - /url: /faq
+          - link "Ring size guide" [ref=f1e130] [cursor=pointer]:
+            - /url: /ring-size-guide
+          - link "Journal" [ref=f1e131] [cursor=pointer]:
+            - /url: /blog
+        - paragraph [ref=f1e132]: aurorasaigon.com · Demo storefront · Payments are simulated

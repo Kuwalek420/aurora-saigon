@@ -1,0 +1,63 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - button "Aurora Saigon home" [ref=f2e4]:
+        - img "Aurora Saigon" [ref=f2e5]
+      - navigation "Primary" [ref=f2e7]:
+        - button "Ready-to-ship" [ref=f2e8]
+        - button "Engagement Rings" [ref=f2e9]
+        - button "Wedding Rings" [ref=f2e10]
+        - button "Craftsmanship" [ref=f2e11]
+        - button "Showroom" [ref=f2e12]
+      - generic [ref=f2e13]:
+        - group "Currency" [ref=f2e14]:
+          - button "VND" [pressed] [ref=f2e15]
+          - button "USD" [ref=f2e16]
+          - button "EUR" [ref=f2e17]
+        - button "Open cart, 0 items" [ref=f2e18]:
+          - text: Bag
+          - generic [ref=f2e19]: "0"
+  - main [ref=f2e20]:
+    - generic [ref=f2e21]:
+      - heading [level=1] [ref=f2e22]:
+        - text: Frequently asked
+        - emphasis [ref=f2e23]: questions
+      - generic [ref=f2e25]:
+        - tablist "FAQ category" [ref=f2e26]:
+          - tab "Products4" [selected] [ref=f2e27]
+          - tab "Shipping1" [ref=f2e29]
+          - tab "Payment1" [ref=f2e30]
+        - list [ref=f2e31]:
+          - listitem [ref=f2e32]:
+            - heading [level=3] [ref=f2e33]:
+              - button "What materials are your rings made from?" [ref=f2e34]
+            - paragraph [ref=f2e38]: We offer a selection of fine metals including 9k, 14k, and 18k gold in white, yellow, and rose tones, as well as platinum for those seeking a premium, naturally white finish.
+          - listitem [ref=f2e39]:
+            - heading [level=3] [ref=f2e40]:
+              - button "Where are your rings manufactured?" [ref=f2e41]
+            - paragraph [ref=f2e45]: All of our jewellery is crafted in our dedicated workshop in Bangkok, Thailand—a global hub for fine jewellery manufacturing. Thailand is renowned for its highly skilled artisans, generations of craftsmanship expertise, and exceptional attention to detail, particularly in gemstone setting and gold work. By producing in Bangkok, we are able to combine traditional hand-finishing techniques with modern precision, ensuring consistently high quality while maintaining better control over production and value for our customers.
+          - listitem [ref=f2e46]:
+            - heading [level=3] [ref=f2e47]:
+              - button "Are your diamonds and gemstones natural or lab-grown?" [ref=f2e48]
+            - paragraph [ref=f2e52]: We offer both lab-grown diamonds and natural diamonds, giving you the flexibility to choose based on your preferences, values, and budget.
+          - listitem [ref=f2e53]:
+            - heading [level=3] [ref=f2e54]:
+              - button "Do you offer custom or made-to-order jewellery?" [ref=f2e55]
+            - paragraph [ref=f2e59]: Yes, we specialise in custom and made-to-order jewellery. Each piece can be tailored to your preferences, including the design, metal, gemstone, and finishing details. Whether you’re creating an engagement ring or adapting one of our existing designs, our team will guide you through the process—from initial concept to final craftsmanship—to ensure the piece is uniquely yours.
+  - contentinfo [ref=f2e60]:
+    - generic [ref=f2e61]:
+      - generic [ref=f2e62]:
+        - paragraph [ref=f2e63]: Aurora Saigon
+        - paragraph [ref=f2e64]: Bespoke fine jewellery, handcrafted in Saigon. Thao Dien, Ho Chi Minh City.
+        - paragraph [ref=f2e65]: UK Standard Lifetime Warranty.
+      - generic [ref=f2e66]:
+        - navigation "Footer" [ref=f2e67]:
+          - link "Our story" [ref=f2e68] [cursor=pointer]:
+            - /url: /about
+          - link "FAQ" [ref=f2e69] [cursor=pointer]:
+            - /url: /faq
+          - link "Ring size guide" [ref=f2e70] [cursor=pointer]:
+            - /url: /ring-size-guide
+          - link "Journal" [ref=f2e71] [cursor=pointer]:
+            - /url: /blog
+        - paragraph [ref=f2e72]: aurorasaigon.com · Demo storefront · Payments are simulated

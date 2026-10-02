@@ -1,0 +1,116 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - button "Aurora Saigon home" [ref=f1e4]:
+        - img "Aurora Saigon" [ref=f1e5]
+      - navigation "Primary" [ref=f1e7]:
+        - button "Ready-to-ship" [ref=f1e8]
+        - button "Engagement Rings" [ref=f1e9]
+        - button "Wedding Rings" [ref=f1e10]
+        - button "Craftsmanship" [ref=f1e11]
+        - button "Showroom" [ref=f1e12]
+      - generic [ref=f1e13]:
+        - group "Currency" [ref=f1e14]:
+          - button "VND" [pressed] [ref=f1e15]
+          - button "USD" [ref=f1e16]
+          - button "EUR" [ref=f1e17]
+        - button "Open cart, 0 items" [ref=f1e18]:
+          - text: Bag
+          - generic [ref=f1e19]: "0"
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - generic [ref=f1e22]:
+        - heading [level=1] [ref=f1e23]:
+          - text: Purchase process &
+          - emphasis [ref=f1e24]: payment
+        - paragraph [ref=f1e25]: "This storefront is a demonstration: checkout is simulated, no payment is taken and nothing you enter is stored. The details below are the ones Aurora Saigon publishes for real orders; please do not transfer money for a demo order."
+      - generic [ref=f1e27]:
+        - generic [ref=f1e28]:
+          - heading "Adding to Cart" [level=3] [ref=f1e29]
+          - paragraph [ref=f1e30]: Explore our products and use the 'buy now' button to quickly add the item to your cart. You can also view the product and increment the amount of the item you wish to buy before using the 'ADD TO CART' button. You can view the cart contents at any time by hovering on the cart icon located open the header.
+          - heading "Check-out Process" [level=3] [ref=f1e31]
+          - paragraph [ref=f1e32]: Once you have completed your shopping experience, view your cart and use the, 'PROCEED TO CHECKOUT' button to progress to the checkout stage. From here you will be asked to provide your email, telephone number, billing address and shipping address.
+          - heading "Payment Method" [level=3] [ref=f1e33]
+          - paragraph [ref=f1e34]: "Prepayment can be made by online banking transfer via the Payment Gateway: Visa/ MasterCard/ JCB credit card/ ATM card issued by domestic banks in Vietnam. Or a bank transfer can be made to the account of Aurora Saigon Co., Ltd."
+        - generic [ref=f1e35]:
+          - generic [ref=f1e36]:
+            - term [ref=f1e37]: Bank
+            - definition [ref=f1e38]: ACB - PGD NGO TUAT TO
+          - generic [ref=f1e39]:
+            - term [ref=f1e40]: Account holder
+            - definition [ref=f1e41]: CONG TY TNHH AURORA SAIGON
+          - generic [ref=f1e42]:
+            - term [ref=f1e43]: Account no.
+            - definition [ref=f1e44]: "16566576"
+  - contentinfo [ref=f1e45]:
+    - generic [ref=f1e46]:
+      - generic [ref=f1e47]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=f1e48]
+        - paragraph [ref=f1e49]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=f1e50]:
+          - generic [ref=f1e51]: Email address
+          - textbox "Email address" [ref=f1e52]:
+            - /placeholder: Your email address
+          - button "Join" [ref=f1e53]
+      - generic [ref=f1e54]:
+        - generic [ref=f1e55]:
+          - img "Aurora Saigon" [ref=f1e56]
+          - generic [ref=f1e57]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=f1e58]:
+            - link "sales@aurorasaigon.com" [ref=f1e59] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=f1e60] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=f1e61]:
+            - listitem [ref=f1e62]:
+              - link "Facebook" [ref=f1e63] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=f1e66]:
+              - link "Instagram" [ref=f1e67] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=f1e72]:
+              - link "YouTube" [ref=f1e73] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=f1e77]:
+          - heading "All about Aurora" [level=2] [ref=f1e78]
+          - list [ref=f1e79]:
+            - listitem [ref=f1e80]:
+              - link "About Aurora Saigon" [ref=f1e81] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e82]:
+              - link "5 Reasons Why" [ref=f1e83] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=f1e84]:
+              - link "Contact Us" [ref=f1e85] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=f1e86]:
+          - heading "Guides" [level=2] [ref=f1e87]
+          - list [ref=f1e88]:
+            - listitem [ref=f1e89]:
+              - link "Ring Size Guide" [ref=f1e90] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=f1e91]:
+              - link "Journal" [ref=f1e92] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=f1e93]:
+          - heading "Support" [level=2] [ref=f1e94]
+          - list [ref=f1e95]:
+            - listitem [ref=f1e96]:
+              - link "Shipping & Returns" [ref=f1e97] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f1e98]:
+              - link "Payment Methods" [ref=f1e99] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=f1e100]:
+              - link "Privacy Policy" [ref=f1e101] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f1e102]:
+              - link "Warranty Policy" [ref=f1e103] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=f1e104]:
+              - link "Customer Supplied Gemstone Policy" [ref=f1e105] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=f1e106]:
+              - link "FAQ" [ref=f1e107] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=f1e108]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

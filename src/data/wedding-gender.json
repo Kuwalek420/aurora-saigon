@@ -1,0 +1,70 @@
+{
+ "source": "aurorasaigon.com/action/getWeddingBands.php",
+ "scrapedAt": "2026-10-02T18:49:05.629Z",
+ "women": [
+  "AS-368-WR-YG-CHLOE",
+  "AS-369-WR-YG-NETTA",
+  "AS-370-WR-YG-AVERY",
+  "AS-371-WR-YG-LAYLA",
+  "AS-372-WR-YG-ELIE",
+  "AS-373-WR-YG-ELIE",
+  "AS-374-WR-YG-PENELOPE",
+  "AS-375-WR-YG-ARIA",
+  "AS-376-WR-YG-MADISON",
+  "AS-378-WR-YG-MILA",
+  "AS-379-WR-YG-ABIGALE",
+  "AS-380-WR-YG-ELIANE",
+  "AS-381-WR-YG-ELIA",
+  "AS-382-WR-YG-NORA",
+  "AS-383-WR-YG-ELIZABETH",
+  "AS-465-WR-YG-R-ADRIAN",
+  "AS-466-WR-YG-R-AUDRAY",
+  "AS-467-WR-YG-R-CLARA",
+  "AS-468-WR-YG-R-BAILEY",
+  "AS-469-WR-YG-R-CHARLOTT",
+  "AS-471-WR-YG-R-MILLIE"
+ ],
+ "men": [
+  "AS-354-WR-YS-CARTER",
+  "AS-355-WR-YS-ESTHER",
+  "AS-356-WR-YS-FREYA",
+  "AS-356-WR-YS-JORDAN",
+  "AS-357-WR-YS-NOLAN",
+  "AS-358-WR-YS-ZOEY",
+  "AS-470-WR-YG-R-ANTHONY",
+  "AS-472-WR-YG-R-WILLIAM"
+ ],
+ "styles": {
+  "Accents": [
+   "AS-368-WR-YG-CHLOE",
+   "AS-369-WR-YG-NETTA",
+   "AS-371-WR-YG-LAYLA",
+   "AS-372-WR-YG-ELIE",
+   "AS-375-WR-YG-ARIA",
+   "AS-379-WR-YG-ABIGALE"
+  ],
+  "Curved": [
+   "AS-382-WR-YG-NORA",
+   "AS-465-WR-YG-R-ADRIAN",
+   "AS-468-WR-YG-R-BAILEY",
+   "AS-469-WR-YG-R-CHARLOTT",
+   "AS-471-WR-YG-R-MILLIE"
+  ],
+  "Open": [
+   "AS-467-WR-YG-R-CLARA"
+  ],
+  "Pavé": [
+   "AS-370-WR-YG-AVERY",
+   "AS-373-WR-YG-ELIE",
+   "AS-376-WR-YG-MADISON",
+   "AS-378-WR-YG-MILA",
+   "AS-381-WR-YG-ELIA",
+   "AS-383-WR-YG-ELIZABETH",
+   "AS-466-WR-YG-R-AUDRAY"
+  ],
+  "Plain": [
+   "AS-374-WR-YG-PENELOPE",
+   "AS-380-WR-YG-ELIANE"
+  ]
+ }
+}

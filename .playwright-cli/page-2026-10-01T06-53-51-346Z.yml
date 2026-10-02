@@ -1,0 +1,117 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - button "Aurora Saigon home" [ref=f4e4]:
+        - img "Aurora Saigon" [ref=f4e5]
+      - navigation "Primary" [ref=f4e7]:
+        - button "Ready-to-ship" [ref=f4e8]
+        - button "Engagement Rings" [ref=f4e9]
+        - button "Wedding Rings" [ref=f4e10]
+        - button "Craftsmanship" [ref=f4e11]
+        - button "Showroom" [ref=f4e12]
+      - generic [ref=f4e13]:
+        - group "Currency" [ref=f4e14]:
+          - button "VND" [pressed] [ref=f4e15]
+          - button "USD" [ref=f4e16]
+          - button "EUR" [ref=f4e17]
+        - button "Open cart, 0 items" [ref=f4e18]:
+          - text: Bag
+          - generic [ref=f4e19]: "0"
+  - main [ref=f4e20]:
+    - generic [ref=f4e21]:
+      - heading [level=1] [ref=f4e22]:
+        - text: The
+        - emphasis [ref=f4e23]: Journal
+      - paragraph [ref=f4e24]: Plain-spoken guides to diamonds, gemstones and the making of fine jewellery.
+      - 'link "On which finger should you wear your engagement ring? Which Finger Do You Wear Your Engagement Ring On? 28 February 2026 Across centuries and across cultures, one quiet ritual has endured: the giving of a ring. Worn as a promise, a bond, a reflection of two lives choosing one path, it has carried many meanings through time. And with each generation, both the way it is worn and the story it tells have gently evolved. Read the article" [ref=f4e25] [cursor=pointer]':
+        - /url: /blog/on-which-finger-do-you-wear-your-engagement-ring
+        - img "On which finger should you wear your engagement ring?" [ref=f4e27]
+        - generic [ref=f4e28]:
+          - heading "Which Finger Do You Wear Your Engagement Ring On?" [level=2] [ref=f4e29]
+          - paragraph [ref=f4e30]: 28 February 2026
+          - paragraph [ref=f4e31]: "Across centuries and across cultures, one quiet ritual has endured: the giving of a ring. Worn as a promise, a bond, a reflection of two lives choosing one path, it has carried many meanings through time. And with each generation, both the way it is worn and the story it tells have gently evolved."
+          - generic [ref=f4e32]: Read the article
+      - list [ref=f4e33]:
+        - listitem [ref=f4e34]:
+          - link [ref=f4e35] [cursor=pointer]:
+            - /url: /blog/ring-design-basics
+            - img "Buying a oval diamond? Find out about these tips before you do!" [ref=f4e37]
+            - heading "Engagement Ring Design Basics" [level=3] [ref=f4e38]
+            - paragraph [ref=f4e39]: 29 November 2025
+            - paragraph [ref=f4e40]: Our Ring Design Basics blog post breaks down all the essential terminology so you can finally understand what jewelers mean by things like “setting,” “prong,” “halo,” and “pavé.” Whether you’re designing a custom ring or just want to feel more confident browsing, this guide turns confusing vocabulary into simple, clear explanations — making the world of engagement rings way more fun (and way less overwhelming). Dive in and level up your sparkle knowledge!
+        - listitem [ref=f4e41]:
+          - link [ref=f4e42] [cursor=pointer]:
+            - /url: /blog/oval-diamond-buying-tips
+            - img "Buying a oval diamond? Find out about these tips before you do!" [ref=f4e44]
+            - heading "Oval Diamond Buying Advice" [level=3] [ref=f4e45]
+            - paragraph [ref=f4e46]: 16 December 2024
+            - paragraph [ref=f4e47]: When purchasing an oval diamond, it's crucial to be well-informed about the specific characteristics that define its quality and beauty. Whether buying an engagement ring or a luxurious piece of jewellery, understanding these aspects can make a significant difference in your selection. Delve into three essential tips you should know before purchasing.
+        - listitem [ref=f4e48]:
+          - link [ref=f4e49] [cursor=pointer]:
+            - /url: /blog/diamond-cutting-process
+            - img "Find out how diamonds are cut." [ref=f4e51]
+            - heading "How Are Diamonds Cut?" [level=3] [ref=f4e52]
+            - paragraph [ref=f4e53]: 16 December 2024
+            - paragraph [ref=f4e54]: From the earth's depths to a master's hands, every Diamond Tells a Story, one forged over millions of years by immense heat and pressure. Each facet, angle and polished surface transforms a rough Stone into a radiant gem, unlocking its hidden brilliance. Explore the intricate art of diamond cutting, where science and the craftsman's intuition come together to reveal nature's finest sparkle.
+        - listitem [ref=f4e55]:
+          - link [ref=f4e56] [cursor=pointer]:
+            - /url: /blog/moonstone-energy-history-and-uses
+            - img "Find out what moonstones can do for you to improve your energy." [ref=f4e58]
+            - heading "Moonstone Meaning, Uses, and Healing Properties" [level=3] [ref=f4e59]
+            - paragraph [ref=f4e60]: 27 September 2024
+            - paragraph [ref=f4e61]: In our recent blog post, we delved into the fascinating world of moonstones and their energy and powers. Moonstones are believed to possess a variety of health benefits, including promoting hormonal balance, easing menstrual discomfort, and supporting the reproductive system. Additionally, they are thought to aid in reducing stress and anxiety, making them a popular choice for those seeking emotional well-being. If you're curious about the potential health elements of moonstones, our blog post provides a comprehensive exploration of their purported properties.
+        - listitem [ref=f4e62]:
+          - link [ref=f4e63] [cursor=pointer]:
+            - /url: /blog/lab-grown-diamonds-v-natural-diamonds
+            - img "Should I buy a lab grown diamond?" [ref=f4e65]
+            - 'heading "Lab Grown Diamonds vs Natural Diamonds: Which is the Better Choice?" [level=3] [ref=f4e66]'
+            - paragraph [ref=f4e67]: 19 September 2024
+            - paragraph [ref=f4e68]: Explore the pros and cons of lab-grown and natural diamonds to make an informed choice. Discover which option suits your style and values best.
+        - listitem [ref=f4e69]:
+          - link "The Sapphire Buying Guide - Quality Factors, Treatments & More 13 December 2023 Discover the world of Sapphires. Want to buy a Sapphire? Read this article to be well informed about purchasing a Sapphire!" [ref=f4e70] [cursor=pointer]:
+            - /url: /blog/sapphire-buying-guide
+            - heading "The Sapphire Buying Guide - Quality Factors, Treatments & More" [level=3] [ref=f4e72]
+            - paragraph [ref=f4e73]: 13 December 2023
+            - paragraph [ref=f4e74]: Discover the world of Sapphires. Want to buy a Sapphire? Read this article to be well informed about purchasing a Sapphire!
+        - listitem [ref=f4e75]:
+          - link "Guide to Tanzanite Gemstones 12 August 2023 In the realm of gemstones, few can match the mesmerizing allure and fascinating history of Tanzanite. This exquisite gemstone, known for its stunning spectrum of blue and violet hues." [ref=f4e76] [cursor=pointer]:
+            - /url: /blog/tanzanite-gemstone-meaning
+            - heading "Guide to Tanzanite Gemstones" [level=3] [ref=f4e78]
+            - paragraph [ref=f4e79]: 12 August 2023
+            - paragraph [ref=f4e80]: In the realm of gemstones, few can match the mesmerizing allure and fascinating history of Tanzanite. This exquisite gemstone, known for its stunning spectrum of blue and violet hues.
+        - listitem [ref=f4e81]:
+          - 'link "Gemstones to attract money: Stones To Create True Prosperity 17 June 2023 No matter your relationship with money, there''s likely some wound to be healed. Cue money gemstones - they''re here to help!" [ref=f4e82] [cursor=pointer]':
+            - /url: /blog/positive-gemstone-energy-to-attract-wealth
+            - 'heading "Gemstones to attract money: Stones To Create True Prosperity" [level=3] [ref=f4e84]'
+            - paragraph [ref=f4e85]: 17 June 2023
+            - paragraph [ref=f4e86]: No matter your relationship with money, there's likely some wound to be healed. Cue money gemstones - they're here to help!
+        - listitem [ref=f4e87]:
+          - link "Rose Quartz Meaning, Uses, and Healing Properties 4 April 2023 Read on to learn more about the meaning behind Rose Quartz crystals, their powers, and how you can use rose quartz crystal in your own life!" [ref=f4e88] [cursor=pointer]:
+            - /url: /blog/rose-quartz-and-its-meaning-and-healing-powers
+            - heading "Rose Quartz Meaning, Uses, and Healing Properties" [level=3] [ref=f4e90]
+            - paragraph [ref=f4e91]: 4 April 2023
+            - paragraph [ref=f4e92]: Read on to learn more about the meaning behind Rose Quartz crystals, their powers, and how you can use rose quartz crystal in your own life!
+        - listitem [ref=f4e93]:
+          - link [ref=f4e94] [cursor=pointer]:
+            - /url: /blog/all-you-need-to-know-about-rhodium-plating
+            - img "what is rhodium plating? Blog post from Aurora Saigon" [ref=f4e96]
+            - heading "The Complete Guide to Rhodium Plating." [level=3] [ref=f4e97]
+            - paragraph [ref=f4e98]: 4 March 2023
+            - paragraph [ref=f4e99]: Get the answers you need on rhodium plating and find out why it’s a popular choice for jewelry! Learn more about this process, what types of jewelry are best, and how long it lasts.
+  - contentinfo [ref=f4e100]:
+    - generic [ref=f4e101]:
+      - generic [ref=f4e102]:
+        - paragraph [ref=f4e103]: Aurora Saigon
+        - paragraph [ref=f4e104]: Bespoke fine jewellery, handcrafted in Saigon. Thao Dien, Ho Chi Minh City.
+        - paragraph [ref=f4e105]: UK Standard Lifetime Warranty.
+      - generic [ref=f4e106]:
+        - navigation "Footer" [ref=f4e107]:
+          - link "Our story" [ref=f4e108] [cursor=pointer]:
+            - /url: /about
+          - link "FAQ" [ref=f4e109] [cursor=pointer]:
+            - /url: /faq
+          - link "Ring size guide" [ref=f4e110] [cursor=pointer]:
+            - /url: /ring-size-guide
+          - link "Journal" [ref=f4e111] [cursor=pointer]:
+            - /url: /blog
+        - paragraph [ref=f4e112]: aurorasaigon.com · Demo storefront · Payments are simulated

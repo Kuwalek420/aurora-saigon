@@ -1,0 +1,219 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - button "Aurora Saigon home" [ref=f1e4]:
+        - img "Aurora Saigon" [ref=f1e5]
+      - navigation "Primary" [ref=f1e7]:
+        - button "Ready-to-ship" [ref=f1e8]
+        - button "Engagement Rings" [ref=f1e9]
+        - button "Wedding Rings" [ref=f1e10]
+        - button "Craftsmanship" [ref=f1e11]
+        - link "Showroom" [ref=f1e12] [cursor=pointer]:
+          - /url: /showroom
+      - generic [ref=f1e13]:
+        - group "Currency" [ref=f1e14]:
+          - button "VND" [pressed] [ref=f1e15]
+          - button "USD" [ref=f1e16]
+          - button "EUR" [ref=f1e17]
+        - button "Open cart, 0 items" [ref=f1e18]:
+          - text: Bag
+          - generic [ref=f1e19]: "0"
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - heading [level=1] [ref=f1e22]:
+        - text: The Thảo Điền Atelier —
+        - emphasis [ref=f1e23]: Private Fine Jewellery Viewing
+      - paragraph [ref=f1e24]: Experience our bespoke engagement rings and fine jewellery in person. Located in the heart of Thảo Điền, Ho Chi Minh City.
+      - generic [ref=f1e25]:
+        - figure [ref=f1e26]:
+          - 'img "Inside the Thảo Điền Atelier: an arched, lit wall niche with the Aurora mark, display shelves and a seating area" [ref=f1e27]'
+        - figure [ref=f1e28]:
+          - img "The atelier seen from the street, with display cases and the lit Aurora niche" [ref=f1e29]
+        - figure [ref=f1e30]:
+          - generic "A one-to-one consultation at the atelier, with a GIA card on the desk" [ref=f1e31]
+        - figure [ref=f1e32]:
+          - 'img "Ring sizing at the atelier: a sizing gauge and a tray of stones on a wooden desk" [ref=f1e33]'
+      - generic [ref=f1e34]:
+        - region [ref=f1e35]:
+          - heading "Visits & hours" [level=2] [ref=f1e36]
+          - generic [ref=f1e37]:
+            - generic [ref=f1e38]:
+              - term [ref=f1e39]: Address
+              - definition [ref=f1e40]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+            - generic [ref=f1e41]:
+              - term [ref=f1e42]: Hours
+              - definition [ref=f1e43]: "Monday – Sunday: 10:30 AM – 7:30 PM"
+            - generic [ref=f1e44]:
+              - term [ref=f1e45]: Phone & email
+              - definition [ref=f1e46]:
+                - link "+84 344 700 879" [ref=f1e47] [cursor=pointer]:
+                  - /url: tel:+84344700879
+                - text: "|"
+                - link "sales@aurorasaigon.com" [ref=f1e48] [cursor=pointer]:
+                  - /url: mailto:sales@aurorasaigon.com
+          - link "Open in Google Maps" [ref=f1e49] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=94%20Xu%C3%A2n%20Th%E1%BB%A7y%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%2C%20Qu%E1%BA%ADn%202%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2070000%2C%20Vietnam
+        - region [ref=f1e52]:
+          - heading "Book a Private Appointment" [level=2] [ref=f1e53]
+          - generic [ref=f1e55]:
+            - generic [ref=f1e56]:
+              - generic [ref=f1e57]: Name
+              - textbox "Name" [ref=f1e58]
+            - generic [ref=f1e59]:
+              - generic [ref=f1e60]: Email
+              - textbox "Email" [ref=f1e61]
+            - generic [ref=f1e62]:
+              - generic [ref=f1e63]:
+                - generic [ref=f1e64]: Preferred date
+                - textbox "Preferred date" [ref=f1e65]
+              - generic [ref=f1e66]:
+                - generic [ref=f1e67]: Preferred time
+                - textbox "Preferred time" [ref=f1e68]
+            - generic [ref=f1e69]:
+              - generic [ref=f1e70]: Interest
+              - combobox "Interest" [ref=f1e71]:
+                - option "Select an interest" [disabled] [selected]
+                - option "Engagement Ring"
+                - option "Custom Design"
+                - option "Wedding Bands"
+                - option "Ready to Ship Pick-up"
+            - button "Confirm Appointment" [ref=f1e72]
+            - paragraph [ref=f1e73]: "Demo storefront: nothing you enter here is sent or stored."
+    - region [ref=f1e74]:
+      - generic [ref=f1e75]:
+        - generic [ref=f1e76]:
+          - heading [level=2] [ref=f1e77]:
+            - text: Trusted in
+            - emphasis [ref=f1e78]: Saigon
+          - paragraph [ref=f1e79]: Rated 5.0 Stars on Google Reviews • Read verified experiences from our Thảo Điền showroom.
+        - list [ref=f1e80]:
+          - listitem [ref=f1e81]:
+            - img "5 out of 5 stars" [ref=f1e82]
+            - figure [ref=f1e93]:
+              - blockquote [ref=f1e94]:
+                - paragraph [ref=f1e95]: Words can’t describe how grateful I’m to find and receive such a great service from Aurora! Every part of the process has been pleasant. Working with them feels like a friend.
+                - button "Read more" [ref=f1e96]
+              - generic [ref=f1e97]:
+                - paragraph [ref=f1e98]: Hieu Nguyen
+                - paragraph [ref=f1e99]: Google review · September 2026
+          - listitem [ref=f1e100]:
+            - img "5 out of 5 stars" [ref=f1e101]
+            - figure [ref=f1e112]:
+              - blockquote [ref=f1e113]:
+                - paragraph [ref=f1e114]: I love a fabulous ring with serious wow factor. I told Nick I wanted something you could see from space! He said, “Maybe not from space, but you’ll definitely see it from the runway as you land in Ho Chi Minh.” And he did not disappoint!
+                - button "Read more" [ref=f1e115]
+              - generic [ref=f1e116]:
+                - paragraph [ref=f1e117]: Kate Doherty
+                - paragraph [ref=f1e118]: Google review · Custom Design · August 2026
+          - listitem [ref=f1e119]:
+            - img "5 out of 5 stars" [ref=f1e120]
+            - figure [ref=f1e131]:
+              - blockquote [ref=f1e132]:
+                - paragraph [ref=f1e133]: Customer service 10/10. Any question or inquiries you have they make sure to answer and adhere to. Staff is very friendly. Owner is a good guy, very trusted, and always checking up on your specific situation to help.
+                - button "Read more" [ref=f1e134]
+              - generic [ref=f1e135]:
+                - paragraph [ref=f1e136]: zay
+                - paragraph [ref=f1e137]: Google review · Custom Design · August 2026
+          - listitem [ref=f1e138]:
+            - img "5 out of 5 stars" [ref=f1e139]
+            - figure [ref=f1e150]:
+              - blockquote [ref=f1e151]:
+                - paragraph [ref=f1e152]: I’m very satisfied with my experience at Aurora. Ivy was always supportive, responsive, and willing to answer any questions I had, which made the whole process go smoothly.
+                - button "Read more" [ref=f1e153]
+              - generic [ref=f1e154]:
+                - paragraph [ref=f1e155]: Huy Pham
+                - paragraph [ref=f1e156]: Google review · July 2026
+          - listitem [ref=f1e157]:
+            - img "5 out of 5 stars" [ref=f1e158]
+            - figure [ref=f1e169]:
+              - blockquote [ref=f1e170]:
+                - paragraph [ref=f1e171]: Amazing place, Nick was an absolute gem, great piece, genuine passion to the industry too would definitely comeback when the occasion suits would recommend to anyone
+              - generic [ref=f1e172]:
+                - paragraph [ref=f1e173]: Omar Almobark
+                - paragraph [ref=f1e174]: Google review · July 2026
+          - listitem [ref=f1e175]:
+            - img "5 out of 5 stars" [ref=f1e176]
+            - figure [ref=f1e187]:
+              - blockquote [ref=f1e188]:
+                - paragraph [ref=f1e189]: Amazing service, quick turnaround. Ivy & team were fantastic. Sensational customer rings, great price and quality service.
+              - generic [ref=f1e190]:
+                - paragraph [ref=f1e191]: Cam
+                - paragraph [ref=f1e192]: Google review · Custom Design · July 2026
+        - paragraph [ref=f1e193]:
+          - link "Verify all reviews on Google Maps" [ref=f1e194] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/?q=place_id:ChIJL2kFlfIndTERLJaIne8M6XQ
+  - contentinfo [ref=f1e195]:
+    - generic [ref=f1e196]:
+      - generic [ref=f1e197]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=f1e198]
+        - paragraph [ref=f1e199]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=f1e200]:
+          - generic [ref=f1e201]: Email address
+          - textbox "Email address" [ref=f1e202]:
+            - /placeholder: Your email address
+          - button "Join" [ref=f1e203]
+      - generic [ref=f1e204]:
+        - generic [ref=f1e205]:
+          - img "Aurora Saigon" [ref=f1e206]
+          - generic [ref=f1e207]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=f1e208]:
+            - link "sales@aurorasaigon.com" [ref=f1e209] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=f1e210] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=f1e211]:
+            - listitem [ref=f1e212]:
+              - link "Facebook" [ref=f1e213] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=f1e216]:
+              - link "Instagram" [ref=f1e217] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=f1e222]:
+              - link "YouTube" [ref=f1e223] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=f1e227]:
+          - heading "All about Aurora" [level=2] [ref=f1e228]
+          - list [ref=f1e229]:
+            - listitem [ref=f1e230]:
+              - link "About Aurora Saigon" [ref=f1e231] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e232]:
+              - link "Visit Our Showroom" [ref=f1e233] [cursor=pointer]:
+                - /url: /showroom
+            - listitem [ref=f1e234]:
+              - link "5 Reasons Why" [ref=f1e235] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=f1e236]:
+              - link "Contact Us" [ref=f1e237] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=f1e238]:
+          - heading "Guides" [level=2] [ref=f1e239]
+          - list [ref=f1e240]:
+            - listitem [ref=f1e241]:
+              - link "Ring Size Guide" [ref=f1e242] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=f1e243]:
+              - link "Journal" [ref=f1e244] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=f1e245]:
+          - heading "Support" [level=2] [ref=f1e246]
+          - list [ref=f1e247]:
+            - listitem [ref=f1e248]:
+              - link "Shipping & Returns" [ref=f1e249] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f1e250]:
+              - link "Payment Methods" [ref=f1e251] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=f1e252]:
+              - link "Privacy Policy" [ref=f1e253] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f1e254]:
+              - link "Warranty Policy" [ref=f1e255] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=f1e256]:
+              - link "Customer Supplied Gemstone Policy" [ref=f1e257] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=f1e258]:
+              - link "FAQ" [ref=f1e259] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=f1e260]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

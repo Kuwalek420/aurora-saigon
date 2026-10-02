@@ -1,0 +1,53 @@
+{
+  "note": "Vietnamese translations of the English Google reviews shown on the site, written by us (Google has no Vietnamese version of these). Keyed by review id in google-reviews.json. The English original and the link to it on Google always stay available.",
+  "reviews": {
+    "review-1": {
+      "excerpt_vi": "Không lời nào diễn tả hết sự biết ơn của tôi khi tìm thấy và nhận được dịch vụ tuyệt vời như vậy từ Aurora! Mọi bước trong quá trình đều rất dễ chịu. Làm việc với họ như làm việc với một người bạn.",
+      "text_vi": "Không lời nào diễn tả hết sự biết ơn của tôi khi tìm thấy và nhận được dịch vụ tuyệt vời như vậy từ Aurora! Mọi bước trong quá trình đều rất dễ chịu. Làm việc với họ như làm việc với một người bạn. Tôi rất vui vì sự kiện trọng đại này trong cuộc đời chúng tôi có sự đồng hành của Aurora, và tôi chúc họ mọi điều tốt đẹp nhất."
+    },
+    "review-4": {
+      "excerpt_vi": "Tôi thích một chiếc nhẫn lộng lẫy với sức hút thật ấn tượng. Tôi nói với Nick rằng tôi muốn thứ gì đó có thể nhìn thấy từ ngoài không gian! Anh ấy đáp: “Có thể không phải từ ngoài không gian, nhưng chắc chắn bạn sẽ nhìn thấy nó từ đường băng khi hạ cánh xuống Hồ Chí Minh.” Và anh ấy đã không làm tôi thất vọng!",
+      "text_vi": "Tôi thích một chiếc nhẫn lộng lẫy với sức hút thật ấn tượng. Tôi nói với Nick rằng tôi muốn thứ gì đó có thể nhìn thấy từ ngoài không gian! Anh ấy đáp: “Có thể không phải từ ngoài không gian, nhưng chắc chắn bạn sẽ nhìn thấy nó từ đường băng khi hạ cánh xuống Hồ Chí Minh.” Và anh ấy đã không làm tôi thất vọng!\n\nChiếc nhẫn được làm tại Việt Nam từ thiết kế của tôi khi tôi đang ở Melbourne; Nick luôn cập nhật cho tôi bằng ảnh và video trong suốt quá trình. Thành phẩm tuyệt đẹp và đúng như những gì tôi mong muốn. Đó là món quà sinh nhật lần thứ 50 để tôi yêu quý và giữ gìn mãi mãi. Rất khuyên dùng Nick và Aurora Ring!"
+    },
+    "review-5": {
+      "excerpt_vi": "Dịch vụ khách hàng 10/10. Mọi thắc mắc hay yêu cầu, họ đều đảm bảo giải đáp và đáp ứng. Nhân viên rất thân thiện. Chủ cửa hàng là người tốt, rất đáng tin cậy và luôn theo sát tình huống cụ thể của bạn để giúp đỡ.",
+      "text_vi": "Dịch vụ khách hàng 10/10. Mọi thắc mắc hay yêu cầu, họ đều đảm bảo giải đáp và đáp ứng. Nhân viên rất thân thiện. Chủ cửa hàng là người tốt, rất đáng tin cậy và luôn theo sát tình huống cụ thể của bạn để giúp đỡ. Chiếc nhẫn ra đúng như hình. Cô ấy rất thích!!! Mỗi lần đến Việt Nam và cần kim cương, tôi chắc chắn sẽ quay lại!"
+    },
+    "review-7": {
+      "excerpt_vi": "Tôi rất hài lòng với trải nghiệm tại Aurora. Ivy luôn nhiệt tình hỗ trợ, phản hồi nhanh và sẵn sàng giải đáp mọi câu hỏi của tôi, giúp cả quá trình diễn ra suôn sẻ.",
+      "text_vi": "Tôi rất hài lòng với trải nghiệm tại Aurora. Ivy luôn nhiệt tình hỗ trợ, phản hồi nhanh và sẵn sàng giải đáp mọi câu hỏi của tôi, giúp cả quá trình diễn ra suôn sẻ.\n\nTôi xin chân thành cảm ơn Ivy và đội ngũ Aurora vì mọi sự hỗ trợ trong suốt hành trình này. Tôi thực sự trân trọng tất cả những gì mọi người đã làm.\n\nChúc Aurora tiếp tục thành công, và tôi hy vọng chúng ta sẽ có cơ hội hợp tác lần nữa trong tương lai."
+    },
+    "review-8": {
+      "excerpt_vi": "Một nơi tuyệt vời, Nick thật sự là một người đáng quý, sản phẩm tuyệt đẹp, và anh ấy có niềm đam mê chân thành với nghề. Chắc chắn sẽ quay lại khi có dịp và sẽ giới thiệu cho tất cả mọi người.",
+      "text_vi": "Một nơi tuyệt vời, Nick thật sự là một người đáng quý, sản phẩm tuyệt đẹp, và anh ấy có niềm đam mê chân thành với nghề. Chắc chắn sẽ quay lại khi có dịp và sẽ giới thiệu cho tất cả mọi người."
+    },
+    "review-11": {
+      "excerpt_vi": "Dịch vụ tuyệt vời, hoàn thành nhanh. Ivy và đội ngũ thật xuất sắc. Những chiếc nhẫn đặt làm ấn tượng, giá tốt và dịch vụ chất lượng.",
+      "text_vi": "Dịch vụ tuyệt vời, hoàn thành nhanh. Ivy và đội ngũ thật xuất sắc. Những chiếc nhẫn đặt làm ấn tượng, giá tốt và dịch vụ chất lượng."
+    },
+    "review-12": {
+      "excerpt_vi": "Rất hữu ích trong việc giúp tôi hiểu về lựa chọn đá và màu sắc, cũng như những phương án phù hợp với ý tưởng của tôi. Dù chúng tôi tìm nguồn đá ở nơi khác, họ vẫn làm việc rất tuyệt vời và chắc chắn tôi sẽ mua một món ở đó khi có thể.",
+      "text_vi": "Rất hữu ích trong việc giúp tôi hiểu về lựa chọn đá và màu sắc, cũng như những phương án phù hợp với ý tưởng của tôi. Dù chúng tôi tìm nguồn đá ở nơi khác, họ vẫn làm việc rất tuyệt vời và chắc chắn tôi sẽ mua một món ở đó khi có thể."
+    },
+    "review-13": {
+      "excerpt_vi": "Tiệm kim hoàn boutique ở Thảo Điền này thật sự là một phát hiện. Họ sẽ làm nhẫn theo yêu cầu và tư vấn, báo giá tốt nhất cho bạn. Tôi đã mua một chiếc nhẫn có sẵn tại cửa hàng và đặt làm thêm một chiếc nữa, và tôi yêu cả hai. Rất khuyên dùng.",
+      "text_vi": "Tiệm kim hoàn boutique ở Thảo Điền này thật sự là một phát hiện. Họ sẽ làm nhẫn theo yêu cầu và tư vấn, báo giá tốt nhất cho bạn. Tôi đã mua một chiếc nhẫn có sẵn tại cửa hàng và đặt làm thêm một chiếc nữa, và tôi yêu cả hai. Rất khuyên dùng."
+    },
+    "review-14": {
+      "excerpt_vi": "Cảm ơn Nick và đội ngũ Aurora đã chế tác chiếc nhẫn của tôi với sự tỉ mỉ đến từng chi tiết. Tôi chỉ gặp Nick một lần ngắn ngủi tại Việt Nam, nhưng việc trao đổi từ Anh rất suôn sẻ và dễ dàng. Chiếc nhẫn vượt xa mọi mong đợi của tôi.",
+      "text_vi": "Cảm ơn Nick và đội ngũ Aurora đã chế tác chiếc nhẫn của tôi với sự tỉ mỉ đến từng chi tiết. Tôi chỉ gặp Nick một lần ngắn ngủi tại Việt Nam, nhưng việc trao đổi từ Anh rất suôn sẻ và dễ dàng.\n\nChiếc nhẫn vượt xa mọi mong đợi của tôi. Tôi rất hài lòng với thành phẩm và sẵn lòng giới thiệu Aurora cho bất kỳ ai đang tìm một món trang sức đặt làm riêng."
+    },
+    "review-17": {
+      "excerpt_vi": "Trải nghiệm gần đây của tôi tại Aurora Saigon thật tuyệt vời. Ivy hỗ trợ tôi ngay từ đầu, từng bước một. Tôi đã tìm hiểu trước khi đến, nhưng việc có thêm ý kiến và góc nhìn của cô ấy về một số…",
+      "text_vi": "Trải nghiệm gần đây của tôi tại Aurora Saigon thật tuyệt vời. Ivy hỗ trợ tôi ngay từ đầu, từng bước một. Tôi đã tìm hiểu trước khi đến, nhưng việc có thêm ý kiến và góc nhìn của cô ấy về một số câu hỏi của tôi thật sự rất đáng quý. Tôi rất trân trọng sự minh bạch trong suốt quá trình và sẽ rất khuyên dùng doanh nghiệp này cho tất cả mọi người."
+    },
+    "review-18": {
+      "excerpt_vi": "Một trải nghiệm tuyệt vời và liền mạch. Ivy luôn hỗ trợ và kiên nhẫn trong suốt quá trình thiết kế chiếc nhẫn. Thành phẩm đúng như hình dung và tôi không thể hài lòng hơn. Cảm ơn sự hỗ trợ.",
+      "text_vi": "Một trải nghiệm tuyệt vời và liền mạch. Ivy luôn hỗ trợ và kiên nhẫn trong suốt quá trình thiết kế chiếc nhẫn. Thành phẩm đúng như hình dung và tôi không thể hài lòng hơn. Cảm ơn sự hỗ trợ."
+    },
+    "review-21": {
+      "excerpt_vi": "Trải nghiệm tuyệt nhất. Từ lần ghé thăm đầu tiên cho đến dịch vụ hậu mãi. Rất đáng giới thiệu nếu bạn đang tìm một chiếc nhẫn độc nhất của riêng mình.",
+      "text_vi": "Trải nghiệm tuyệt nhất. Từ lần ghé thăm đầu tiên cho đến dịch vụ hậu mãi. Rất đáng giới thiệu nếu bạn đang tìm một chiếc nhẫn độc nhất của riêng mình."
+    }
+  }
+}

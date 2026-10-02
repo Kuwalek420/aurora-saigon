@@ -1,0 +1,208 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Aurora Saigon home" [ref=e4]:
+        - img "Aurora Saigon" [ref=e5]
+      - navigation "Primary" [ref=e7]:
+        - button "Ready-to-ship" [ref=e8]
+        - button "Engagement Rings" [ref=e9]
+        - button "Wedding Rings" [ref=e10]
+        - button "Craftsmanship" [ref=e11]
+        - button "Showroom" [ref=e12]
+      - generic [ref=e13]:
+        - group "Currency" [ref=e14]:
+          - button "VND" [pressed] [ref=e15]
+          - button "USD" [ref=e16]
+          - button "EUR" [ref=e17]
+        - button "Open cart, 0 items" [ref=e18]:
+          - text: Bag
+          - generic [ref=e19]: "0"
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - heading [level=1] [ref=e23]:
+        - text: Shipping &
+        - emphasis [ref=e24]: returns
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - heading "Shipping & delivery" [level=2] [ref=e27]
+          - generic [ref=e28]:
+            - heading "Shipping Destinations" [level=2] [ref=e29]
+            - paragraph [ref=e30]: Aurora Saigon ships internationally to most countries worldwide.
+            - heading "Shipping Costs" [level=2] [ref=e31]
+            - paragraph [ref=e32]:
+              - strong [ref=e33]: Free international shipping
+              - text: is offered on all orders.
+              - strong [ref=e34]: No minimum purchase
+              - text: is required. Silver jewellery is shipped
+              - strong [ref=e35]: within Vietnam only
+              - text: . Gold, lab-grown diamond, and fine jewellery pieces are available for international shipping.
+            - heading "Order Processing Time" [level=2] [ref=e36]
+            - paragraph [ref=e37]:
+              - text: Ready-to-ship items are typically processed within
+              - strong [ref=e38]: 1–3 business days
+              - text: after payment confirmation.
+            - paragraph [ref=e39]:
+              - text: Made-to-order, custom, or bespoke jewellery requires additional production time and is typically completed within
+              - strong [ref=e40]: 20 business days
+              - text: before dispatch.
+            - paragraph [ref=e41]: Estimated production timelines are communicated at the time of purchase or order confirmation.
+            - heading "Estimated Delivery Times" [level=2] [ref=e42]
+            - paragraph [ref=e43]: "Delivery times vary by destination and carrier. Typical delivery timeframes are:"
+            - list [ref=e44]:
+              - listitem [ref=e45]:
+                - strong [ref=e46]: "International orders:"
+                - text: approximately
+                - strong [ref=e47]: 5–10 business days
+                - text: after dispatch
+            - heading "Taxes, Duties & Import Charges" [level=2] [ref=e48]
+            - paragraph [ref=e49]:
+              - text: All orders are shipped
+              - strong [ref=e50]: Delivered Duties Paid
+              - text: (DDP Delivery Duty Paid).
+            - paragraph [ref=e51]: Any applicable taxes, VAT, GST, and customs duties are calculated based on the destination country and added at checkout.
+            - paragraph [ref=e52]:
+              - text: These charges are collected at the time of purchase, so
+              - strong [ref=e53]: no additional taxes or duties are payable upon delivery
+              - text: .
+            - heading "Customs & Clearance" [level=2] [ref=e54]
+            - paragraph [ref=e55]: As duties and taxes are prepaid, shipments typically clear customs without additional payment required from the customer. However, customs authorities may occasionally delay shipments for inspection, which is outside of our control.
+            - heading "Tracking & Delivery" [level=2] [ref=e56]
+            - paragraph [ref=e57]:
+              - strong [ref=e58]: All shipments include tracking
+              - text: . Tracking details will be provided once your order has been dispatched.
+        - generic [ref=e59]:
+          - heading "From our boutique, and returns" [level=2] [ref=e60]
+          - generic [ref=e61]:
+            - paragraph [ref=e62]: Aurora Saigon is committed to providing a refined and seamless shopping experience. Each piece is carefully prepared and presented to ensure it reaches you in perfect condition.
+            - heading "Shipping" [level=4] [ref=e63]
+            - paragraph [ref=e64]: All ready-to-ship pieces are carefully prepared and dispatched from our boutique.
+            - heading "Processing Time" [level=4] [ref=e65]
+            - paragraph [ref=e66]:
+              - text: Orders are typically processed within
+              - strong [ref=e67]: 1–3 business days
+              - text: . During peak periods, processing times may be slightly extended.
+            - heading "Delivery Times" [level=4] [ref=e68]
+            - paragraph [ref=e69]:
+              - strong [ref=e70]: "Vietnam:"
+              - text: 1–3 business days
+            - paragraph [ref=e71]:
+              - strong [ref=e72]: "International (e.g. Australia):"
+              - text: 5–10 business days
+            - paragraph [ref=e73]: Once your order has been dispatched, you will receive a tracking number to follow its journey.
+            - heading "Duties & Taxes" [level=4] [ref=e74]
+            - paragraph [ref=e75]: For international orders, any applicable customs duties or taxes are the responsibility of the customer unless otherwise stated at checkout.
+            - heading "Returns" [level=4] [ref=e76]
+            - paragraph [ref=e77]: If you are not entirely satisfied with your purchase, we are happy to assist with returns for ready-to-ship items.
+            - heading "Return Window" [level=4] [ref=e78]
+            - paragraph [ref=e79]:
+              - text: You may request a return within
+              - strong [ref=e80]: 30 days of delivery
+              - text: .
+            - heading "Eligibility" [level=4] [ref=e81]
+            - list [ref=e82]:
+              - listitem [ref=e83]: Items must be unworn and in original condition
+              - listitem [ref=e84]: All original packaging, box, pouch, and product tags must be included
+              - listitem [ref=e85]: Any certificates or accompanying documentation must be returned if applicable
+            - heading "Non-Returnable Items" [level=4] [ref=e86]
+            - list [ref=e87]:
+              - listitem [ref=e88]: Earrings (for hygiene reasons)
+              - listitem [ref=e89]: Resized pieces
+              - listitem [ref=e90]: Custom or made-to-order items
+              - listitem [ref=e91]: Engraved items
+            - heading "Inspection Process" [level=4] [ref=e92]
+            - paragraph [ref=e93]: All returned items undergo a careful quality inspection by our team. Aurora Saigon reserves the right to decline returns if items show signs of wear, damage, alteration, or are not returned in their original condition.
+            - heading "Refunds" [level=4] [ref=e94]
+            - paragraph [ref=e95]: Once your return has been received and approved, you will be notified accordingly.
+            - paragraph [ref=e96]:
+              - text: Refunds are issued to the
+              - strong [ref=e97]: original payment method
+              - text: . Please allow
+              - strong [ref=e98]: 5–10 business days
+              - text: for processing after approval.
+            - paragraph [ref=e99]: Original shipping fees are non-refundable.
+            - heading "Return Shipping" [level=4] [ref=e100]
+            - paragraph [ref=e101]:
+              - text: Customers are responsible for return shipping costs. We recommend using a
+              - strong [ref=e102]: tracked and insured service
+              - text: ", as Aurora Saigon cannot be responsible for items lost in transit."
+            - heading "Exchanges" [level=4] [ref=e103]
+            - paragraph [ref=e104]: We are happy to offer exchanges for eligible items, subject to product availability. Customers are responsible for return shipping costs. If you need assistance selecting an alternative piece, our team is here to help.
+            - heading "How to Request a Return" [level=4] [ref=e105]
+            - paragraph [ref=e106]: "To initiate a return or exchange, please contact us at:"
+            - paragraph [ref=e107]: support@aurorasaigon.com
+            - paragraph [ref=e108]: Please include your order number and reason for return. Our team will guide you through the next steps.
+            - heading "Order Cancellations & Changes" [level=4] [ref=e109]
+            - paragraph [ref=e110]: We aim to accommodate order changes or cancellations wherever possible. However, once an order has been dispatched, we are unable to make modifications.
+            - paragraph [ref=e111]: If you require assistance before your order is processed, please contact us as soon as possible.
+  - contentinfo [ref=e112]:
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=e115]
+        - paragraph [ref=e116]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=e117]:
+          - generic [ref=e118]: Email address
+          - textbox "Email address" [ref=e119]:
+            - /placeholder: Your email address
+          - button "Join" [ref=e120]
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - img "Aurora Saigon" [ref=e123]
+          - generic [ref=e124]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=e125]:
+            - link "sales@aurorasaigon.com" [ref=e126] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=e127] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=e128]:
+            - listitem [ref=e129]:
+              - link "Facebook" [ref=e130] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=e133]:
+              - link "Instagram" [ref=e134] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=e139]:
+              - link "YouTube" [ref=e140] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=e144]:
+          - heading "All about Aurora" [level=2] [ref=e145]
+          - list [ref=e146]:
+            - listitem [ref=e147]:
+              - link "About Aurora Saigon" [ref=e148] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e149]:
+              - link "5 Reasons Why" [ref=e150] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=e151]:
+              - link "Contact Us" [ref=e152] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=e153]:
+          - heading "Guides" [level=2] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - link "Ring Size Guide" [ref=e157] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=e158]:
+              - link "Journal" [ref=e159] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=e160]:
+          - heading "Support" [level=2] [ref=e161]
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - link "Shipping & Returns" [ref=e164] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=e165]:
+              - link "Payment Methods" [ref=e166] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=e167]:
+              - link "Privacy Policy" [ref=e168] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e169]:
+              - link "Warranty Policy" [ref=e170] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=e171]:
+              - link "Customer Supplied Gemstone Policy" [ref=e172] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=e173]:
+              - link "FAQ" [ref=e174] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=e175]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored

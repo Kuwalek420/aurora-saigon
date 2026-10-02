@@ -1,0 +1,156 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Aurora Saigon home" [ref=e4]:
+        - img "Aurora Saigon" [ref=e5]
+      - navigation "Primary" [ref=e7]:
+        - button "Ready-to-ship" [ref=e8]
+        - button "Engagement Rings" [ref=e9]
+        - button "Wedding Rings" [ref=e10]
+        - button "Craftsmanship" [ref=e11]
+        - link "Showroom" [ref=e12] [cursor=pointer]:
+          - /url: /showroom
+      - generic [ref=e13]:
+        - group "Currency" [ref=e14]:
+          - button "VND" [pressed] [ref=e15]
+          - button "USD" [ref=e16]
+          - button "EUR" [ref=e17]
+        - button "Open cart, 0 items" [ref=e18]:
+          - text: Bag
+          - generic [ref=e19]: "0"
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - heading [level=1] [ref=e22]:
+        - text: The Thảo Điền Atelier —
+        - emphasis [ref=e23]: Private Fine Jewellery Viewing
+      - paragraph [ref=e24]: Experience our bespoke engagement rings and fine jewellery in person. Located in the heart of Thảo Điền, Ho Chi Minh City.
+      - generic [ref=e25]:
+        - figure [ref=e26]:
+          - 'img "Inside the Thảo Điền Atelier: an arched, lit wall niche with the Aurora mark, display shelves and a seating area" [ref=e27]'
+        - figure [ref=e28]:
+          - img "The atelier seen from the street, with display cases and the lit Aurora niche" [ref=e29]
+        - figure [ref=e30]:
+          - img "A gemstone examined through a loupe at a consultation desk beside a GIA display" [ref=e31]
+        - figure [ref=e32]:
+          - 'img "Ring sizing at the atelier: a sizing gauge and a tray of stones on a wooden desk" [ref=e33]'
+      - generic [ref=e34]:
+        - region [ref=e35]:
+          - heading "Visits & hours" [level=2] [ref=e36]
+          - generic [ref=e37]:
+            - generic [ref=e38]:
+              - term [ref=e39]: Address
+              - definition [ref=e40]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+            - generic [ref=e41]:
+              - term [ref=e42]: Hours
+              - definition [ref=e43]: "Monday – Sunday: 10:30 AM – 7:30 PM"
+            - generic [ref=e44]:
+              - term [ref=e45]: Phone & email
+              - definition [ref=e46]:
+                - link "+84 344 700 879" [ref=e47] [cursor=pointer]:
+                  - /url: tel:+84344700879
+                - text: "|"
+                - link "sales@aurorasaigon.com" [ref=e48] [cursor=pointer]:
+                  - /url: mailto:sales@aurorasaigon.com
+          - link "Open in Google Maps" [ref=e49] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=94%20Xu%C3%A2n%20Th%E1%BB%A7y%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%2C%20Qu%E1%BA%ADn%202%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2070000%2C%20Vietnam
+        - region [ref=e52]:
+          - heading "Book a Private Appointment" [level=2] [ref=e53]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Name
+              - textbox "Name" [ref=e58]
+            - generic [ref=e59]:
+              - generic [ref=e60]: Email
+              - textbox "Email" [ref=e61]
+            - generic [ref=e62]:
+              - generic [ref=e63]:
+                - generic [ref=e64]: Preferred date
+                - textbox "Preferred date" [ref=e65]
+              - generic [ref=e66]:
+                - generic [ref=e67]: Preferred time
+                - textbox "Preferred time" [ref=e68]
+            - generic [ref=e69]:
+              - generic [ref=e70]: Interest
+              - combobox "Interest" [ref=e71]:
+                - option "Select an interest" [disabled] [selected]
+                - option "Engagement Ring"
+                - option "Custom Design"
+                - option "Wedding Bands"
+                - option "Ready to Ship Pick-up"
+            - button "Confirm Appointment" [ref=e72]
+            - paragraph [ref=e73]: "Demo storefront: nothing you enter here is sent or stored."
+  - contentinfo [ref=e74]:
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - heading "Sign Up For Newsletter & Enjoy 10% Off Silver Jewellery" [level=2] [ref=e77]
+        - paragraph [ref=e78]: Be the first to get the latest news about trends, promotions, and much more!
+        - generic [ref=e79]:
+          - generic [ref=e80]: Email address
+          - textbox "Email address" [ref=e81]:
+            - /placeholder: Your email address
+          - button "Join" [ref=e82]
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - img "Aurora Saigon" [ref=e85]
+          - generic [ref=e86]: 94 Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh 70000, Vietnam
+          - paragraph [ref=e87]:
+            - link "sales@aurorasaigon.com" [ref=e88] [cursor=pointer]:
+              - /url: mailto:sales@aurorasaigon.com
+            - link "+84 344 700 879" [ref=e89] [cursor=pointer]:
+              - /url: tel:+84344700879
+          - list [ref=e90]:
+            - listitem [ref=e91]:
+              - link "Facebook" [ref=e92] [cursor=pointer]:
+                - /url: https://www.facebook.com/aurorasaigonjewelry
+            - listitem [ref=e95]:
+              - link "Instagram" [ref=e96] [cursor=pointer]:
+                - /url: https://www.instagram.com/aurorasaigonjewelry/
+            - listitem [ref=e101]:
+              - link "YouTube" [ref=e102] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aurorasaigonjewelry
+        - navigation "All about Aurora" [ref=e106]:
+          - heading "All about Aurora" [level=2] [ref=e107]
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link "About Aurora Saigon" [ref=e110] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e111]:
+              - link "Visit Our Showroom" [ref=e112] [cursor=pointer]:
+                - /url: /showroom
+            - listitem [ref=e113]:
+              - link "5 Reasons Why" [ref=e114] [cursor=pointer]:
+                - /url: /5-reasons-why
+            - listitem [ref=e115]:
+              - link "Contact Us" [ref=e116] [cursor=pointer]:
+                - /url: /contact
+        - navigation "Guides" [ref=e117]:
+          - heading "Guides" [level=2] [ref=e118]
+          - list [ref=e119]:
+            - listitem [ref=e120]:
+              - link "Ring Size Guide" [ref=e121] [cursor=pointer]:
+                - /url: /ring-size-guide
+            - listitem [ref=e122]:
+              - link "Journal" [ref=e123] [cursor=pointer]:
+                - /url: /blog
+        - navigation "Support" [ref=e124]:
+          - heading "Support" [level=2] [ref=e125]
+          - list [ref=e126]:
+            - listitem [ref=e127]:
+              - link "Shipping & Returns" [ref=e128] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=e129]:
+              - link "Payment Methods" [ref=e130] [cursor=pointer]:
+                - /url: /payment-methods
+            - listitem [ref=e131]:
+              - link "Privacy Policy" [ref=e132] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e133]:
+              - link "Warranty Policy" [ref=e134] [cursor=pointer]:
+                - /url: /lifetime-warranty
+            - listitem [ref=e135]:
+              - link "Customer Supplied Gemstone Policy" [ref=e136] [cursor=pointer]:
+                - /url: /gemstone-policy
+            - listitem [ref=e137]:
+              - link "FAQ" [ref=e138] [cursor=pointer]:
+                - /url: /faq
+      - paragraph [ref=e139]: aurorasaigon.com · Demo storefront · Payments are simulated · Nothing you enter here is sent or stored
