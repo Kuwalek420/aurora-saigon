@@ -79,7 +79,8 @@ export function unitPrice(p: Product, metal: MetalKey, karat: number = DEFAULT_K
 export const formatMoney = formatMoneyWith;
 
 export const PRICE_CEILING = 500_000_000;
-export const DEFAULT_FILTERS: Filters = { category: "All", shape: "All", metal: "All", gemstone: "All", setting: "All", band: "All", gender: "All", style: "All", price: [0, PRICE_CEILING] };
+// the catalogue opens on Ready to Ship everywhere (home page and /catalog); the "All Pieces" tab sets "All" explicitly
+export const DEFAULT_FILTERS: Filters = { category: "Ready to Ship", shape: "All", metal: "All", gemstone: "All", setting: "All", band: "All", gender: "All", style: "All", price: [0, PRICE_CEILING] };
 
 interface State {
   items: CartItem[];

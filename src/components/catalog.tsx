@@ -54,11 +54,8 @@ export default function Catalog({ products: served, asOf }: { products: Product[
   useEffect(() => {
     if (own.current === query) { own.current = null; return; }
     const category = categoryFromSlug(params.get("category"));
-    // /catalog on its own opens on Ready to Ship (unless filters were already chosen, e.g. from a mega-menu link)
-    if (!category) {
-      if (pathname === "/catalog" && useStore.getState().filters.category === "All") applyFilters({ category: READY });
-      return;
-    }
+    if (!category) return; // no ?category=: the store default (Ready to Ship) already applies
+
     // wedding rings open on the Women tab unless the link names a gender
     const gender = category === "Wedding Rings" ? (params.get("gender") ? genderFromParam(params.get("gender")) : "Women") : "All";
     const wedding = category === "Wedding Rings";
