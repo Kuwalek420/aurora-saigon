@@ -91,6 +91,9 @@ interface State {
   filters: Filters;
   /** Pieces changed in Supabase since the page was rendered (id -> fresh product); overrides what the server sent. */
   live: Record<string, Product | null>;
+  /** Pieces just bought in this browser: shown as sold at once, before the page data catches up. */
+  sold: Record<string, true>;
+  markSold: (ids: string[]) => void;
   /** Changed pieces replace the server copy; archived ones (removed ids) are stored as null and drop out of the grid. */
   upsertLive: (products: Product[], removedIds?: string[]) => void;
   /** Fullscreen product inspection view. */
@@ -133,6 +136,8 @@ export const useStore = create<State>()(
       filters: DEFAULT_FILTERS,
       pending: null,
       live: {},
+      sold: {},
+      markSold: (ids) => set((s) => ({ sold: { ...s.sold, ...Object.fromEntries(ids.map((id) => [id, true as const])) } })),
       upsertLive: (products, removedIds = []) => set((s) => ({ live: { ...s.live, ...Object.fromEntries(products.map((p) => [p.id, p])), ...Object.fromEntries(removedIds.map((id) => [id, null])) } })),
       detail: null,
       openDetail: (product, metal) => set({ detail: { product, metal } }),

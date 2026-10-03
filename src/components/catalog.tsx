@@ -33,7 +33,7 @@ function heading(category: string, gender: string, n: number): [string, string, 
 }
 
 export default function Catalog({ products: served, asOf }: { products: Product[]; asOf: string | null }) {
-  const { filters, setFilter, applyFilters, live } = useStore();
+  const { filters, setFilter, applyFilters, live, sold } = useStore();
   const t = useT();
   const params = useSearchParams();
   const pathname = usePathname();
@@ -44,8 +44,8 @@ export default function Catalog({ products: served, asOf }: { products: Product[
   const products = useMemo(() => {
     const ids = new Set(served.map((p) => p.id));
     const base = served.flatMap((p) => { const l = live[p.id]; return l === null ? [] : [l ?? p]; }); // null = archived since the page rendered
-    return [...base, ...Object.values(live).filter((p): p is Product => !!p && !ids.has(p.id))];
-  }, [served, live]);
+    return [...base, ...Object.values(live).filter((p): p is Product => !!p && !ids.has(p.id))].map((p) => (sold[p.id] ? { ...p, isSold: true } : p));
+  }, [served, live, sold]);
   const [shown, setShown] = useState(PAGE);
   const readyCount = useMemo(() => products.filter((p) => p.readyToShip && !p.isSold).length, [products]);
 
@@ -54,7 +54,11 @@ export default function Catalog({ products: served, asOf }: { products: Product[
   useEffect(() => {
     if (own.current === query) { own.current = null; return; }
     const category = categoryFromSlug(params.get("category"));
-    if (!category) return;
+    // /catalog on its own opens on Ready to Ship (unless filters were already chosen, e.g. from a mega-menu link)
+    if (!category) {
+      if (pathname === "/catalog" && useStore.getState().filters.category === "All") applyFilters({ category: READY });
+      return;
+    }
     // wedding rings open on the Women tab unless the link names a gender
     const gender = category === "Wedding Rings" ? (params.get("gender") ? genderFromParam(params.get("gender")) : "Women") : "All";
     const wedding = category === "Wedding Rings";

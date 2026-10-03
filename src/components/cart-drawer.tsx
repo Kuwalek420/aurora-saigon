@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
+import { useRouter } from "next/navigation";
 import QRCode from "qrcode";
 import { siteConfig } from "@/data/site-config";
 import { chainLabel, formatMoney, METAL_LABEL, subtitle, unitPrice, useStore } from "@/lib/store";
@@ -10,11 +11,12 @@ import { pipeSubtitleFor, productDescription, productName } from "@/lib/localize
 
 type Pay = null | "vietqr" | "card";
 
-function PaymentModal({ mode, totalVnd, onClose, onDone }: { mode: Exclude<Pay, null>; totalVnd: number; onClose: () => void; onDone: () => void }) {
+function PaymentModal({ mode, totalVnd, onClose, onDone, onPaid }: { mode: Exclude<Pay, null>; totalVnd: number; onClose: () => void; onDone: () => void; onPaid: () => void }) {
   const currency = useStore((s) => s.currency);
   const t = useT();
   const [qr, setQr] = useState("");
   const [paid, setPaid] = useState(false);
+  const finish = () => { setPaid(true); onPaid(); }; // the demo purchase is complete: the bag's pieces are marked sold
   const ref = useMemo(() => "AS" + Math.random().toString(36).slice(2, 8).toUpperCase(), []);
 
   useEffect(() => {
@@ -53,11 +55,11 @@ function PaymentModal({ mode, totalVnd, onClose, onDone }: { mode: Exclude<Pay, 
             <p className="mt-5 border border-champagne/40 bg-champagne/10 p-3 text-xs text-obsidian/65">{t("Demo mode: this QR is a placeholder. Connect your bank’s VietQR/NAPAS merchant account to generate live codes.")}</p>
             <div className="mt-6 flex gap-3">
               <button onClick={onClose} className="eyebrow flex-1 border border-charcoal/25 py-3.5">{t("Back")}</button>
-              <button onClick={() => setPaid(true)} className="eyebrow flex-1 bg-obsidian py-3.5 text-alabaster hover:bg-champagne hover:text-obsidian">{t("I’ve paid (demo)")}</button>
+              <button onClick={finish} className="eyebrow flex-1 bg-obsidian py-3.5 text-alabaster hover:bg-champagne hover:text-obsidian">{t("I’ve paid (demo)")}</button>
             </div>
           </>
         ) : (
-          <form onSubmit={(e) => { e.preventDefault(); setPaid(true); }}>
+          <form onSubmit={(e) => { e.preventDefault(); finish(); }}>
             <h3 className="font-display text-3xl font-light">{t("Card payment")}</h3>
             <div className="mt-6 space-y-4">
               {[["Name on card", "name", "cc-name"], ["Card number", "num", "cc-number"]].map(([l, n, a]) => (
@@ -144,7 +146,17 @@ function SizeStep() {
 }
 
 export default function CartDrawer() {
-  const { items, drawerOpen, closeDrawer, setQty, removeItem, clearCart, currency, pending, lang } = useStore();
+  const { items, drawerOpen, closeDrawer, setQty, removeItem, clearCart, currency, pending, lang, markSold } = useStore();
+  const router = useRouter();
+  /** Tells the server which pieces were bought; the ones it marks sold disappear from Ready to Ship here at once. */
+  const completeDemoPurchase = async () => {
+    const ids = [...new Set(items.map((i) => i.productId))];
+    try {
+      const r = await fetch("/api/checkout", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ ids }) });
+      const d = (await r.json()) as { sold?: string[] };
+      if (d.sold?.length) { markSold(d.sold); router.refresh(); }
+    } catch { /* the demo purchase itself never depends on this call */ }
+  };
   const t = useT();
   const [pay, setPay] = useState<Pay>(null);
   const total = items.reduce((n, i) => n + i.unitVnd * i.qty, 0);
@@ -223,7 +235,7 @@ export default function CartDrawer() {
         )}
       </AnimatePresence>
       <AnimatePresence>
-        {pay && <PaymentModal key={pay} mode={pay} totalVnd={total} onClose={() => setPay(null)} onDone={() => { setPay(null); clearCart(); closeDrawer(); }} />}
+        {pay && <PaymentModal key={pay} mode={pay} totalVnd={total} onClose={() => setPay(null)} onDone={() => { setPay(null); clearCart(); closeDrawer(); }} onPaid={completeDemoPurchase} />}
       </AnimatePresence>
     </>
   );
